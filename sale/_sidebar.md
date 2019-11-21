@@ -1,7 +1,13 @@
-- Bizfly Chat - Booking
+- [**Giới thiệu**](sale/README.md)
+- Đăng nhập vào hệ thống
+	 -  [Có tài khoản VietID](sale/cotkvietid.md) 
+	 -  [Chưa có tài khoản VietID](sale/chuacotkvietid.md) 
+ 
+ 
 
-  - [Bắt Đầu](sale/quickstart.md)
-  - [API Tích Hợp](sale/api-doc.md)
-  - [Gửi Xác Nhận Đặt Phòng](sale/confirm-booking.md)
+
+ 
+
+
  
 

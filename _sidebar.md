@@ -1,6 +1,7 @@
 - Documentations bizfly
   - [Chat bizfly](chat/)
   - [Coupon bizfly](coupon/)
+  - [Restaurant bizfly](nhahang/)
   - [Billing bizfly](pay/)
   - [Ship bizfly](ship/)
   - [Sale bizfly](sale/)
