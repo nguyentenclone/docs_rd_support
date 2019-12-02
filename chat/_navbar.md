@@ -1,3 +1,0 @@
-- Translations
-  - [English](/chat/)
-  - [Tiếng Việt ](/chat/vi/)
