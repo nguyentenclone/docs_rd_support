@@ -16,6 +16,7 @@ Màn hình mặc định sau khi tạo xong nhà hàng sẽ như sau:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5386097_10.png)
 
+
  **3.1. Cài đặt chung**
 
 Cài đặt các thông tin của nhà hàng bao gồm các thông tin:

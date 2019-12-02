@@ -1,7 +1,6 @@
  **8. Quản lý Chat**
 
 Sau khi kết nối thành công fanpage với hệ thống. Hệ thống sẽ tự động đồng bộ các tin nhắn và commnent của khách hàng đã để lại trên fanpage. Nhân viên hỗ trợ có thể trực tiếp theo dõi và trả lời trực tiếp các tin nhắn và comment tới khách hàng mà không cần phải vào facebook Fanpage.
-<![endif]-->
 
  **8.1. Cài đặt chung**
 
@@ -27,7 +26,7 @@ Tính năng lọc cuộc hội thoại hỗ trợ người quản trị fanpage:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384399_102.png)
 
-Ví dụ: Chatbot cho fanpage Thích café, bạn chỉ muốn nhận tin nhắn của khách hàng liên quan đến kịch bản chào, bạn có thể chọn kịch bản chào => active. Như vậy, khi khách hàng nhắn tin những nội dung không liên quân đến kịch bản chào, tin nhắn đó sẽ không đổ về hệ thống. TRánh được những nội dung rác đối với những fanpage có lượng tương tác lớn.
+Ví dụ: Chatbot cho fanpage Thích café, bạn chỉ muốn nhận tin nhắn của khách hàng liên quan đến kịch bản chào, bạn có thể chọn kịch bản chào => active. Như vậy, khi khách hàng nhắn tin những nội dung không liên quân đến kịch bản chào, tin nhắn đó sẽ không đổ về hệ thống. Tránh được những nội dung rác đối với những fanpage có lượng tương tác lớn.
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384400_103.png)
 

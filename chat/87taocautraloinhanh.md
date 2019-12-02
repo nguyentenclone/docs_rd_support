@@ -2,6 +2,8 @@
 
 Bạn có thể tạo những câu trả lời nhanh thường dùng, khi cần trả lời chỉ việc chọn là có thể gửi đi, sẽ không mất thời gian nhập đi nhập lại 1 nội dung giống nhau.
 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/21/5387651_127.png)
+
 Để tạo ra các câu hỏi nhanh, bạn thao tác theo các bước sau:
 
 - Bước 1: Trong phần trả lời tin nhắn với khách hàng, chọn “Mẫu”

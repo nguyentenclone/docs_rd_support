@@ -6,6 +6,7 @@
 - [**5.	Thêm mới thực đơn** ](nhahang/5addnewtd.md)
 - [**6.	Thêm mới món ăn** ](nhahang/6addmon.md)
 - [**7.	Quản lý order món ăn** ](nhahang/7qlyorder.md)
+- [**8.	Đặt bàn và đặt món online** ](nhahang/orderol.md)
 
  
 
