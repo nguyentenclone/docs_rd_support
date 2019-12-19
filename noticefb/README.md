@@ -7,7 +7,7 @@ Theo thông tin mới nhất thì từ 19/12/2018 - Đến hết 31/12/2018, t�
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/12/18/5421421_1.png)
 
-Vì vậy, để quá trình gửi tin nhắn và sử dụng chatbot Bizflychat gửi tin nhắn hàng loạt diễn ra thuận lợi, khách hàng nên tiến hàng gửi tin nhắn xin cấp quyền đến Facebook trước ngày 31/12/2019.
+Vì vậy, để quá trình gửi tin nhắn và sử dụng chatbot Bizflychat gửi tin nhắn hàng loạt diễn ra thuận lợi, khách hàng nên tiến hàng gửi tin nhắn xin cấp quyền đến Facebook.
 
 **2. Cách thực hiện**
 
@@ -62,18 +62,6 @@ _– “Nhắc nhở: Bạn ơi, 9h rồi, đi ngủ sớm thôi nào!”_
 Trạng thái màn hình sau khi gửi xét duyệt:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/12/18/5421452_8.png)
-
-**Bước 7: Xin quyền xưng hô giới tính khi trả lời tự động khách hàng**
-
-Bấm vào Yêu cầu:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/12/18/5421461_9.png)
-
-Bạn nhập vào nội dung yêu cầu như sau:
-
-*Chúng tôi sử dụng quyền này để chat bot có thể sử dụng đại từ xưng hô đúng khi trả lời tin nhắn khách hàng*
-
-Xong bấm **Gửi để xét duyệt**.
 
 Bạn sẽ phải chờ 5-7 ngày để nhận kết quả. 
 
