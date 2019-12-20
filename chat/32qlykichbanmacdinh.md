@@ -17,3 +17,5 @@ Thiết lập thời gian gửi:
 - Delay : Khoảng thời gian gửi lại kịch bản khi khách nhắn tin tiếp theo
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383745_33.png)
+
+[Xem video HDSD](https://youtu.be/_jzMkq0pl14?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Tạo và dùng thử Kịch bản mặc định.

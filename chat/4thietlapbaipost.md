@@ -34,3 +34,5 @@ Cách lấy ID bài viết _(thường là những bài viết quảng cáo):_
 
 Bước 3: Sau khi thiết lập các chế độ, click vào nút bật ở góc bên phải màn hình và ấn vào **Cập nhật**
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383884_53.png)
+
+[Xem video HDSD](https://youtu.be/2izLao1EcZc?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Tạo và dùng thử Thiết lập bài viết.

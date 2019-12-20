@@ -25,3 +25,7 @@ Kết quả thu được:
 
 Những user có trong danh sách sẽ nhận được tin nhắn:
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383822_42.png)
+
+[Xem video HDSD](https://youtu.be/2_AWW2NjB54?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Tạo và dùng thử Kịch bản hẹn giờ.
+
+

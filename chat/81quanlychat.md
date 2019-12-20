@@ -64,3 +64,5 @@ Phần đánh giá khi người quản trị muốn đóng 1 cuộc hội thoạ
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384415_108.png)
 
 Người quản trị có thể chỉnh sửa: Lời cảm ơn, thêm lựa chọn cho khách hàng đánh giá và chọn kịch bản tiếp theo để gửi lại cho khách hàng khi đã đánh giá.
+
+[Xem video HDSD](https://youtu.be/dfv9BFAQ9Xw?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Quản lý chat.

@@ -117,3 +117,5 @@ Bước 2: Tạo mới audience
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383974_87.png)
 
 Bước 3: Thêm mới user vào audience
+
+[Xem video HDSD](https://youtu.be/msl00WtUfYQ?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7)

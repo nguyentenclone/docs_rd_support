@@ -70,3 +70,7 @@ Thêm nội dung gửi SMS => Save:
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383916_64.png)
 
 Sau khi thêm nội dung gửi SMS và Email thành công => Click Lưu => Click Gửi
+
+[Xem video HDSD](https://youtu.be/0HVWP63_8IM?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Tạo kho quà và dùng thử.
+
+

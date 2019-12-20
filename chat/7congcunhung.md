@@ -61,3 +61,5 @@ Giao diện hiển thị trên website:
 
 Lưu ý: Bạn có thể thêm các URL và phân chia nhóm support cho link đó. Chat web bắt buộc phải có nhóm support, bạn cần tạo nhóm support để hỗ trợ khi khách hàng vào chat với website (tham khảo cách tạo nhóm support tại mục 8.2).
 
+[Xem video HDSD](https://youtu.be/2pSwtgemlBY?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Công cụ nhúng.
+
