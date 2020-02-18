@@ -24,15 +24,13 @@ Note: Nếu chưa có dự án nào bên my sẽ tạo mặc định dự án c�
 
 **Cách 3:**
 
-Bước 1: Tạo tài khoản trên website **https://my.bizfly.vn**
+Bước 1: Truy cập website **https://nhahang.bizfly.vn** và chọn dự án bạn muốn thêm nhà hàng
 
-Bước 2: Tạo 1 dự án
+Bước 2: Click vào mũi tên hiển thị trên menu của nhà hàng hiện tại
 
-Bước 3: Tạo 1 chatbot có kiểu nhà hàng
+Bước 3: Click vào Thêm nhà hàng để tạo 1 nhà hàng mới trong cùng 1 dự án 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5386065_3.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/18/5468572_78.png)
 
-Bước 4: Chọn nhà hàng đã tạo sẵn hoặc tạo mới 1 nhà hàng. Nhà hàng sẽ được kết nối với chatbot.
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5386067_4.png)
 

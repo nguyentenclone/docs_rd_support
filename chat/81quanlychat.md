@@ -8,7 +8,7 @@ Sau khi kết nối thành công fanpage với hệ thống. Hệ thống sẽ t
 
 Khi bỏ chọn dấu tích ở những phần này, bạn sẽ không nhìn thấy phần File & ảnh đã chia sẻ, kịch bản tự động
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384386_100.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450950_134.png)
 
 Hai phần này sẽ bị ẩn đi cho đến khi bạn chọn lại:
 
@@ -64,5 +64,16 @@ Phần đánh giá khi người quản trị muốn đóng 1 cuộc hội thoạ
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384415_108.png)
 
 Người quản trị có thể chỉnh sửa: Lời cảm ơn, thêm lựa chọn cho khách hàng đánh giá và chọn kịch bản tiếp theo để gửi lại cho khách hàng khi đã đánh giá.
+
+**Lấy lại cuộc hội thoại**
+
+Lấy về cuộc hội thoại trước đây của fanpage, tối đa 30.000 hội thoại. 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450951_135.png)
+
+**Xem cuộc hội thoại của nhiều fanpage cùng lúc**
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450971_140.png)
+
 
 [Xem video HDSD](https://youtu.be/dfv9BFAQ9Xw?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Quản lý chat.
