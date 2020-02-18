@@ -8,10 +8,10 @@ Từ website **[https://my.bizfly.vn](https://my.bizfly.vn)**, truy  cập vào 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5386088_6.png)
 
-**Bước 2**: Chọn nhà hàng đã tạo sẵn hoặc tạo mới 1 nhà hàng. Nhà hàng sẽ được kết nối với chatbot.
+**Bước 2**: Chọn fanpage nhà hàng để kết nối với chatbot
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5386089_7.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/18/5468568_76.png)
 
-**Bước 3**: Chọn fanpage nhà hàng để kết nối với chatbot
+**Bước 3**: Chỉnh sửa lại nội dung kịch bản cho phù hợp với nhà hàng của bạn.
 
-**Bước 4**: Chỉnh sửa lại nội dung kịch bản cho phù hợp với nhà hàng của bạn.
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/18/5468569_77.png)
