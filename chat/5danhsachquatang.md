@@ -1,5 +1,7 @@
  **5. Danh sách mã quà tặng**
 
+[cinwell website](https://www.youtube.com/embed/0HVWP63_8IM ':include :type=iframe width=100% height=400px')
+
 Bạn có thể tạo ra các kho Giftcode tự động để gửi tới khách hàng. Với mỗi kho Giftcode được tạo thì mỗi khách hàng sẽ chỉ được nhận 1 mã duy nhất. Có thể sử dụng Giftcode qua 2 cách:
 
 -   Cách 1: Gắn vào kịch bản: Khi nhúng Giftcode vào kịch bản, khách hàng khi chat với chatbot thì hệ thống tự động gửi cho khách hàng 1 mã duy nhất

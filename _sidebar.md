@@ -2,8 +2,7 @@
   - [Chat bizfly](chat/)
   - [Coupon bizfly](coupon/)
   - [Restaurant bizfly](nhahang/)
-  - [Sale bizfly](banhang/)
   - [Billing bizfly](pay/)
   - [Ship bizfly](ship/)
+  - [Sale bizfly](sale/)
   - [Notice](notice/)
-
