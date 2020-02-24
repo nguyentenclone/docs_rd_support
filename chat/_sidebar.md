@@ -9,7 +9,7 @@
 		- [3.1.1 Form Menu](chat/311formmenu.md)
 		- [3.1.2 Form Ảnh](chat/312formanh.md)
 		- [3.1.3 Form Card](chat/313formcard.md)
-		- [3.1.4 Form List](chat/314formlist.md)
+		- [3.1.4 Form Dynamic](chat/314formdynamic.md)
 		- [3.1.5 Form Delay](chat/315formdelay.md)
 		- [3.1.6 Form Hỏi đáp](chat/316formhoidap.md)
 		- [3.1.7 Form Trả lời nhanh](chat/317quickanswers.md)

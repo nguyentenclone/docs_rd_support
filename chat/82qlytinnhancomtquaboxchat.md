@@ -21,7 +21,10 @@ Thu thập tất cả những comment, tin nhắn của khách hàng và tự đ
 
 -   Tắt chatbot
 
-Nếu không muốn khách hàng tương tác với kịch bản tự động và thay vào đó là nhân viên trả lời thủ công, bạn click vào hình bánh xe, chọn Tắt bot
+Nếu không muốn khách hàng tương tác với kịch bản tự động và thay vào đó là nhân viên trả lời thủ công.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/24/5474779_154.png)
+
 
 **Tích hợp plugin FreshDesk ticket (tạo ticket trên FreshDesk)**
 

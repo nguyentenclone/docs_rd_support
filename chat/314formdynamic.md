@@ -29,5 +29,3 @@ Ví dụ, trong phần Tải ảnh lên bạn có thể tìm đến trường *i
 Kết quả hiển thị:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/24/5474550_151.png)
-
-

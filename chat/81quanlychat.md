@@ -6,13 +6,9 @@ Sau khi kết nối thành công fanpage với hệ thống. Hệ thống sẽ t
 
 **Cài đặt chung**:
 
-Khi bỏ chọn dấu tích ở những phần này, bạn sẽ không nhìn thấy phần File & ảnh đã chia sẻ, kịch bản tự động
+Màn hình mặc định của phần cài đặt chung 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450950_134.png)
-
-Hai phần này sẽ bị ẩn đi cho đến khi bạn chọn lại:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384388_101.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/24/5474776_153.png)
 
 **Lọc cuộc hội thoại**
 

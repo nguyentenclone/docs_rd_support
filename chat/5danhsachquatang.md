@@ -13,9 +13,11 @@ Bước 1: Vào Danh sách mã quà tặng => Thêm mới
 Bước 2: Nhập các thông tin cho nhóm Giftcode => Click button Tạo
 
 - Với trường hợp Tạo tự động
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383889_54.png)
 
 - Với  trường hợp Tạo bằng tay, mã code và số lượng code sẽ do người tạo nhập vào:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383890_55.png)
 
 - Với trường hợp excecl, bạn có thể import vào 1 danh sách quà tặng dưới dạng file excel
@@ -25,10 +27,13 @@ Bước 2: Nhập các thông tin cho nhóm Giftcode => Click button Tạo
 Bạn có thể tạo file excel chưa mã quà như sau:
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383893_57.png)
 
-Sau khi tạo xong kho Giftcode, bạn click vào Chỉnh sửa => Click vào nút Kích hoạt để sử dụng:
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383898_58.png)
-Bước 3: Thêm kho Giftcode vào kịch bản hoặc bài post
+Sau khi tạo xong kho Giftcode, kho sẽ ở trạng thái Đang kích hoạt. Bạn cần đợi đến kho kho chuyển sang trạng thái Kích hoạt để sử dụng.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/24/5474763_152.png)
+
+
 **Thêm vào kịch bản**: 
+
 Ví dụ bạn muốn nhúng Giftcode vào kịch bản chào (hoặc bất cứ kịch bản nào tùy theo cài đặt), để khi khách hàng chat với fanpage sẽ nhận được mã quà tặng.
 
 b1: Chọn kịch bản muốn nhúng giftcode
