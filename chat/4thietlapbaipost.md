@@ -1,5 +1,7 @@
  **4. Thiết lập bài post**
 
+[cinwell website](https://www.youtube.com/embed/2izLao1EcZc ':include :type=iframe width=100% height=400px')
+
 Chức năng này cho phép bạn có thể chọn từng bài Post trên fanpage cụ thể để cài đặt. Nếu 1 bài post được cài đặt chế độ Auto reply comment thì khi có khách hàng comment vào bài post này, lập tức hệ thống sẽ trả lời tự động comment đó với nội dung đã được thiếp lập sẵn. Ngoài ra, bạn có thể cài đặt chế độ rep tùy theo 1 số điều kiện khác như: Tag bạn bè, ẩn số điện thoại, auto like comment....Có 2 kiểu trả lời comment của khách hàng đó là: Reply comment trực tiếp và Reply comment qua inbox(trả lời riêng tư).
 
 - Trả lời trực tiếp comment khách hàng: Với bài post được thiết lập tính năng Auto Reply Comment thì khi bất kì một khách hàng comment nào vào bài post đó, hệ thống sẽ tự động đưa ra câu trà lời trực tiếp ngay dưới comment của khách. Trong đó, nội dung câu trả lời được thiết lập trong tính năng Auto Reply Comment này.

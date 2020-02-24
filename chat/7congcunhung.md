@@ -1,5 +1,7 @@
  **7. Công cụ nhúng**
 
+[cinwell website](https://www.youtube.com/embed/2pSwtgemlBY ':include :type=iframe width=100% height=400px')
+
 Chat Bizfly hỗ trợ bạn 3 kiểu nhúng botchat như sau:
 
 - **Box chat**: Box Chat để nhúng lên website sẽ có giao diện giống với box chat của facebook. Bạn có thiết lập màu sắc, ẩn, hiện từng page hoặc theo thời gian mà bạn muốn.

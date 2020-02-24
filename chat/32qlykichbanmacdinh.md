@@ -1,5 +1,7 @@
  **3.2. Quản lý kịch bản mặc định**
 
+[cinwell website](https://www.youtube.com/embed/_jzMkq0pl14 ':include :type=iframe width=100% height=400px')
+
 Kịch bản mặc định giúp bạn có thể thiết lập 1 kịch bản để trả lời lại khách hàng khi chat với fanpage ngoài giờ hành chính (hoặc bất cứ khoảng thời gian nào mà bạn thiết lập).
 
 Bước 1: Chọn Kịch bản mặc định

@@ -1,5 +1,7 @@
 **3.4. Kịch bản hẹn giờ**
 
+[cinwell website](https://www.youtube.com/embed/2_AWW2NjB54 ':include :type=iframe width=100% height=400px')
+
 Tự động gửi kịch bản cho 1 danh sách đối tượng dựa trên thời gian đã được hẹn giờ từ trước.
 
 **Cách sử dụng:**

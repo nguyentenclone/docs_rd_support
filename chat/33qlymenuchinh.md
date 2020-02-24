@@ -30,4 +30,5 @@ Bước 3: Sau khi tạo menu chính xong, click Kích hoạt web hoặc Kích h
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383804_39.png)
 
 **Giao diện hiển thị:**
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383806_40.png)

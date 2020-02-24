@@ -1,5 +1,7 @@
  **6. Quản lý khách hàng**
 
+[cinwell website](https://www.youtube.com/embed/msl00WtUfYQ ':include :type=iframe width=100% height=400px')
+
 Hiển thị danh sách các khách hàng chat tương tác với fanpage hoặc hat với website có code nhúng chatbot.
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383917_65.png)
 
