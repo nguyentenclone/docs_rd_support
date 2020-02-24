@@ -12,7 +12,8 @@ Với sự phát triển ngày càng mạnh của công nghệ thông tin. Kéo 
 -   Duy trì chăm sóc khách hàng, tăng tính gắn bó lâu dài của khách hàng với doanh nghiệp
 -   Giao diện đơn giản, dễ sử dụng.
 
-Không chỉ dừng lại ở đó, chúng tôi đã, đang và sẽ ngày một phát triển hệ thống thông minh, nhiều tính năng hơn nữa để có thể hỗ trợ bạn một cách tốt nhất. Mọi góp ý của bạn, chúng tôi luôn luôn lắng nghe và tiếp thu để phát triển hệ thống ngày một hoàn thiện. Nếu có góp ý, khách hàng có thể gửi tin nhắn về Fanpage chính của hệ thống theo đường dẫn:
+Không chỉ dừng lại ở đó, chúng tôi đã, đang và sẽ ngày một phát triển hệ thống thông minh, nhiều tính năng hơn nữa để có thể hỗ trợ bạn một cách tốt nhất. Mọi góp ý của bạn, chúng tôi luôn luôn lắng nghe và tiếp thu để phát triển hệ thống ngày một hoàn thiện. 
+
+Nếu có góp ý, khách hàng có thể gửi tin nhắn về Fanpage chính của hệ thống [Tại đây](https://www.facebook.com/bizfly.vn/)
 
 
-_[Tại đây](https://www.facebook.com/Bizfly-Chat-1967788406802529)_
