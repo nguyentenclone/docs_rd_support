@@ -4,5 +4,5 @@
   - [Restaurant bizfly](nhahang/)
   - [Billing bizfly](pay/)
   - [Ship bizfly](ship/)
-  - [Sale bizfly](sale/)
+  - [Sale bizfly](banhang/)
   - [Notice](notice/)
