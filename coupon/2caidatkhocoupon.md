@@ -1,5 +1,7 @@
 **2. Cài đặt coupon** 
 
+[cinwell website](https://www.youtube.com/embed/fFv47RyDQP8 ':include :type=iframe width=100% height=400px')
+
 Cho phép bạn cài đặt các chế độ tạo kho coupon(kho mã giảm giá) khác nhau, bằng cách kết hợp các điều kiện có sẵn.
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5385114_3.png)
