@@ -23,7 +23,6 @@ Tất cả những tin nhắn dùng để gửi cho khách hàng sau 24h kể t�
 
 - **Tư vấn viên**
 
-Ghi chú nhanh: Tư vấn viên vẫn đang trong giai đoạn thử nghiệm. Khi nó được công khai, chúng tôi sẽ tự động áp dụng nó cho các tin nhắn được gửi trong Trò chuyện trực tiếp
 
 **3.1. Thẻ  Xác nhận sự kiện**
 
