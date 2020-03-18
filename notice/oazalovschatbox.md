@@ -39,6 +39,7 @@ Truy cập vào đường dẫn: [https://developers.zalo.me/](https://developer
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496664_7.png)
 
 **Bước 2: Nhập tên (ID) ứng dụng của bạn**
+
 Đặt tên cho ứng dụng và click Tạo ID ứng dụng
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496666_8.png)
@@ -68,7 +69,7 @@ Sau đó gắn link vào mục Official Account Callback Url và bấm Lưu lạ
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496679_13.png)
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496680_14.png)
 
-**Bước 7: Gắn webhook của chatbot Bizfly để nhận các thay đổi tử OA của zalo như: message từ khách hàng, message từ OA gửi cho khách hàng, tag...**
+**Bước 7: Gắn webhook của chatbot Bizfly để nhận các thay đổi từ OA của zalo như: message từ khách hàng, message từ OA gửi cho khách hàng, tag...**
 
 _Lưu ý: URL webhook sẽ được bộ phận kỹ thuật của chatbot Bizfly cung cấp_
 
@@ -79,6 +80,7 @@ Bật các sự kiện bạn muốn webhook có thể nghe:
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496685_17.png)
 
 **Bước 8: Nhập ID ứng dụng liên kết với chatbot**
+
 Lấy ID ứng dụng: 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496688_18.png)
