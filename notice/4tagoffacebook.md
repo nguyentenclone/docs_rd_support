@@ -1,4 +1,4 @@
-**Chính sách đã thay đổi của Facebook Messenger trong năm 2020**
+**Chính sách thay đổi của Facebook Messenger trong năm 2020**
 
 - Facebook đã thông báo về việc thay đổi Chính sách Massenger  từ ngày 4/3/2020
 - Các Fanpage chỉ gửi được tin nhắn cho người dùng trong vòng 24h kể từ lần tương tác cuối cùng của họ với Fanpage, Facebook  gọi nó là "Khung 24h"
@@ -127,7 +127,8 @@ Nhân sự tư vấn hỗ trợ những vấn đề chưa được giải quyế
 
 - Nội dung không liên quan đến câu hỏi của khách hàng.
 
- **4. Mã API sử dụng 1 lần**
+ 
+**4. Mã API sử dụng 1 lần**
 
 Facebook thông báo vào tháng 2 họ sẽ triển khai API 1 lần (API one-time notification).  
 
