@@ -10,7 +10,7 @@
 Chính sách mới của Facebook Messenger sẽ hạn chế doanh nghiệp chỉ có thể gửi lượng tin nhắn giới hạn thay vì sử dụng chatbot như trước đây. 
 
 Cụ thể hơn, dự kiến kể từ ngày 4/3/2020, trừ phi chạy quảng cáo trên Messenger, doanh nghiệp chỉ có thể inbox cho khách hàng nếu thỏa mãn ít nhất một trong ba điều kiện: 
-- Nnbox được gửi chỉ trong vòng 24h , 
+- Inbox được gửi chỉ trong vòng 24h , 
 - Ngoài 24 giờ thì tin nhắn thuộc về một trong bốn loại tag
 - Mã API 1 lần cho khách hàng đã đăng kí (subscribe).
 
@@ -125,9 +125,23 @@ Nhân sự tư vấn hỗ trợ những vấn đề chưa được giải quyế
 
 - Tin nhắn tự động
 
-- Nội dung không liên quan đến câu hỏi của khách hàng.
+- Nội dung không liên quan đến câu hỏi của khách hàng
 
- 
+**3.5. Sử dụng các thẻ message tag trong Chatbot Bizfly**
+
+Hiện tại, khi sử dụng dịch vụ chatbot Bizfly bạn có thể chọn thẻ message tag phù hợp với nội dung tin nhắn của fanpage.
+
+- Chọn thẻ trong khi setup kịch bản
+
+Bạn có thể chọn các loại thẻ tương ứng với nội dung kịch bản (tin nhắn). Hiện tại thẻ Tư vấn viên của chúng tôi đang trong quá trình hoàn thiện, phiên bản mới nhất sẽ được update tới người dùng trong thời gian tới.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/25/5503136_11111.png)
+
+- Chọn thẻ trong phần chat support:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/25/5503142_22222.jpg)
+
+
 **4. Mã API sử dụng 1 lần**
 
 Facebook thông báo vào tháng 2 họ sẽ triển khai API 1 lần (API one-time notification).  
