@@ -8,26 +8,65 @@ Tự động gửi kịch bản cho 1 danh sách đối tượng dựa trên th�
 
 Để tạo 1 kịch bản hẹn giờ, các bạn làm theo các bước sau đây:
 
-Bước 1. Tạo danh sách khách hàng để gửi tin nhắn
+Bước 1. Click Kịch bản tự động => Chọn Kịch bản hẹn giờ
 
-Bước 2. Click Kịch bản tự động => Chọn Kịch bản hẹn giờ
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595074_te1baa1oke1bb8bchbe1baa3n.png)
 
-Bước 3. Tạo Tên kịch bản hẹn giờ
+Bước 2. Tạo Tên kịch bản hẹn giờ
 
-Bước 4. Tạo mới hoặc chọn các kịch bản có sẵn để gửi
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595079_te1baa1otc3aan.png)
 
-Bước 5. Thiết lập khung giờ gửi
+Bước 3. Tạo mới hoặc chọn các kịch bản có sẵn để gửi
 
-Bước 6. Thêm nhóm đối tượng vừa tạo ở bước 1
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595083_thc3aamke1bb8bchbe1baa3n.png)
 
-Giao diện cấu hình:
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383813_41.png)
+Bước 4. Thiết lập khung giờ gửi và bấm Cập nhật để lưu lại toàn bộ luồng kịch bản 
 
-Kết quả thu được:
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595088_taogie1bb9dge1bbadi.png)
 
-Những user có trong danh sách sẽ nhận được tin nhắn:
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383822_42.png)
+Bước 5. Chèn kịch bản hẹn giờ vào Nút kịch bản, Form hẹn giờ hoặc sử dụng gửi tự động trong Live Chat (tùy mục đích sử dụng).
 
-[Xem video HDSD](https://youtu.be/2_AWW2NjB54?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Tạo và dùng thử Kịch bản hẹn giờ.
+* **Chèn kịch bản hẹn giờ vào 1 nút**
+
+B1: Chọn 1 nút muốn gắn kịch bản, chọn Thêm hành động => Nhúng kịch bản
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595104_ge1baafn1nc3bat.png)
+
+B2: Chọn kịch bản muốn nhúng vào ấn Lưu lại 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595105_che1bb8dnkb.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595106_111.png)
+
+* **Chèn kịch bản hẹn giờ vào 1 form hẹn giờ**
+
+B1. Tạo nội dung kịch bản có chứa form hỏi đáp, nội dung câu trả lời được lưu vào trường Tùy chỉnh.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595113_hoi1.png)
+
+Lưu ý: Chọn Dạng Date và nhập tên cho trường tùy chỉnh để lưu câu trả lời của khách hàng.
+
+B2: Chọn form hẹn giờ và setup => bấm Lưu
+- Trường tùy chỉnh: Chọn trường vừa mới tạo ở form hỏi đáp
+- Tần suất: Gửi ngay lập tức, Gửi hàng tuần, Gửi hàng tháng, Gửi hàng năm
+- Chọn kịch bản muốn gửi
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595127_hoi2.png)
+
+* **Chèn kịch bản hẹn giờ cho 1 khách hàng trong màn Live chat**
+
+B1: Trong màn hình Live chat, chọn khách hàng muốn nhúng kịch bản hẹn giờ
+
+B2: Bấm vào Thêm kịch bản => chọn Kịch bản hẹn giờ 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595137_addnew.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595138_addnew1.png)
+
+
+
+
+
+
+
 
 

@@ -68,7 +68,7 @@ Chatbot gửi tin cho khách hàng vào phút 0.
 
 - Nhắc nhở về bất kỳ cuộc khảo  sát, ý kiến thăm dò và đánh giá
 
-**3.2. Thẻ Cập nhật trạng thái đơn hàng**
+**3.2. Thẻ Cập nhật giao dịch gần đây**
 
 ***Mô tả***
 
