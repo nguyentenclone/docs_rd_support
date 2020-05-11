@@ -1,4 +1,4 @@
-# Quick start1
+# Quick start
 
 It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
 
