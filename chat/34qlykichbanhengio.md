@@ -1,6 +1,6 @@
 **3.4. Kịch bản hẹn giờ**
 
-[cinwell website](https://www.youtube.com/embed/2_AWW2NjB54 ':include :type=iframe width=100% height=400px')
+[cinwell website](https://www.youtube.com/embed/aW2Agh34DR8 ':include :type=iframe width=100% height=400px')
 
 Tự động gửi kịch bản cho 1 danh sách đối tượng dựa trên thời gian đã được hẹn giờ từ trước.
 
@@ -25,6 +25,14 @@ Bước 4. Thiết lập khung giờ gửi và bấm Cập nhật để lưu l�
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595088_taogie1bb9dge1bbadi.png)
 
 Bước 5. Chèn kịch bản hẹn giờ vào Nút kịch bản, Form hẹn giờ hoặc sử dụng gửi tự động trong Live Chat (tùy mục đích sử dụng).
+
+* **Xem danh sách user đã gửi**
+
+Trong cột Đã nhúng, click vào số lượng màn hình view danh sánh các user đã được add vào luồng gửi tin nhắn.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597443_xemds.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597456_ds1.png)
 
 * **Chèn kịch bản hẹn giờ vào 1 nút**
 

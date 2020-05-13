@@ -5,4 +5,5 @@
   - [Billing bizfly](pay/)
   - [Ship bizfly](ship/)
   - [Sale bizfly](banhang/)
+  - [Loyalty bizfly](Loyalty/)
   - [Notice](notice/)
