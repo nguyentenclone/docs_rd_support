@@ -13,7 +13,7 @@
 		- [3.1.5 Form Delay](chat/315formdelay.md)
 		- [3.1.6 Form Hỏi đáp](chat/316formhoidap.md)
 		- [3.1.7 Form Trả lời nhanh](chat/317quickanswers.md)
-		- [3.1.8 Thêm action vào nút](chat/318themaction.md)
+		- [3.1.8 Thêm action](chat/318themaction.md)
 	- [3.2. Quản lý kịch bản mặc định](chat/32qlykichbanmacdinh.md)	
 	- [3.3. Quản lý menu chính](chat/33qlymenuchinh.md)
 	- [3.4. Kịch bản hẹn giờ](chat/34qlykichbanhengio.md)
