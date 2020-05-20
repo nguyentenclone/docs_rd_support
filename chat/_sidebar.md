@@ -18,6 +18,7 @@
 	- [3.3. Quản lý menu chính](chat/33qlymenuchinh.md)
 	- [3.4. Kịch bản hẹn giờ](chat/34qlykichbanhengio.md)
 	- [3.5. Quản lý từ khóa](chat/35qlytukhoa.md)
+	- [3.6. Gửi hàng loạt](chat/36guihangloat.md)
 - [**4. Thiết lập bài post**](chat/4thietlapbaipost.md)	
 - [**5. Danh sách mã quà tặng**](chat/5danhsachquatang.md)	
 - [**6. Quản lý khách hàng**](chat/6qlykhachhang.md)
