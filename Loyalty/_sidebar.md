@@ -1,11 +1,12 @@
 - [**Giới thiệu**](Loyalty/README.md)
-- [**1. Đăng nhập vào hệ thống**](Loyalty/dangnhapvaoht.md)
-- [**2. Đăng nhập vào hệ thống**](sale/cotkvietid.md) 
-- [**3. Đăng nhập vào hệ thống**](sale/chuacotkvietid.md) 
-- [**4. Đăng nhập vào hệ thống**](Loyalty/README.md)
-- [**5. Đăng nhập vào hệ thống**](sale/cotkvietid.md) 
-- [**6. Đăng nhập vào hệ thống**](sale/chuacotkvietid.md) 
-
+- [**1. Cách tạo loyalty**](Loyalty/1taoloyalty.md)
+- [**2. Cài đặt loyalty**](Loyalty/2caidatloyalty.md) 
+- [**3. Thành viên**](Loyalty/3thanhvienloyalty.md) 
+- [**4. Phiếu điều chỉnh**](Loyalty/4phieudieuchinh.md)
+- [**5. Giao dịch tích điểm**](Loyalty/5giaodichtichdiem.md) 
+- [**6. Phân hạng thành viên**](Loyalty/6phanhangtv.md) 
+- [**7. Điều chỉnh hạng thủ công**](Loyalty/7dchangthucong.md) 
+- [**8. Trang chủ**](Loyalty/8trangchu.md) 
 
  
 

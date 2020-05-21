@@ -1,7 +1,10 @@
+
 **7. Quản lý order món ăn**
 
 Quản lí theo trạng thái của đơn hàng bao gồm các trạng thái sau đây:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5594906_donhang.png)
+
 Luồng thay đổi của 1 đơn hàng khi được hệ thống tiếp nhận:
 
 1.Đơn hàng mới => 2. Tiếp nhận đơn hàng => 3. Xác nhận đơn hàng => 4. Sẵn sàng giao hàng => 5. Tiến hành giao hàng => 6. Hoàn thành đơn hàng
@@ -11,8 +14,11 @@ Luồng thay đổi của 1 đơn hàng khi được hệ thống tiếp nhận:
 Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ bạn đang muốn lọc những đơn sẵn sàng giao, bạn chọn như sau:
 
 - Click vào ô Trạng thái đơn
+
 - Chọn trạng thái Đơn sẵn sàng giao
+
 - Click nút Tìm kiếm
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595062_tc3acmkie1babfm.png)
 
 **Tiếp nhận đơn hàng**
@@ -34,7 +40,8 @@ Sau khi Xác nhận đơn hàng thành công, bạn cần update trạng thái �
 
 **Xem chi tiết đơn hàng**
 
-Click vào mã đơn hàng để xem chi tiết và update thông tin còn thiếu hoặc sửa lại theo yêu cầu.
+Click vào mã đơn hàng để xem chi tiết và update thông tin còn thiếu hoặc sửa lại theo yêu cầu
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595095_chitietdonhang.png)
 
 **Hủy đơn hàng**
@@ -46,6 +53,7 @@ Click vào mã đơn hàng để xem chi tiết và update thông tin còn thi�
 Bước 1: Click sang tab Đơn sẵn sàng giao
 
 Bước 2: Click vào nút Tiến hành giao hàng
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595097_giao.png)
 
 Bước 3: Chọn đơn vị giao hàng
@@ -60,8 +68,11 @@ Bước 4: Nhập các thông tin còn thiếu
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595107_ke1babftne1bb91igiaohc3a0ng.png)
 
-Sau khi đơn hàng được gửi thành công và được bên giao hàng báo lại, bạn có thể click vài nút Hoàn thành đơn hàng để đánh dấu.
+Sau khi đơn hàng được gửi thành công và được bên giao hàng báo lại, bạn có thể click vài nút Hoàn thành đơn hàng để đánh dấu
+
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595111_hoc3a0nthc3a0nhc491c6a1nhc3a0ng.png)
 
-Đơn hàng hoàn thành.
+Đơn hàng hoàn thành
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/11/5595112_hoanfthah.png)
