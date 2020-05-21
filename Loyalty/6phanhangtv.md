@@ -1,6 +1,6 @@
-**6. Phân hạng thành viên**
+**7. Phân hạng thành viên**
 
-**6.1 Phân loại**
+**7.1 Phân loại**
 
 **Thêm hạng mới**
 
@@ -32,7 +32,7 @@ Chuyển hạng thành công
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603450_screenshot-31.png)
 
-**6.2 Tích điểm theo sự kiện**
+**7.2 Tích điểm theo sự kiện**
 
 **Thêm sự kiện**
 
@@ -55,7 +55,7 @@ Chỉnh sửa thông tin sự kiện => click Lưu thay đổi
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603526_screenshot-36.png)
 
-**6.3 Lịch sử thay đổi**
+**7.3 Lịch sử thay đổi**
 
 Lưu lịch sử thay đổi hạng thành viên. Có thể tìm kiếm theo ngày, chọn ngày cần tìm kiếm => Click Tìm kiếm
 

@@ -1,6 +1,6 @@
-**5. Giao dịch tích điểm**
+**6. Giao dịch tích điểm**
 
-**5.1 Thêm mới giao dịch**
+**6.1 Thêm mới giao dịch**
 
 Trong màn giao dịch tích điểm click vào Thêm mới
 
@@ -42,13 +42,13 @@ Tạo mới thành công hiện thị màn thêm giao dịch đồng thời thô
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603334_screenshot-22.png)
 
-**5.2 Tìm kiếm giao dịch**
+**6.2 Tìm kiếm giao dịch**
 
 Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm theo trạng thái giao dịch 'Đã xác nhận' => Click Tìm kiếm
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603356_screenshot-23.png)
 
-**5.3 Chi tiết giao dịch**
+**6.3 Chi tiết giao dịch**
 
 Click vào dấu 3 chấm để xem chi tiết giao dịch
 

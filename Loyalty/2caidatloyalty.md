@@ -1,6 +1,6 @@
-**2. Cài đặt loyalty**
+**3. Cài đặt loyalty**
 
-**2.1 Thiết lập**
+**3.1 Thiết lập**
 
 Thông tin loyalty đã được tạo có thể chỉnh sửa thông tin.
 Kết nối với Bot nhà hàng để tích điểm khi đặt bàn và order món ăn thành công.
@@ -28,13 +28,13 @@ Kích hoạt thành công bật dịch vụ muốn gửi thông báo=>lưu thay 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/16/5600963_6.png)
 
-**2.2 Thông báo**
+**3.2 Thông báo**
 
 Hiện thị danh sách thông báo
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/16/5600981_7.png)
 
-**2.3 Nhân viên**
+**3.3 Nhân viên**
 
 Thêm nhân viên và phân quyền sử dụng cho từng nhân viên
 

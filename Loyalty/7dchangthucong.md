@@ -1,6 +1,6 @@
-**7. Điều  chỉnh hạng thủ công**
+**8. Điều  chỉnh hạng thủ công**
 
-**7.1 Thêm điều chỉnh**
+**8.1 Thêm điều chỉnh**
 
 Thêm mới điều chỉnh hạng thành viên thủ công => click Thêm điều chỉnh
 
@@ -34,12 +34,12 @@ Bước 2: Điền thông tin điều chỉnh => click Điều chỉnh
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603749_screenshot-41.png)
 
-**7.2 Tìm kiếm điều chỉnh hạng thủ công**
+**8.2 Tìm kiếm điều chỉnh hạng thủ công**
 
 Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm theo hạng thành viên 'Hạng Đồng' => Click Tìm kiếm
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603847_screenshot-42.png)
 
-**7.3 Export**
+**8.3 Export**
 
 Click vào 'Export' để tải danh sách điều chỉnh hạng thủ công
 

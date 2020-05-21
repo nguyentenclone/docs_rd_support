@@ -1,10 +1,10 @@
-**8. Trang chủ**
+**1. Trang chủ**
 
 Tại màn hình Trang chủ, bạn có thể tùy chọn thời gian để thống kê thông tin
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604710_screenshot-43.png)
 
-**8.1 Thống kê nhân viên**
+**1.1 Thống kê nhân viên**
 
 Thống kê nhân viên bao gồm các thông tin sau:
 
@@ -14,30 +14,30 @@ Thống kê nhân viên bao gồm các thông tin sau:
  
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604734_screenshot-44.png)
  
-**8.2 Thống kê điểm**
+**1.2 Thống kê điểm**
 
 Thống kê điểm phát sinh  theo thời gian lọc
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604755_screenshot-45.png)
 
-**8.3 Thống kê hạng thành viên**
+**1.3 Thống kê hạng thành viên**
 
 Thống kê thông tin hạng thành viên bao gồm các thông tin sau:
 
  - Thông tin các hạng thành viên gồm: số thành viên, Tích điểm
+ 
  - Thống kê số thành viên mới lên hạng
 
  
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604782_screenshot-46.png)
 
-**8.4 Top tích điểm**
+**1.4 Top tích điểm**
 
 Thống kê top tích điểm danh sách gồm 10 thành viên tích điểm cao nhất
- ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604820_screenshot-47.png)
-![enter image description here](https://static8.muarecdn.com/orig
-inal/muare/images/2020/05/20/5604820_screenshot-47.png)
 
-**8.5 Cảnh báo**
+ ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604820_screenshot-47.png)
+
+**1.5 Cảnh báo**
 
 Trong phần cài đặt nếu cài đặt cảnh báo số lần giao dịch/ngày = n, lọc theo m ngày thì sẽ hiện thị những thành viên có giao dịch lớn hơn n*m ngày
 

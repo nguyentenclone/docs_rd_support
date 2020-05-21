@@ -1,6 +1,6 @@
-**4. Phiếu điều chỉnh**
+**5. Phiếu điều chỉnh**
 
-**4.1 Thêm phiếu**
+**5.1 Thêm phiếu**
 
 Trong màn phiếu điều chỉnh có thể thêm phiếu theo 2 kiểu:
 
@@ -84,13 +84,13 @@ Thêm thành công màn hình sẽ hiển thị. Tại đây có thể chỉnh s
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5602965_screenshot-8.png)
 
-**4.2 Tìm kiếm phiếu**
+**5.2 Tìm kiếm phiếu**
 
 Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm theo trạng thái phiếu 'Đã điều chỉnh' => click Tìm kiếm 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5602969_screenshot-9.png)
  
-**4.3 Chi tiết phiếu**
+**5.3 Chi tiết phiếu**
 
 Click vào dấu 3 chấm để xem chi tiết phiếu. 
 

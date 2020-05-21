@@ -1,8 +1,7 @@
 
+**4. Thành viên**
 
-**3. Thành viên**
-
-**3.1 Thêm thành viên**
+**4.1 Thêm thành viên**
 
 Trong màn thành viên có thể thêm thành viên theo 2 kiểu:
 
@@ -49,13 +48,13 @@ Thêm thành công sẽ có thông báo => click Quay về
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602505_18.png)
 
-**3.2 Tìm kiếm thành viên**
+**4.2 Tìm kiếm thành viên**
 
 Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm theo giới tính nam => click Tìm kiếm 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602524_tc3acmkie1babfm.png)
  
-**3.3 Chi tiết thành viên**
+**4.3 Chi tiết thành viên**
 
 Click vào dấu 3 chấm để xem chi tiết thành viên. Tại đây có thể thao tác nhanh khóa thẻ (click Ngưng sử dụng) mở thẻ (click Tiếp tục sử dụng) cho thành viên.
 
@@ -81,7 +80,7 @@ Tại đây có thể xem thông tin thành viên trong CRM
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602682_h.png)
 
-**3.4 Xuất thành viên ra excel**
+**4.4 Xuất thành viên ra excel**
 
 Bước 1: Click vào dấu 3 chấm =>Xuất thành viên ra excel
 

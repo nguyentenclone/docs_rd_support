@@ -1,4 +1,4 @@
-**1. Cách tạo loyalty**
+**2. Cách tạo loyalty**
 
 **Có 2 cách để tạo mới và sử dụng loyalty như sau:**
 
