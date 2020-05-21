@@ -1,4 +1,5 @@
 
+
 **3. Thành viên**
 
 **3.1 Thêm thành viên**
@@ -9,9 +10,13 @@ Trong màn thành viên có thể thêm thành viên theo 2 kiểu:
  
  - Dạng import excel (Nhập thành viên từ excel)
  
+ Giao diện từng màn sẽ như sau:
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602419_tv.png)
 
- Dạng form
+
+**Dạng form**
+
+
  
  Bước 1: Click vào Thêm mới 
  
@@ -19,8 +24,10 @@ Trong màn thành viên có thể thêm thành viên theo 2 kiểu:
  
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602421_12.png)
  
- **Dạng import excel**
+**Dạng import excel**
+
  
+
  
  Bước 1: Click vào dấu ba chấm sau phần thêm mới, chọn nhập thành viên từ excel
  
