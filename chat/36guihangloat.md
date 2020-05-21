@@ -2,7 +2,7 @@
 
 [cinwell website](https://www.youtube.com/embed/RB4jj8J-qpM ':include :type=iframe width=100% height=400px')
 
-- Chức năng cho phép bạn gửi tin nhắn hàng hoạt hoặc hẹn giờ tới một danh sách khách hàng.
+- Chức năng cho phép bạn gửi tin nhắn hàng hoạt ngay lập tức hoặc Hẹn giờ tới một danh sách khách hàng.
 - Danh sách là kết quả của sự kết hợp 1 hoặc nhiều bộ lọc có sẵn 
 - Targeting bao gồm các trường tùy chỉnh mặc định của dự án và các trường tùy chỉnh sinh ra trong quá trình sử dụng form hỏi đáp
 - Nội dung tin nhắn gửi đi luôn phải đảm bảo tuân thủ đúng yêu cầu về chính sách nhắn tin mới của Facebook (Xem nội dung chính sách thay đổi về gửi tin nhắn của Facebook [tại đây](https://chat.bizfly.vn/guides/#/notice/4tagoffacebook))
@@ -26,6 +26,8 @@ Giao diện hiển thị như sau:
 - Tất cả khách hàng: Bao gồm những khách hàng đã tương tác với fanpage
 - Khách hàng tương tác trong vòng 24h: Bao gồm những khách hàng đã gửi tin nhắn cho fanpage trong vòng 24h qua
 - Đối tượng nhận tin nhắn: Lọc theo các trường tùy chỉnh để có thể ra được tệp khách hàng
+
+*Note: Bạn có thể tạo nội dung kịch bản và gửi luôn mà không cần sử dụng thêm bộ lọc Targeting nếu như không có nhu cầu lọc chi tiết. Tuy nhiên nếu sử dụng Gửi cho toàn bộ khách hàng bạn sẽ phải tuân thủ theo quy định về chính sách gửi tin nhắn mới của Facebook mà chúng tôi đã để link tìm hiểu ở trên.*
 
 Theo như ví dụ trên, chúng ta cần lọc ra khách hàng có giới tính là nữ, thực hiện như sau:
 
