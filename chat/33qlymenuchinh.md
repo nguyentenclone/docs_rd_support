@@ -5,10 +5,13 @@ Với Menu chính, bạn có thể thiết lập kịch bản với các lựa c
 **Cách sử dụng:**
 
 Bước 1: Chọn “Menu chính” => Chỉnh sửa tên menu
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383757_34.png)
 
 Bước 2: Chọn 1 trong những hành động sau click tương ứng cho menu như: Kịch bản, Mở danh mục con, Website URL
+
 - Dạng kịch bản:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383766_35.png)
 
 - Mở danh mục con: Tạo ra các danh mục con cho menu, nhằm mục đích hiển thị thêm được nhiều thông tin cho khách hàng lựa chọn.
@@ -20,13 +23,17 @@ Bước 2: Chọn 1 trong những hành động sau click tương ứng cho menu
 	Bước 3: Click Lưu
 
 	Bước 4: Click vào Các submenu, sau đó đổi tên và chọn kiểu hành động tương tự như tạo menu lớn
-	![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383774_36.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383774_36.png)
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383775_37.png)
 
 - Dạng Website URL:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383803_38.png)
 
 Bước 3: Sau khi tạo menu chính xong, click Kích hoạt web hoặc Kích hoạt facebook để menu được hiển thị lên
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383804_39.png)
 
 **Giao diện hiển thị:**

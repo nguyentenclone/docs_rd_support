@@ -17,4 +17,5 @@ Chú ý: Phần tạo nút cho Trả lời nhanh là bắt buộc và form Trả
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383732_26.png)
 
 Kết quả hiển thị như sau:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383733_27.png)

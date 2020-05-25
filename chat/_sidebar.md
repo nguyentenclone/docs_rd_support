@@ -4,7 +4,7 @@
 	- [1.1. Chưa có tài khoản VietID](chat/chuacotkvietid.md)
 	- [1.2. Có tài khoản VietID](chat/cotkvietid.md)
 - [**2. Báo cáo và thống kê**](chat/2baocaothongke.md)	
-- [**3. Quản lý bot**](chat/31quanlibot.md  )
+- [**3. Quản lý bot**](chat/31quanlibot.md)
 	- [3.1. Quản lý kịch bản](chat/3quanlykichban.md)
 		- [3.1.1 Form Menu](chat/311formmenu.md)
 		- [3.1.2 Form Ảnh](chat/312formanh.md)

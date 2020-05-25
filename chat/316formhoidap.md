@@ -13,7 +13,9 @@ Bước 3: Click button “Lưu”
 Ví dụ: Bạn muốn thu thập thông tin phản hồi của khách hang về dịch vụ mà bạn cung cấp. Bạn có thể tạo 1 form hỏi đáp để lấy những thông tin mà khách hang cung cấp, từ đó đưa ra các chiến lược chăm sóc khách hang tốt hơn.
 
 Giao diện thiết kế:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383717_24.png)
 
 Giao diện hiển thị:
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383718_25.png)
