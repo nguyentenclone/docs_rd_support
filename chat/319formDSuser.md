@@ -1,6 +1,6 @@
  **3.1.9. Form Danh sách user**
-
- **3.1.9. Form Danh sách user**
+ 
+[cinwell website](https://www.youtube.com/embed/IxFzT8QPED4 ':include :type=iframe width=100% height=400px')
  
 - Form Danh sách User cho phép bạn tự động gắn những người tương tác với kịch bản đó vào 1 danh sách( Tạo mới hoặc chọn sẵn).
 
