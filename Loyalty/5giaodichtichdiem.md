@@ -1,3 +1,4 @@
+
 **6. Giao dịch tích điểm**
 
 **6.1 Thêm mới giao dịch**
@@ -14,6 +15,8 @@ Giao diện màn thêm mới giao dịch sẽ có 2 dạng:
  
 **Giao dịch cho thành viên có thẻ**
 
+**Note**: Thành viên có trạng thái thẻ ngưng sử dụng không thêm giao dịch tích điểm được
+
 Bước 1: Nhập mã thẻ hoặc số điện thoại của thành viên => chọn thành viên
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603211_screenshot-15.png)
@@ -25,6 +28,18 @@ Bước 2: Điền thông tin hóa đơn => click Tạo mới
  Tạo mới giao dịch thành công sẽ đổ về danh sách 
  
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603238_screenshot-17.png)
+
+Tại màn danh sách giao dịch có thể:
+
+- Click nhanh vào mã thẻ để xem chi tiết thành viên
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/25/5609783_screenshot-67.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/25/5609784_screenshot-68.png)
+
+- Click vào nhân viên để xem lịch sử giao dịch nhân viên đó
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/25/5609785_screenshot-69.png)
 
 **Giao dịch cho thành viên chưa có thẻ** 
 
