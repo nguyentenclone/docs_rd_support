@@ -6,9 +6,6 @@ Từ website **[https://my.bizfly.vn](https://my.bizfly.vn)**, truy  cập vào 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/12/5595444_de1bbb1c3a1n.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/12/5595444_de1bbb1c3a1n.png)
-
-
 **Bước 1**: Tạo chatbot kiểu nhà hàng từ danh sách bot mẫu
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/20/5386088_6.png)
