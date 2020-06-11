@@ -18,7 +18,11 @@ Bước 1: Điền mã thẻ thành viên=> chọn thành viên
 
 Bước 2: Điền thông tin điều chỉnh => click Điều chỉnh
 
-Lưu ý: Ngày reset hạng thành viên đến 0h ngày hôm đó thành viên sẽ bị rest về hạng mặc định điểm tích lũy là 0 điểm
+**Note**: 
+
+- Thành viên trạng thái ngưng sử dụng không được điều chỉnh hạng thủ công
+
+- Ngày reset hạng thành viên đến 0h ngày hôm đó thành viên sẽ bị rest về hạng mặc định điểm tích lũy là 0 điểm
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603711_screenshot-39.png)
 

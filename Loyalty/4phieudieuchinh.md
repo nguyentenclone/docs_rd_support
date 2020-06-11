@@ -4,17 +4,18 @@
 
 Trong màn phiếu điều chỉnh có thể thêm phiếu theo 2 kiểu:
 
- - Dạng form (Thêm mới)
+- Dạng form (Thêm mới)
  
- - Dạng import excel (Nhập phiếu từ excel)
+- Dạng import excel (Nhập phiếu từ excel)
  
- ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602808_111.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602808_111.png)
+ 
+**Note: Thành viên có trạng thái thẻ ngưng sử dụng cũng điều chỉnh điểm được**
 
-
  
- Giao diện từng màn sẽ như sau:
+Giao diện từng màn sẽ như sau:
  
- **Dạng form**
+**Dạng form**
  
  Bước 1: Click vào Thêm mới
  
@@ -30,16 +31,16 @@ Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điề
 
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602825_114.png)
  
- **Cách 2:** Thêm thành viên từ excel
+**Cách 2:** Thêm thành viên từ excel
  
- Tải  về file mẫu => Điền mã thẻ thành viên cần điều chỉnh điểm
+Tải  về file mẫu => Điền mã thẻ thành viên cần điều chỉnh điểm
  
-  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602841_d.png)
+ ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602841_d.png)
  
- Chọn file tải lên => Thêm thành viên
+Chọn file tải lên => Thêm thành viên
  
  
- ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602842_123.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602842_123.png)
  
 Màn sau khi thêm thành viên thành công sẽ hiển thị
 
@@ -101,3 +102,5 @@ Click vào dấu 3 chấm để xem chi tiết phiếu.
  - Phiếu có trạng thái 'Chưa điều chỉnh' có thể chỉnh sửa tiêu đề phiếu, thêm thành viên, điều chỉnh hàng loạt => Lưu thay đổi
  
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603007_screenshot-12.png)
+
+

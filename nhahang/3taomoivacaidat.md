@@ -81,9 +81,11 @@ Cài đặt thanh toán: Nhập Payment Token => Nhấn cập nhật
 
  **3.6. Cài đặt kết nối loyalty**
  
+ Kết nối với hệ thống loyalty để tích điểm cho khách hàng khi đặt bàn và order món ăn thằng công
+ 
  Yêu cầu:
  
-1.  Bot nhà hàng và Loyalty phải cùng 1 dự án
+1.  Bot nhà hàng và Loyalty phải cùng 1 dự án (Một nhà hàng chỉ kết nối với 1 loyalty)
 
 2.  Cần khởi tạo loyalty trước, chưa khởi tạo sẽ có thông báo
 
