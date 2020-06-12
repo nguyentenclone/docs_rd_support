@@ -1,4 +1,5 @@
 
+
 **4. Quản lý Đặt bàn**
 
 **4.1 Danh sách các bàn**
@@ -101,9 +102,11 @@ Sau khi thanh toán xong, bàn sẽ trở về trạng thái trống để phụ
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625698_screenshot-17.png)
 
-Tại form đổi bàn clcik vào chuột vào bàn ban đầu để bỏ chọn. Chọn khu vực muốn đổi => Click Đổi bàn
+Tại form đổi bàn chọn ca và ngày muốn đổi rồi click chuột vào bàn ban đầu để bỏ chọn. Chọn khu vực muốn đổi => Click Đổi bàn
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625707_screenshot-18.png)
+
+Giao diện khi đổi bàn thành công
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625716_screenshot-19.png)
 
@@ -149,7 +152,7 @@ Ví dụ bạn đang muốn lọc bàn chờ theo tên khách hàng, thời gian
 
 Khi có thông tin đặt bàn, nhân viên sẽ liên hệ khách hàng để xếp bàn =>Xếp bàn
 
-Tại from này nhân viên click Chọn bàn/Chuyển bàn để chọn bàn
+Tại form này nhân viên click Chọn bàn/Chuyển bàn để chọn bàn
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625805_screenshot-28.png)
 

@@ -1,5 +1,5 @@
 
-**5. Thêm mới thực đơn**
+**6. Thêm mới thực đơn**
 
 **Thêm mới thực đơn cấp cha**
 
@@ -16,6 +16,8 @@ Bước 2: Nhập Tên thực đơn => Click  vào nút Thêm mới
 Bước 1: Chọn Thêm mới thực đơn
 
 Bước 2: Nhập Tên thực đơn, Chọn thực đơn cấp cha  => Click  vào nút Thêm mới
+
+Note: Thực đơn tối đa có 3 cấp
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/12/5596025_the1bbb1cc491c6a1ncon.png)
 

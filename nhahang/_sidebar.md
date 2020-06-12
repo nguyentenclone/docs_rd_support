@@ -1,12 +1,15 @@
 - [**Giới thiệu**](nhahang/README.md)
-- [**1.	Cách tạo nhà hàng**](nhahang/1taonhahang.md)
-- [**2.	Kết nối chatbot với nhà hàng**](nhahang/2ketnoi.md)
-- [**3.	Tạo mới và cài đặt nhà hàng**](nhahang/3taomoivacaidat.md)
+- [**1.	Tổng quan nhà hàng**](nhahang/1tongquan.md)
+- [**2.	Thống kê nhà hàng**](nhahang/2thongkenhahang.md)
+- [**3.	Cách tạo nhà hàng**](nhahang/3taonhahang.md)
 - [**4. Quản lý đặt bàn**](nhahang/4qlydatban.md)
-- [**5.	Thêm mới thực đơn** ](nhahang/5addnewtd.md)
-- [**6.	Thêm mới món ăn** ](nhahang/6addmon.md)
-- [**7.	Quản lý order món ăn** ](nhahang/7qlyorder.md)
-- [**8.	Đặt bàn và đặt món online** ](nhahang/orderonline.md)
+- [**5.	Quản lý order món ăn** ](nhahang/5qlyorder.md)
+- [**6.	Thêm mới thực đơn** ](nhahang/6addnewtd.md)
+- [**7.	Thêm mới món ăn** ](nhahang/7addmon.md)
+- [**8.	Mã quà tặng** ](nhahang/8maquatang.md)
+- [**9.	Kết nối chatbot với nhà hàng**](nhahang/9ketnoi.md)
+- [**10.Tạo mới và cài đặt nhà hàng**](nhahang/10taomoivacaidat.md)
+- [**11.Đặt bàn và đặt món online** ](nhahang/11orderonline.md)
 
  
 
