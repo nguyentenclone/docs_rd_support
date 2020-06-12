@@ -58,7 +58,7 @@ VD: Chọn tất cả món đang hiện thị ở trang đầu tiên để ẩn 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5629790_screenshot-43.png)
 
-Thông báo confirm lại có chắc chán muốn ẩn món ăn
+Thông báo confirm lại có chắc chắn muốn ẩn món ăn
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5629800_screenshot-44.png)
 
