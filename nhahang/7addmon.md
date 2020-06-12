@@ -93,3 +93,11 @@ Sửa món ăn=> Click cập nhật
 Giao diện sửa món ăn thành công
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5630021_screenshot-52.png)
+
+**7.4 Đồng bộ món ăn**
+
+Hỗ trợ đồng bộ món ăn từ máy Ipos bên nhà hàng
+
+Trong màn cài đặt bạn đã thiết lập cài đặt Ipos => Click Đồng bộ món ăn
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/12/5631174_screenshot-68.png)
