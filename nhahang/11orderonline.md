@@ -1,4 +1,5 @@
 
+
 **11. Đặt bàn và đặt món online**
 
 Khi nhà hàng của bạn được kết nối với 1 chatbot kiểu nhà hàng, khách hàng có thể trực tiếp đặt bàn hoặc gọi món online. Sau khi khách hàng order, các thông tin về đơn hàng sẽ tự động được đẩy về trang admin quản lý nhà hàng. Từ đó các nhân viên có thể tiếp cận và xử lý nhanh hơn.
@@ -16,20 +17,19 @@ Khi đặt bàn và gọi món về nhà sẽ hiện thị form chọn chi nhán
 - Đặt bàn online
 Đặt bàn trên fanpage của nhà hàng, khách hàng sẽ điền đẩy đủ các thông tin đặt bàn và bấm vào nút Đặt bàn ngay:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597671_2.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/15/5633923_screenshot-71.png)
 
-Khi khách hàng click vào nút Hoàn thành, sẽ có 1 tin nhắn gửi đến thông báo đặt bàn thành công.
+Đặt bàn thành công sẽ có 1 tin nhắn gửi đến cho khách hàng
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597675_3.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597685_5.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/15/5633932_screenshot-72.png)
 
-Đơn đặt bàn của khách hàng sẽ được đẩy về trang admin quản lý nhà hàng
+Đơn đặt bàn của khách hàng sẽ được đẩy về Danh sách bàn chờ của nhà hàng 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597687_6.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/15/5633912_screenshot-70.png)
 
- Nhân viên nhận được đơn hàng sẽ kiểm tra các vị trí còn trống của nhà hàng và liên lạc với khách hàng để xác nhận lại việc đặt chỗ ngồi.
- ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/13/5597694_7.png)
+ Nhân viên nhận được đơn hàng sẽ kiểm tra các vị trí còn trống của nhà hàng và liên lạc với khách hàng để xác nhận lại việc đặt chỗ ngồi 
+ ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/15/5633910_screenshot-69.png)
  
 - Đặt món online:
 Bước 1: Chọn món ăn muốn đặt => Click nút Thêm vào giỏ hàng.
