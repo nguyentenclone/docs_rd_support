@@ -1,10 +1,12 @@
 
 
+
 **4. Quản lý Đặt bàn**
 
 **4.1 Danh sách các bàn**
 
-Danh sách bàn được quản lý theo ca làm việc của nhà hàng
+Danh sách bàn được quản lý theo ca làm việc của nhà hàng, hiển thị 
+cùng các điều kiện lọc: thời gian, nhân viên và khu vực
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625309_screenshot-79.png)
 
@@ -27,7 +29,23 @@ Ví dụ bạn đang muốn lọc bàn theo tên khách hàng, thời gian lọc
 
 **Đặt bàn mới**
 
+**Có 2 cách đặt bàn mới**
+
+
+
 **Bước 1**: Chọn bàn và khu vực cần đặt cho khách
+
+**Có 2 cách:**
+
+- Cách 1: Click Đặt bàn mới chọn ca và chọn bàn sau
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/18/5638414_screenshot-74.png)
+
+Chọn ca, ngày, khu vực và click vào bàn muốn đặt => Click Đổi bàn
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/18/5638422_screenshot-75.png)
+
+- Cách 2: Chọn ca và chọn bàn xong click Đặt bàn mới
 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625560_screenshot-6.png)
@@ -94,6 +112,7 @@ Sau khi thanh toán xong, bàn sẽ trở về trạng thái trống để phụ
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625682_screenshot-16.png)
 
+
 **Đối với bàn đã đặt có thể chuyển  sang bàn chờ hoặc đổi bàn khác**
 
 - Đổi bàn 
@@ -102,7 +121,7 @@ Sau khi thanh toán xong, bàn sẽ trở về trạng thái trống để phụ
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625698_screenshot-17.png)
 
-Tại form đổi bàn chọn ca và ngày muốn đổi rồi click chuột vào bàn ban đầu để bỏ chọn. Chọn khu vực muốn đổi => Click Đổi bàn
+Tại form đổi bàn chọn ca và ngày muốn đổi rồi click chuột vào bàn ban đầu để bỏ chọn. Chọn khu vực  bàn muốn đổi => Click Đổi bàn
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/08/5625707_screenshot-18.png)
 
