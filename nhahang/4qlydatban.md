@@ -29,19 +29,15 @@ Ví dụ bạn đang muốn lọc bàn theo tên khách hàng, thời gian lọc
 
 **Đặt bàn mới**
 
-**Có 2 cách đặt bàn mới**
-
-
-
 **Bước 1**: Chọn bàn và khu vực cần đặt cho khách
 
 **Có 2 cách:**
 
-- Cách 1: Click Đặt bàn mới chọn ca và chọn bàn sau
+- Cách 1: Tại màn danh sách bàn=> Click Đặt bàn mới
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/18/5638414_screenshot-74.png)
 
-Chọn ca, ngày, khu vực và click vào bàn muốn đặt => Click Đổi bàn
+Click Đổi bàn/Chuyển bàn để chọn ca, ngày, khu vực và chọn bàn muốn đặt => Click Đổi bàn
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/18/5638422_screenshot-75.png)
 
