@@ -1,5 +1,8 @@
 
-**7. Quản lý order món ăn**
+
+**5. Quản lý order món ăn**
+
+Gồm đơn đặt món tại Bot nhà hàng và đơn đặt món tại popup đặt món trên mess đổ về
 
 Quản lí theo trạng thái của đơn hàng bao gồm các trạng thái sau đây:
 

@@ -1,6 +1,4 @@
-**2. Kết nối chatbot với nhà hàng**
-
-**2. Kết nối chatbot với nhà hàng**
+**9. Kết nối chatbot với nhà hàng**
 
 Từ website **[https://my.bizfly.vn](https://my.bizfly.vn)**, truy  cập vào dự án cùng với dự án tạo nhà trước đó
 

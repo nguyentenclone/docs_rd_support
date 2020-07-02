@@ -1,5 +1,6 @@
 
-**1. Cách tạo nhà hàng**
+
+**3. Cách tạo nhà hàng**
 
 Có 3 cách để tạo mới và sử dụng nhà hàng như sau:
 
@@ -32,3 +33,11 @@ Bước 2: Click vào mũi tên hiển thị trên menu của nhà hàng hiện 
 Bước 3: Click vào Thêm nhà hàng để tạo 1 nhà hàng mới trong cùng 1 dự án 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/12/5595407_thc3aamnhc3a0hc3a0ng.png)
+
+Điền thông tin nhà hàng => click xác nhận
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5630049_screenshot-54.png)
+
+Giao diện thêm nhà hàng thành công
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5630061_screenshot-55.png)
