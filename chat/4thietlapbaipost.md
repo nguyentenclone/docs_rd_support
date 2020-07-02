@@ -1,4 +1,4 @@
- **4. Thiết lập bài post**
+**4. Thiết lập bài post**
 
 [cinwell website](https://www.youtube.com/embed/2izLao1EcZc ':include :type=iframe width=100% height=400px')
 
@@ -8,17 +8,21 @@ Chức năng này cho phép bạn có thể chọn từng bài Post trên fanpag
 
 - Trả lời riêng tư: Khi thiết lập tính năng Auto Reply Comment với nội dung trả lời riêng tư qua inbox, thì khi khách hàng comment tới bài post đó, hệ thống sẽ tự động inbox cho khách hàng với nội dung được thiết lập trong phần trả lời riêng tư đó.
 
+- Gửi sản phẩm cho khách hàng và khách hàng có thể tiến hành mua sản phẩm qua popup mua hàng nhanh
+
 **Cách sử dụng:**
 
 Bước 1: Từ menu Thiết lập bài post, chọn Thêm mới
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383847_46.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652033_35.png)
 
 Màn hình Thêm mới hiển thị ra như sau:
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383850_47.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652045_36.png)
 
 Bạn có thể bật điều kiện bài viết để thiết lập các điều kiện tương tác giữa khách hàng với bài viết đó:
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383861_48.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652046_37.png)
 
 Bước 2: Click **Chọn bài viết**, có thể chọn bài viết từ Danh sách bài viết hoặc nhập ID của bài viết đó.
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383868_49.png)
@@ -37,4 +41,49 @@ Cách lấy ID bài viết _(thường là những bài viết quảng cáo):_
 Bước 3: Sau khi thiết lập các chế độ, click vào nút bật ở góc bên phải màn hình và ấn vào **Cập nhật**
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383884_53.png)
 
-[Xem video HDSD](https://youtu.be/2izLao1EcZc?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Tạo và dùng thử Thiết lập bài viết.
+**Gửi sản phẩm qua inbox tự động:**
+
+- Trong phần Nội dung inbox cho khách hàng => chọn Sản phẩm 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652077_38.png)
+
+- Thêm mới sản phẩm : Có thể thêm từng sản phẩm hoặc thêm theo list từ file excel(tuy nhiên để có thể thêm từ file excel dụ án của bạn phải bật dịch vụ bán hàng)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652099_39.png)
+
+- Thêm mới từng sản phẩm:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652103_40.png)
+
+- Tải lên nhiều sản phẩm theo file mẫu:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652109_42.png)
+
+- Tích chọn vào những sản phẩm bạn muốn hiển thị và bấm vào nút Sử dụng sản phẩm
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652121_43.png)
+
+- Sau khi chọn xong sản phẩm, bấm vào Cập nhật để lưu
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652125_44.png)
+
+- Giao diện hiển thị sản phẩm khi khách hàng comment vào bài viết đã được thiết lập gửi sản phẩm:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652126_45.png)
+
+- Bấm vào nút Mua ngay có thể tiến hành mua được sản phẩm:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652128_46.png)
+
+- Click vào Danh sách đơn hàng để view đơn hàng của dự án:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652129_47.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652138_48.png)
+
+
+
+
+
+
+

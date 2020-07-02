@@ -51,7 +51,7 @@ Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Chọn
 
 Bước 2: Nhập vào địa chỉ website muốn nhúng chat bot => Chọn Kịch bản trả lời cho link nhúng => Click “Tạo mã nhúng”
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384357_97.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652156_49.png)
 
 Bước 3: Copy mã nhúng vừa tạo và gắn vào website muốn hiển thị
 

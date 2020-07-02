@@ -6,6 +6,7 @@
 - Danh sách là kết quả của sự kết hợp 1 hoặc nhiều bộ lọc có sẵn 
 - Targeting bao gồm các trường tùy chỉnh mặc định của dự án và các trường tùy chỉnh sinh ra trong quá trình sử dụng form hỏi đáp
 - Nội dung tin nhắn gửi đi luôn phải đảm bảo tuân thủ đúng yêu cầu về chính sách nhắn tin mới của Facebook (Xem nội dung chính sách thay đổi về gửi tin nhắn của Facebook [tại đây](https://chat.bizfly.vn/guides/#/notice/4tagoffacebook))
+- Gửi tin nhắn đến 1 hoặc nhiều danh sách khách hàng đã tạo từ mini CRM
 
 Để có thể hiểu và sử dụng được chức năng Gửi hàng loạt, bạn có thể tham khảo 2 ví dụ cụ thể dưới đây của chúng tôi.
 
@@ -97,3 +98,27 @@ Theo dõi thời gian và số liệu thống kê tại màn hình danh sách c�
 Bạn có thể click vào số khách hàng ước tính để xem danh sách khách hàng sẽ nhận được tin nhắn:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5605426_ghl14.png)
+
+**Ví dụ 3: Gửi tin nhắn tới những khách hàng đã được gán vào 1 danh sách từ mini CRM**
+
+Các bước thực hiện như sau: 
+
+- Chọn danh sách khách hàng trong CRM
+- Chọn các danh sách bạn muốn gửi
+- Setup thời gian gửi 
+- Chọn thêm mới kịch bản hoặc chọn kịch bản có sẵn 
+- Bấm vào Gửi hàng loạt
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5651940_guidanhsach.png)
+
+**Ngoài ra, bạn có thể nhân bản 1 luồng gửi hàng loạt thành nhiều bản khác nhau nếu muốn tận dụng những cài đặt ở luồng đó.**
+
+- Ở màn hình danh sách luồng gửi tin, bấm vào icon 3 chấm ở luồng bạn muốn nhân bản và chọn Nhân bản
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5651978_nhanban1.png)
+
+- Hoặc click vào chi tiết luồng gửi và chọn Nhân bản
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5651979_nhanban2.png)
+
+Sau khi nhân bản xong, bạn có thể chỉnh sửa lại luồng của luồng gửi copy và gửi như bình thường.
