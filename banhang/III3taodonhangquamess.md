@@ -1,6 +1,6 @@
 **3.	Tạo đơn hàng trên facebook qua messenger**
 
-Khi Bot bán hàng của bạn được kết nối với 1 chatbot kiểu bán hàng, khách hàng có thể trực tiếp đặt đơn hàng online. Sau khi khách hàng đặt hàng các thông tin về đơn hàng sẽ tự động được đẩy về trang admin quản lý bán hàng. Từ đó các nhân viên có thể tiếp cận và xử lý nhanh hơn.
+Khi Bot bán hàng của bạn được kết nối với 1 [chatbot](banhang/I3ketnoiChatBizfly.md) kiểu bán hàng, khách hàng có thể trực tiếp đặt đơn hàng online. Sau khi khách hàng đặt hàng các thông tin về đơn hàng sẽ tự động được đẩy về trang admin quản lý bán hàng. Từ đó các nhân viên có thể tiếp cận và xử lý nhanh hơn.
 
 Sau khi kết nối với chatbot, fanpage bán hàng của bạn sẽ có 1 kiểu kịch bản riêng dành cho bot bán hàng. Trong đó có sẵn link đặt hàng bạn có thể chỉnh sửa các thông tin khác như địa chỉ, chương trình khuyến mãi,... để phù hợp với bot bán hàng của mình.
 
