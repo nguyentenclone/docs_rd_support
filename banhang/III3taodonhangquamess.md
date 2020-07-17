@@ -10,7 +10,7 @@ Dưới đây là mẫu kịch bản kiểu bán hàng:
 
 - Chọn mua online
 
-Tại đây có thể xem danh sách sản phẩm theo danh mục hoặc tìm kiếm sản phẩm cũ thể
+Tại đây có thể xem danh sách sản phẩm theo danh mục hoặc tìm kiếm sản phẩm cụ thể
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/16/5665421_screenshot-6.png)
 
@@ -22,7 +22,7 @@ Bước 2: Xem giỏ hàng và điền thông tin => Click nút Gửi yêu cầu
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/16/5665453_screenshot-9.png)
 
-Sau khi click vào nút Tiếp tục trò chuyện, khách hàng sẽ nhận được 1 tin nhắn thông báo đặt hàng thành công 
+Khách hàng sẽ nhận được 1 tin nhắn thông báo đặt hàng thành công 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/16/5665457_screenshot-10.png)
 
