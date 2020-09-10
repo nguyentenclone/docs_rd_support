@@ -1,3 +1,4 @@
+
 - [**Lời mở đầu**](banhang/README.md)
 - [**I.   &nbsp;&nbsp;&nbsp;&nbsp;Thiết lập hệ thống bán hàng**](banhang/Ithietlaphethongbanhang.md)
 - [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.   &nbsp;Tạo tài khoản đăng nhập](banhang/I1taotaikhoandangnhap.md)
@@ -9,6 +10,7 @@
 - [**III. &nbsp;&nbsp;Quản lý đơn hàng**](banhang/IIIquanlydonhang.md)
 - [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. &nbsp;Tạo đơn hàng trên hệ thống bán hàng](banhang/III1taodonhangtrenhethongbanhang.md)
 - [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. &nbsp;Tạo đơn hàng trên ChatBot](banhang/III2taodonhangtrenChatBot.md)
+- [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. &nbsp;Tạo đơn hàng trên facebook ](banhang/III3taodonhangquamess.md)
 - [**IV.  &nbsp;&nbsp;&nbsp;Quản lý kho**](banhang/IVquanlykho.md)
 - [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.  &nbsp;Thiết lập kho hàng/NCC](banhang/IV1thietlapkhohangNCC.md)
 - [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.  &nbsp;Quản lý tồn kho](banhang/IV2quanlytonkho.md)
