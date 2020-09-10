@@ -65,10 +65,9 @@ Trong phần Cài đặt của zalobot, bạn click Sao chép link để lấy l
 Sau đó gắn link vào mục Official Account Callback Url và bấm Lưu lại.
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496679_13.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496680_14.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/10/5724612_screenshot-1.jpg)
-
-**Bước 7: Gắn webhook của zalo Bizfly để nhận các thay đổi từ OA của zalo như: message từ khách hàng, message từ OA gửi cho khách hàng, tag...**
+**Bước 7: Gắn webhook của chatbot Bizfly để nhận các thay đổi từ OA của zalo như: message từ khách hàng, message từ OA gửi cho khách hàng, tag...**
 
 _Lưu ý: URL webhook sẽ được bộ phận kỹ thuật của zalobot Bizfly cung cấp_
 
@@ -77,5 +76,5 @@ _Lưu ý: URL webhook sẽ được bộ phận kỹ thuật của zalobot Bizfl
 
 Bật các sự kiện bạn muốn webhook có thể nghe:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/09/5722786_zalo.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/18/5496685_17.png)
 

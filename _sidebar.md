@@ -3,7 +3,7 @@
   - [Coupon bizfly](coupon/)
   - [Restaurant bizfly](nhahang/)
   - [Billing bizfly](pay/)
-  - [Ship bizfly](ship/)
+  - [Zalo bot](zalo/)
   - [Sale bizfly](banhang/)
   - [Loyalty bizfly](Loyalty/)
   - [Notice](notice/)
