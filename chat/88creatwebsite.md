@@ -1,6 +1,5 @@
 
-
-## Hướng dẫn tạo mã nhúng website
+**Hướng dẫn tạo mã nhúng website**
 
 - Cho phép bạn nhúng box chat lên website bằng 1 đoạn mã 
 - Hỗ trợ thiết lập box chat với nhiều option trả lời đến từ nhiều bot tự động 
