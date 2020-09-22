@@ -1,11 +1,11 @@
 # Hướng dẫn tạo bot Zalo và kết nối với OA
 
 
-Bài viết nãy sẽ hướng dẫn cụ thể từng bước để kết nối 1 OA Zalo với nền tảng zalo bot Bizfly. Sau khi kết nối bạn có thể chăm sóc khách hàng, trả lời tự động theo từ khóa,...như tương tác trên OA.
+Bài viết này sẽ hướng dẫn cụ thể từng bước để kết nối 1 OA Zalo với nền tảng zalo bot Bizfly. Sau khi kết nối bạn có thể chăm sóc khách hàng, trả lời tự động theo từ khóa,...như tương tác trên OA.
 
 **1. Tạo bot kiểu Zalo**
 
-Sau khi đã tạo được tài khoản vào dự án từ trang my.bizfly.vn hoặc chat.bizfly.vn, bạn chọn nền tảng hoạt động của bot là Zalo.
+Sau khi đã tạo được tài khoản vào dự án từ trang https://my.bizfly.vn hoặc https://chat.bizfly.vn, bạn chọn nền tảng hoạt động của bot là Zalo.
 
 **Bước 1**: Bấm vào bot kiểu Zalo
 

@@ -33,6 +33,7 @@
 	- [8.5 Tạo nhãn cho nhóm khách hàng](chat/85taonhanchokh.md)
 	- [8.6 Lưu thông tin khách hàng](chat/86luuthongtinkh.md)
 	- [8.7 Tạo câu trả lời nhanh](chat/87taocautraloinhanh.md)
+	- [8.8 Tạo mã nhúng website](chat/88creatwebsite.md)
 - **9. Cài đặt**
 	- [9.1 Cài đặt chung](chat/91caidatchung.md)
 	- [9.2 Cài đặt tài khoản](chat/92caidattaikhoan.md)
