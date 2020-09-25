@@ -2,8 +2,12 @@
 **Hướng dẫn tạo mã nhúng website**
 
 - Cho phép bạn nhúng box chat lên website bằng 1 đoạn mã 
-- Hỗ trợ thiết lập box chat với nhiều option trả lời đến từ nhiều bot tự động 
 - 1 dự án có thể tạo nhiều mã nhúng khác nhau 
+- Có thể On/Off hoặc chỉnh sửa thời gian hiển thị của boxchat trên website
+- Hoạt động trên giao diện mới của Live chat
+- Thay vì tương tác với các nhóm support như phần cấu hình mã nhúng ở bot, đối với mã nhúng mới khách hàng sẽ tương tác với các option - chính là các bot trong dự án đó.
+- 1 mã nhúng có thể gồm nhiều option
+- Mỗi 1 option tương ứng với 1 bot
 
 **Bước 1**: Truy cập https://livechat.bizfly.vn, chọn Cài đặt Livechat 
 
