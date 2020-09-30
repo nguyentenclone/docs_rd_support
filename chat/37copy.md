@@ -34,7 +34,7 @@ Nếu copy khác bot, sau khi copy xong bạn cần chọn lại kịch bản ch
 
 Bước 1: Chọn bộ từ khóa muốn copy
 
-Bước 2: Click vào icon Copy kịch bản ở trên cùng góc phải của bộ từ khóa đó:
+Bước 2: Click vào icon Copy bộ từ khóa ở trên cùng góc phải của bộ từ khóa đó:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/30/5743697_screenshot-16.jpg)
 
