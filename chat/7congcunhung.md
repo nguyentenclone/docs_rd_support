@@ -66,7 +66,8 @@ Lưu ý: Bạn có thể thêm các URL và phân chia nhóm support cho link đ
 [Xem video HDSD](https://youtu.be/2pSwtgemlBY?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Công cụ nhúng.
 
 **7.4. Tích hợp mã nhúng website và Google Analytics**
-Sau khi tích hợp với Google analytics với mã nhúng website, b co sthere theo dõi được các số liệu thống kê sau đây:
+
+Sau khi tích hợp với Google analytics với mã nhúng website, bạn có thể theo dõi được các số liệu thống kê sau đây:
 
 - sent_message
 - recived_message
