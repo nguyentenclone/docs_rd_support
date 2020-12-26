@@ -1,4 +1,4 @@
- **8.2.** **Quản lý tin nhắn, comment qua BoxChat**
+ **8.2.** **Quản lý tin nhắn, comment**
 
 Thu thập tất cả những comment, tin nhắn của khách hàng và tự động cập nhật một cách nhanh nhất. Bạn có thể dễ dàng quản lý, giám sát và phản hồi nhanh chóng.
 

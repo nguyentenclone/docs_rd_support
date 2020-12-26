@@ -14,13 +14,12 @@ Màn hình mặc định của phần cài đặt chung
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827121_2.jpg)
 
-- Hỗ trợ tạo đơn hàng nhanh cho dịch vụ bán hàng hoặc nhà hàng bằng cách bật plugin tương ứng
--  Hỗ trợ Đồng bộ dữ liệu sang hệ thống CRM: đồng bộ dữ liệu sale, chặn đồng bộ user từ các nguồn...
+- Hỗ trợ Đồng bộ dữ liệu sang hệ thống CRM: đồng bộ dữ liệu sale, chặn đồng bộ user từ các nguồn...
 - Cấu hình thông báo khi có tin nhắn đến
 
 **8.1.2. Lọc cuộc hội thoại**
 
-Tính năng lọc cuộc hội thoại hỗ trợ người quản trị fanpage:
+Tính năng lọc cuộc hội thoại hỗ trợ:
 
 - Nhận tin từ các nguồn sau: Tin nhắn và bình luận từ facebook
 
@@ -29,6 +28,7 @@ Tính năng lọc cuộc hội thoại hỗ trợ người quản trị fanpage:
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827125_4.jpg)
 
 Ví dụ: Chatbot cho fanpage Max Speed 299, bạn chỉ muốn nhận tin nhắn của khách hàng liên quan đến kịch Tư vấn trực tiếp, bạn có thể bấm vào Chọn kịch bản và chọn kịch bản Tư vấn trực tiếp => active. 
+
 Như vậy, khi khách hàng nhắn tin những nội dung không liên quân đến kịch bản chào, tin nhắn đó sẽ không đổ về hệ thống. Tránh được những nội dung rác đối với những fanpage có lượng tương tác lớn.
 
 **8.1.3. Chia/chuyển tin nhắn**
@@ -54,6 +54,7 @@ Nếu có 1 nhân viên nào đó không hỗ trợ nữa, và bạn muốn chuy
 **8.1.4. Tin nhắn mẫu**
 
 Hỗ trợ tạo tin nhắn nhanh để tăng tốc độ trả lời đối với khách hàng, không để khách hàng phải chờ đợi câu trả lời quá lâu.
+
 Bạn có thể thiết lập thư mục tin nhắn mẫu dùng chung cho tất cả các fanpage trong dự án hoặc tin nhắn riêng cho từng bot.
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827129_8.jpg)
@@ -63,12 +64,15 @@ Bạn có thể thiết lập thư mục tin nhắn mẫu dùng chung cho tất 
 B1: Click vào thêm thư mục
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827130_9.jpg)
+
 B2: Nhập vào tên thư mục chứa tin nhắn mẫu và bấm Lưu lại
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827131_10.jpg)
+
 B3: Bấm vào Thêm tin nhắn ở phải màn hình bên phải 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827132_11.jpg)
+
 B4: Nhập nội dung tin nhắn(bao gồm text,ảnh) và bấm Lưu lại
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827133_12.jpg)
@@ -77,6 +81,7 @@ B4: Nhập nội dung tin nhắn(bao gồm text,ảnh) và bấm Lưu lại
 B1: Click vào thêm thư mục
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827130_9.jpg)
+
 B2: Nhập vào tên thư mục chứa tin nhắn mẫu và tích vào option Tạo thư mục cho tất cả bot => bấm Lưu lại
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827131_10.jpg)
