@@ -1,77 +1,101 @@
- **8. Quản lý Chat**
 
 [cinwell website](https://www.youtube.com/embed/dfv9BFAQ9Xw ':include :type=iframe width=100% height=400px')
 
 Sau khi kết nối thành công fanpage với hệ thống. Hệ thống sẽ tự động đồng bộ các tin nhắn và commnent của khách hàng đã để lại trên fanpage. Nhân viên hỗ trợ có thể trực tiếp theo dõi và trả lời trực tiếp các tin nhắn và comment tới khách hàng mà không cần phải vào facebook Fanpage.
 
- **8.1. Cài đặt chung**
+ **8.1. Cài đặt**
 
-**Cài đặt chung**:
+**8.1.1. Cài đặt chung**:
+
 
 Màn hình mặc định của phần cài đặt chung 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/24/5474776_153.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827122_3.jpg)
 
-**Lọc cuộc hội thoại**
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827121_2.jpg)
+
+- Hỗ trợ tạo đơn hàng nhanh cho dịch vụ bán hàng hoặc nhà hàng bằng cách bật plugin tương ứng
+-  Hỗ trợ Đồng bộ dữ liệu sang hệ thống CRM: đồng bộ dữ liệu sale, chặn đồng bộ user từ các nguồn...
+- Cấu hình thông báo khi có tin nhắn đến
+
+**8.1.2. Lọc cuộc hội thoại**
 
 Tính năng lọc cuộc hội thoại hỗ trợ người quản trị fanpage:
-
-- Chia tin nhắn cho các nhân viên hỗ trợ:  Tất cả đều nhìn thấy tin nhắn mới, Chia tin nhắn tự động cho từng nhân viên
 
 - Nhận tin từ các nguồn sau: Tin nhắn và bình luận từ facebook
 
 - Nhận tin từ Kịch bản cố định: Setup 1 kịch bản cố định, chỉ khi nào khách hàng tương tác với kịch bản đó thì mới nhận được tin nhắn
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384399_102.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827125_4.jpg)
 
-Ví dụ: Chatbot cho fanpage Thích café, bạn chỉ muốn nhận tin nhắn của khách hàng liên quan đến kịch bản chào, bạn có thể chọn kịch bản chào => active. Như vậy, khi khách hàng nhắn tin những nội dung không liên quân đến kịch bản chào, tin nhắn đó sẽ không đổ về hệ thống. Tránh được những nội dung rác đối với những fanpage có lượng tương tác lớn.
+Ví dụ: Chatbot cho fanpage Max Speed 299, bạn chỉ muốn nhận tin nhắn của khách hàng liên quan đến kịch Tư vấn trực tiếp, bạn có thể bấm vào Chọn kịch bản và chọn kịch bản Tư vấn trực tiếp => active. 
+Như vậy, khi khách hàng nhắn tin những nội dung không liên quân đến kịch bản chào, tin nhắn đó sẽ không đổ về hệ thống. Tránh được những nội dung rác đối với những fanpage có lượng tương tác lớn.
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384400_103.png)
-
-**Chia tin nhắn**
+**8.1.3. Chia/chuyển tin nhắn**
 
 Cho phép lựa chọn để tất cả các nhân viên trong cùng 1 bot có thể nhận tin nhắn hoặc chia tin nhắn tự động cho từng người được chọn:
 
-Có 2 chế độ đó là:
+Có 2 chế độ :
 
-- Tất cả đều nhìn thấy tin nhắn
+- Tất cả nhân viên đều được xử lý tin nhắn mới
 
-- Chia tin tự động và chỉ nhân viên được chia mới nhìn thấy
+- Chia tin tự động và chỉ nhân viên được chia mới được quyền xử lý tin nhắn
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384402_104.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827128_7.jpg)
 
- Ví dụ: Ở chatbot của fanpage Thích café, bạn muốn chia tin nhắn cho 3 nhân viên, 1 nhân viên còn lại không nhận tin nhắn, bạn chọn như sau:
- ![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384407_105.png)
+- Chuyển toàn bộ cuộc hội thoại từ nhân viên này sang nhân viên khác
 
-Hoặc sau khi 1 nhân viên nào đó không hỗ trợ nữa, và bạn muốn chuyển toàn bộ tin nhắn của người đó sang 1 người khác, bạn có thể chọn chuyển toàn bộ cuộc hội thoại.
+Nếu có 1 nhân viên nào đó không hỗ trợ nữa, và bạn muốn chuyển toàn bộ tin nhắn của người đó sang 1 người khác, bạn có thể chọn chuyển toàn bộ cuộc hội thoại.
 
- *Chọn nhân viên cần chuyển => chọn nhân viện tiếp nhận => Chuyển đổi*
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827127_6.jpg)
 
-**Thời gian hỗ trợ**
+ *Chọn nhân viên cần chuyển + chọn nhân viện tiếp nhận => Chuyển đổi*
 
-Thiết lập thời gian hỗ trợ cho nhân viên. Thiết lập này sẽ được sử dụng để thống kê thời gian phản hồi trung bình của từng nhân viên.
+**8.1.4. Tin nhắn mẫu**
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384408_106.png)
+Hỗ trợ tạo tin nhắn nhanh để tăng tốc độ trả lời đối với khách hàng, không để khách hàng phải chờ đợi câu trả lời quá lâu.
+Bạn có thể thiết lập thư mục tin nhắn mẫu dùng chung cho tất cả các fanpage trong dự án hoặc tin nhắn riêng cho từng bot.
 
-**Đánh giá**
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827129_8.jpg)
 
-Phần đánh giá khi người quản trị muốn đóng 1 cuộc hội thoại với khác, có thể để cho khách hàng đánh giá về fanpage, về các nội dung mà người quan trị muốn lấy ý kiến của khách hàng.
+- Tạo tin nhắn mẫu riêng cho từng bot
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384413_107.png)
+B1: Click vào thêm thư mục
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384415_108.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827130_9.jpg)
+B2: Nhập vào tên thư mục chứa tin nhắn mẫu và bấm Lưu lại
 
-Người quản trị có thể chỉnh sửa: Lời cảm ơn, thêm lựa chọn cho khách hàng đánh giá và chọn kịch bản tiếp theo để gửi lại cho khách hàng khi đã đánh giá.
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827131_10.jpg)
+B3: Bấm vào Thêm tin nhắn ở phải màn hình bên phải 
 
-**Lấy lại cuộc hội thoại**
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827132_11.jpg)
+B4: Nhập nội dung tin nhắn(bao gồm text,ảnh) và bấm Lưu lại
 
-Lấy về cuộc hội thoại trước đây của fanpage, tối đa 30.000 hội thoại. 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827133_12.jpg)
+- Tạo tin nhắn Chung cho tất cả các bot của dự án 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450951_135.png)
+B1: Click vào thêm thư mục
 
-**Xem cuộc hội thoại của nhiều fanpage cùng lúc**
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827130_9.jpg)
+B2: Nhập vào tên thư mục chứa tin nhắn mẫu và tích vào option Tạo thư mục cho tất cả bot => bấm Lưu lại
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450971_140.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827131_10.jpg)
 
+B3, B4 tương tự với phần tạo tin nhắn riêng cho từng bot
 
-[Xem video HDSD](https://youtu.be/dfv9BFAQ9Xw?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Quản lý chat.
+**8.1.5. Quản lý Tags**
+
+Quản lý các tag đã thêm mới trong Live chat, bạn có thể thay đổi màu sắc của tag để thuận tiện trong việc sử dụng và phân biệt các tag với nhau.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827134_13.jpg)
+
+**8.1.6. Lấy lại cuộc hội thoại**
+
+- Lấy về cuộc hội thoại trước đây của fanpage, tối đa 30.000 hội thoại. 
+- Hiện tại Livechat đang hỗ trợ lấy lại inbox bao gồm thông tin khách hàng và nội dung cuộc hội thoại đó
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/25/5827135_14.jpg)
+
+**8.1.7. Mã nhúng chat website**
+
+Tham khảo HDSD chi tiết tại mục 8.6

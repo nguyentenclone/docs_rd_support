@@ -28,13 +28,11 @@
 - [**7. Công cụ nhúng**](chat/7congcunhung.md)	
 - **8. Quản lý Chat**
 	- [8.1 Quản lý Chat](chat/81quanlychat.md)
-	- [8.2 Quản lý tin nhắn/comment qua BoxChat](chat/82qlytinnhancomtquaboxchat.md)
-	- [8.3 Lọc tin nhắn/comment theo điều kiện](chat/83loctinnhan.md)
-	- [8.4 Thêm người support](chat/84themngsupport.md)
-	- [8.5 Tạo nhãn cho nhóm khách hàng](chat/85taonhanchokh.md)
-	- [8.6 Lưu thông tin khách hàng](chat/86luuthongtinkh.md)
-	- [8.7 Tạo câu trả lời nhanh](chat/87taocautraloinhanh.md)
-	- [8.8 Tạo mã nhúng website](chat/88creatwebsite.md)
+	- [8.2 Quản lý tin nhắn/comment](chat/82qlytinnhancomtquaboxchat.md)
+	- [8.3 Lọc tin nhắn/comment](chat/83loctinnhan.md)
+	- [8.4 Thông tin khách hàng](chat/84thongtinkhachhang.md)
+	- [8.5 Plugin mở rộng](chat/85pluginmorong.md)
+	- [8.6 Tạo mã nhúng website](chat/86creatwebsite.md)
 - **9. Cài đặt**
 	- [9.1 Cài đặt chung](chat/91caidatchung.md)
 	- [9.2 Cài đặt tài khoản](chat/92caidattaikhoan.md)
