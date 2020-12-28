@@ -103,4 +103,4 @@ Quản lý các tag đã thêm mới trong Live chat, bạn có thể thay đổ
 
 **8.1.7. Mã nhúng chat website**
 
-Tham khảo HDSD chi tiết tại mục 8.6
+Tham khảo HDSD chi tiết tại [mục 8.6](https://chat.bizfly.vn/guides/#/chat/86creatwebsite)
