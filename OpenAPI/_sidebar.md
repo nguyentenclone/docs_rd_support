@@ -1,12 +1,2 @@
-
-
-
- 
- 
-
-
- 
-
-
- 
-
+- [**Thông số cấu hình chung**](OpenApi/1apitichhop.md)
+- [**Danh sách api**](OpenApi/2danhsachapi.md)
