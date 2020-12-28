@@ -1,7 +1,7 @@
 
 [cinwell website](https://www.youtube.com/embed/dfv9BFAQ9Xw ':include :type=iframe width=100% height=400px')
 
-Sau khi kết nối thành công fanpage với hệ thống. Hệ thống sẽ tự động đồng bộ các tin nhắn và commnent của khách hàng đã để lại trên fanpage. Nhân viên hỗ trợ có thể trực tiếp theo dõi và trả lời trực tiếp các tin nhắn và comment tới khách hàng mà không cần phải vào facebook Fanpage.
+Sau khi kết nối thành công fanpage với hệ thống. Hệ thống sẽ tự động đồng bộ các tin nhắn và commnent của khách hàng đã để lại trên fanpage. Nhân viên hỗ trợ có thể trực tiếp theo dõi và trả lời trực tiếp các tin nhắn và comment tới khách hàng mà không cần phải vào Facebook hoặc Zalo.
 
  **8.1. Cài đặt**
 
