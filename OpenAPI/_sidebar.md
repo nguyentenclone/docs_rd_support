@@ -1,2 +1,2 @@
-- [**Thông số cấu hình chung**](OpenApi/1apitichhop.md)
-- [**Danh sách api**](OpenApi/2danhsachapi.md)
+- [**Thông số cấu hình chung**](OpenAPI/1apitichhop.md)
+- [**Danh sách api**](OpenAPI/2danhsachapi.md)
