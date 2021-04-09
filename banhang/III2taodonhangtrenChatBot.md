@@ -1,6 +1,8 @@
+**1.1.3	Tạo đơn hàng trên chatbot**
+
 Sau khi đã kết nối fanpage vào hệ thống, bạn click vào menu Live Chat để mở phần quản lý tin nhắn đổ về từ fanpage.
 
-**1. Gửi trực tiếp danh sách sản phẩm cho khách hàng:**
+**1.1.3.1 Gửi trực tiếp danh sách sản phẩm cho khách hàng:**
 
 Bằng cách: Click vào *#sản phẩm* để chọn sản phẩm gửi cho khách hàng
 
@@ -15,7 +17,7 @@ Sau khi nhấn gửi, khách hàng sẽ nhận được danh sách như sau:
 Từ đó, khách hàng có thể click trực tiếp vào sản phẩm để đặt hàng.
 
 
- **2. Nhân viên tạo đơn hàng trên ChatBot**
+ **1.1.3.2 Nhân viên tạo đơn hàng trên ChatBot**
  
 Để gắn tiện ích đặt hàng trên BoxChat, bạn vào quản lý bán hàng=> Live Chat=> Cài đặt
 

@@ -1,3 +1,4 @@
+
 **4. Thành viên**
 
 **4.1 Thêm thành viên**
@@ -95,7 +96,7 @@ Khi thành viên có giao dịch tích điểm, điều chỉnh điểm hoặc g
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/25/5609745_screenshot-65.png)
 
-Tại đây có thể xem thông tin thành viên trong CRM
+Tại đây có thể xem thông tin thành viên trong mini CRM
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602682_h.png)
 

@@ -1,3 +1,4 @@
+
 **1. Trang chủ**
 
 Tại màn hình Trang chủ, bạn có thể tùy chọn thời gian để thống kê thông tin
@@ -23,6 +24,8 @@ Thống kê điểm phát sinh  theo thời gian lọc
 - Giao dịch tích điểm Trạng thái: Đã xác nhận
 
 - Phiếu điều chỉnh trạng thái: Đã điều chỉnh
+
+- Điểm cộng khi thăng hạng
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/20/5604755_screenshot-45.png)
 

@@ -1,0 +1,50 @@
+- [**Giới thiệu**](eshop/README.md)
+- **I Đơn hàng**
+     - **1.1 Tạo mới đơn hàng**
+	     - [1.1.1 Tạo mới đơn hàng trên hệ thống bán hàng](eshop/taodonhangtrenhethong.md)
+	     - [1.1.2 Tạo mới đơn hàng trên website](eshop/taodontrenwebsite.md)
+		 - [1.1.3 Tạo đơn hàng trên facebook](eshop/taodonhangquamess.md)
+	 - [**1.2 Danh sách đơn hàng**](eshop/danhsachdonhang.md)
+- **II Sản phẩm**   
+     - **2.1 Danh sách menu**
+	     - [2.1.1 Tạo mới menu](eshop/taomenu.md)
+		 - [2.1.2 Danh sách menu](eshop/danhsachmenu.md)
+     - **2.2 Danh mục sản phẩm**
+	     - [2.2.1 Tạo mới danh mục](eshop/taodanhmuc.md)
+		 - [2.2.2 Danh sách danh mục](eshop/danhsachdanhmuc.md)
+     - **2.3 Danh sách sản phẩm**
+	     - [2.3.1 Tạo mới sản phẩm](eshop/taosanpham.md)
+		 - [2.3.2 Danh sách sản phẩm](eshop/danhsachsanpham.md)
+		 - [2.3.3 Tạo mới bộ sản phẩm](eshop/taobosanpham.md)
+		 - [2.3.4 Danh sách bộ sản phẩm](eshop/danhsachbosanpham.md)
+     - **2.4 Kho hàng / Nhà cung cấp**
+	     - [2.4.1 Tạo mới kho hàng](eshop/taokhohang.md)
+		 - [2.4.2 Danh sách kho hàng](eshop/danhsachkhohang.md)
+		 - [2.4.3 Tạo mới nhà cung cấp](eshop/taonhacungcap.md)
+		 - [2.4.4 Danh sách nhà cung cấp](eshop/danhsachnhacungcap.md)
+     - **2.5 Nhập kho**
+         - [2.5.1 Tạo mới phiếu nhập](eshop/taophieunhap.md)
+		 - [2.5.2 Danh sách phiếu nhập](eshop/danhsachphieunhap.md)
+     - **2.6 Xuất kho**
+	     - [2.6.1 Tạo mới phiếu xuất](eshop/taophieuxuat.md)
+		 - [2.6.2 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
+     - **2.7 Cân bằng kho**
+	     - [2.7.1 Tạo mới phiếu cân bằng](eshop/taophieucanbang.md)
+		 - [2.7.2 Danh sách phiếu cân bằng](eshop/danhsachphieucanbang.md)
+	 - [**2.8 Quản lý tồn kho**](eshop/quanlytonkho.md)
+- **III Khách hàng**
+     - [**3.1 Danh sách khách hàng**](eshop/danhsachkhachhang.md)  
+- **IV Chiến dịch khuyến mại**
+	 - **4.1 Tạo mới chiến dịch**
+	     - [4.1.1 Tạo mới chiến dịch coupon](eshop/taochiendichcoupon.md)
+	     - [4.1.2 Tạo mới chiến dịch có điều kiện](eshop/taochiendichcodieukien.md)
+	 - [**4.2 Danh sách chiến dịch**](eshop/danhsachchiendich.md)
+- **V Báo cáo**
+     - [**5.1 Thống kê doanh số**](eshop/thongkedoanhso.md)
+	 - [**5.2 Thống kê đơn hàng**](eshop/thongkedonhang.md)
+	 - [**5.3 Thông tin kho**](eshop/thongtinkho.md)
+	 - [**5.4 Nhân viên**](eshop/nhanvien.md)
+- **VI Cài đặt**
+     - [**6.1 Bộ lọc**](eshop/boloc.md)
+	 - [**6.2 Quản lý Thương hiệu**](eshop/tagsthuonghieu.md)
+	     

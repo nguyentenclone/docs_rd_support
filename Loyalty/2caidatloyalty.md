@@ -1,11 +1,12 @@
-
-
 **3. Cài đặt loyalty**
 
 **3.1 Thiết lập**
 
-Thông tin loyalty đã được tạo có thể chỉnh sửa thông tin: Click vào hình ảnh chọn
-Thay đổi ảnh, Thay đổi tên và mô tả loyalty =>Click Lưu thay đổi 
+Thông tin loyalty đã được tạo có thể chỉnh sửa thông tin: Click vào hình 
+
+ảnh chọn Thay đổi ảnh, Thay đổi tên và mô tả loyalty =>Click Lưu thay 
+
+đổi 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/22/5641549_screenshot-1.png)
 
@@ -68,6 +69,8 @@ Kích hoạt thành công bật dịch vụ muốn gửi thông báo=>lưu thay 
 
 Tại đây có thể chỉnh sửa mẫu thông báo:
 
+**Note: Chỉnh sửa nội dung thông báo không cần click 'Lưu thay đổi' nữa **
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/25/5609541_screenshot-56.png)
 
 VD: Chỉnh sửa mẫu chào mừng thành viên mới Sms=> click vào  Sms nhập nội dung mới => Click lưu nội dung
@@ -110,6 +113,8 @@ Kích hoạt thành công giao diện lại mặc định về trang chủ
 
 **3.2 Thông báo**
 
+Thông báo gồm các giao dịch tích điểm đã thành công
+
 Hiện thị màn hình  danh sách thông báo là bản to của thông báo nhanh hình chuông
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/16/5600981_7.png)
@@ -132,7 +137,9 @@ Giao diện thêm nhân viên thành công tại đây có thể phân quyền c
 
 **Tạo bản sao**
 
-Tạo bản sao loyalty sẽ sao chép ra 1 loyalty mới: phần cài đặt và phân hạng thành viên sẽ giống loyalty vừa sao chép ban đầu
+Tạo bản sao loyalty sẽ sao chép ra 1 loyalty mới: phân hạng thành viên sẽ giống loyalty vừa sao chép ban đầu
 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/16/5601002_13.png)
+
+

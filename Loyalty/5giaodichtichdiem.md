@@ -1,9 +1,17 @@
 
 **6. Giao dịch tích điểm**
 
+Giao dịch tích điểm sẽ gồm các giao dịch tự động (giao dịch hoàn thành  
+
+đơn hàng thành công bên: bot bán hàng, bot nhà hàng, salon tóc,... ) và 
+
+các giao dịch, phiếu chuyển điểm ngay tại loyalty.
+
 **6.1 Thêm mới giao dịch**
 
-Trong màn giao dịch tích điểm click vào Thêm mới
+Trong màn giao dịch tích điểm, có thể thêm thủ công các giao dịch bằng 
+
+cách click vào Thêm mới
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603128_screenshot-13.png)
 

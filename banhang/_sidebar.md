@@ -18,3 +18,4 @@
 - [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.  &nbsp;Xử lý phiếu xuất](banhang/IV4xulyphieuxuat.md)
 - [**V.   &nbsp;&nbsp;&nbsp;&nbsp;Chiến dịch khuyến mãi** ](banhang/VChiendichkhuyenmai.md)
 - [**VI.   &nbsp;&nbsp;&nbsp;Báo cáo** ](banhang/VIbaocao.md)
+

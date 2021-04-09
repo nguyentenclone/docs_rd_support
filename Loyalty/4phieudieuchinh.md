@@ -1,4 +1,8 @@
+
+
 **5. Phiếu điều chỉnh**
+
+Mục đích: Điều chỉnh điểm hàng loạt
 
 **5.1 Thêm phiếu**
 
@@ -10,7 +14,7 @@ Trong màn phiếu điều chỉnh có thể thêm phiếu theo 2 kiểu:
  
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602808_111.png)
  
-**Note: Thành viên có trạng thái thẻ ngưng sử dụng cũng điều chỉnh điểm được**
+**Note: Thành viên có trạng thái thẻ ngưng sử dụng, cũng điều chỉnh điểm được**
 
  
 Giao diện từng màn sẽ như sau:
@@ -25,14 +29,14 @@ Giao diện từng màn sẽ như sau:
 
 **Thêm thành viên có 2 cách**
 
-**Cách 1:** Thêm thành viên từ danh sách
+**Cách 1:** Thêm thành viên từ danh sách thành viên
 
 Cho phép tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm theo giới tính nữ => click Tìm kiếm. Chọn thành viên=> Thêm thành viên
 
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602825_114.png)
  
-**Cách 2:** Thêm thành viên từ excel
- 
+**Cách 2:** Thêm thành viên từ excel (thành viên thuộc loyalty)
+
 Tải  về file mẫu => Điền mã thẻ thành viên cần điều chỉnh điểm
  
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602841_d.png)
@@ -61,6 +65,16 @@ Màn chấp nhận phiếu thành công
 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/18/5602854_screenshot-5.png)
+
+**Note:**
+
+-  Phiếu điều chỉnh điểm sẽ đổ về danh sách giao dịch tích điểm
+
+- Phiếu điều chỉnh điểm cộng điểm âm sẽ không xuống hạng thẻ (tức 
+
+thành viên đã lên hạng thẻ sẽ không xuống hạng dù điểm không đủ 
+
+điểm hạng hiện tại)
 
  **Dạng import excel**
  
