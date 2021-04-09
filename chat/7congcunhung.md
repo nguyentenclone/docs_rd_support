@@ -65,3 +65,16 @@ Lưu ý: Bạn có thể thêm các URL và phân chia nhóm support cho link đ
 
 [Xem video HDSD](https://youtu.be/2pSwtgemlBY?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Công cụ nhúng.
 
+**7.4. Tích hợp mã nhúng website và Google Analytics**
+
+Sau khi tích hợp với Google analytics với mã nhúng website, bạn có thể theo dõi được các số liệu thống kê sau đây:
+
+- sent_message
+- recived_message
+- open_box_chat
+
+Để tích hợp, bạn chỉ cần nhập mã Google analytics vào trong phần tạo mã nhúng website như hình dưới đây:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/22/5824229_screenshot-3.jpg)
+
+Sau khi tạo xong mã nhúng, bạn gắn lên website và có thể vào GA để theo dõi tương tác của khách hàng với website

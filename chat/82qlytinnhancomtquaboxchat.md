@@ -1,48 +1,46 @@
- **8.2.** **Quản lý tin nhắn, comment qua BoxChat**
+ **8.2.** **Quản lý tin nhắn, comment**
 
 Thu thập tất cả những comment, tin nhắn của khách hàng và tự động cập nhật một cách nhanh nhất. Bạn có thể dễ dàng quản lý, giám sát và phản hồi nhanh chóng.
 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827423_15.jpg)
 -   Giao diện trực quan, dễ dàng sử dụng
 -   Phân loại comment, tin nhắn đã được hỗ trợ, tin chưa được đọc và tin mới một cách chính xác
--   Boxchat giúp bạn quản lý tập trung từ nhiều nguồn khác nhau như website, facebook.
--   Xem đầy đủ nội dung bài viết mà khách hàng comment:
+-   Boxchat giúp bạn quản lý tập trung từ nhiều nguồn khác nhau như website, facebook, zalo.
+-   Xem đầy đủ nội dung bài viết mà khách hàng comment
 
-    Bấm vào nút Mở rộng:
+**8.2.1. Xem lịch sử chat**
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450964_136.png)
+Khi bạn thay đổi các thông tin sau, hệ thống sẽ lưu vào lịch sử cuộc hội thoại:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450965_137.png)
+- Đánh dấu hội thoại đã xong
+- Đánh dấu hội thoại chưa xong
+- Đánh dấu hội thoại là spam
+- Thêm/ xóa số điện thoại hoặc email của khách hàng
 
--   Xem lịch sử chat:
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827434_16.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450966_138.png)
+ **8.2.2. Tắt bot**
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384421_109.png)
+Nếu không muốn khách hàng tương tác với kịch bản tự động và thay vào đó là nhân viên trả lời thủ công bạn có thể chọn tắt bot tại đây:
 
--   Tắt chatbot
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827469_17.jpg)
 
-Nếu không muốn khách hàng tương tác với kịch bản tự động và thay vào đó là nhân viên trả lời thủ công.
+Bạn có thể lựa chọn thời gian tắt bot như sau:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/02/24/5474779_154.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827477_18.jpg)
+
+**8.2.3. Gửi tin nhắn cho khách hàng**
+
+- Livechat hỗ trợ gửi các tin nhắn chứa text, icon, hình ảnh
+
+- Đối với những khách hàng có thời gian tương tác < 24h đối với fanpage, bạn có thể gửi tin nhắn luôn cho khách hàng khi cần
+
+- Đối với những khách hàng có thời gian tương tác >24h đối với fanpage, bạn cần chọn thẻ tag phù hợp với nội dung để có thể gửi tin nhắn cho khách hàng do chính sách 24h của facebook.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827481_19.jpg)
+
+- Bạn có thể chọn tin nhắn mẫu đã tạo từ trước để tiết kiệm thời gian trả lời khách hàng:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827487_20.jpg)
 
 
-**Tích hợp plugin FreshDesk ticket (tạo ticket trên FreshDesk)**
-
-Nhân viên sau khi đăng nhập vào trang [https://wowholiday.freshdesk.com/](https://wowholiday.freshdesk.com/) sẽ lấy keyAPI để sử dụng tạo ticket.
-Để mở plugin, bạn click vào dấu cộng ở góc phải cuối màn hình:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451138_141.png)
-
-Sau khi popup được mở ra, bạn nhập vào APIkey và tiến hành tạo ticket như bình thường:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451147_142.png)
-
-Ticket tạo xong sẽ được đẩy sang trang: [https://wowholiday.freshdesk.com/a/tickets/filters/all_tickets](https://wowholiday.freshdesk.com/a/tickets/filters/all_tickets)
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451148_143.png)
-
-Danh dách ticket của khách hàng sẽ được hiển thị ở cột bên phải màn hình:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451149_144.png)
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450968_139.png)
