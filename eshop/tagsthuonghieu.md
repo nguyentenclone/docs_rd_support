@@ -1,6 +1,6 @@
 
 
-**6.2	Quản lý thương hiệu**
+**6.5	Quản lý thương hiệu**
 
 - Thêm thương hiệu của sản phẩm
 

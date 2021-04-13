@@ -1,6 +1,6 @@
 
 
-**6.1	Bộ lọc**
+**6.4	Bộ lọc**
 
 + Cấu hình bộ lọc cho sản phẩm/bộ sản phẩm thông qua danh mục
 

@@ -1,6 +1,6 @@
 **5.1 Thống kê doanh số**
 
-- Thống kê doanh số giá trị đơn hoàn thành và giá trị đơn hàng trung bình theo thời gian:
+- Thống kê doanh số giá trị đơn hoàn thành và giá trị đơn hàng trung bình theo thời gian và theo nguồn:
    
     + Giá trị đơn hoàn thành: Tổng giá trị các đơn hàng được cập nhật hoàn thành trong khoảng thời gian
 	

@@ -1,6 +1,6 @@
 **5.3	Thông tin kho**
 
-- Thông tin kho trong khoảng thời gian lọc
+- Thông tin kho
    
    + Sản phẩm hết hàng: Sản phẩm có số lượng bằng 0
    

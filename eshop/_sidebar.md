@@ -17,11 +17,13 @@
 		 - [2.3.2 Danh sách sản phẩm](eshop/danhsachsanpham.md)
 		 - [2.3.3 Tạo mới bộ sản phẩm](eshop/taobosanpham.md)
 		 - [2.3.4 Danh sách bộ sản phẩm](eshop/danhsachbosanpham.md)
-     - **2.4 Kho hàng / Nhà cung cấp**
+     - **2.4 Kho hàng / Nơi cung cấp**
 	     - [2.4.1 Tạo mới kho hàng](eshop/taokhohang.md)
 		 - [2.4.2 Danh sách kho hàng](eshop/danhsachkhohang.md)
 		 - [2.4.3 Tạo mới nhà cung cấp](eshop/taonhacungcap.md)
 		 - [2.4.4 Danh sách nhà cung cấp](eshop/danhsachnhacungcap.md)
+		 - [2.4.5 Tạo mới nơi sản xuất](eshop/taomoinoisanxuat.md)
+		 - [2.4.6 Danh sách nơi sản xuất](eshop/danhsachnoisanxuat.md)
      - **2.5 Nhập kho**
          - [2.5.1 Tạo mới phiếu nhập](eshop/taophieunhap.md)
 		 - [2.5.2 Danh sách phiếu nhập](eshop/danhsachphieunhap.md)
@@ -44,7 +46,11 @@
 	 - [**5.2 Thống kê đơn hàng**](eshop/thongkedonhang.md)
 	 - [**5.3 Thông tin kho**](eshop/thongtinkho.md)
 	 - [**5.4 Nhân viên**](eshop/nhanvien.md)
+	 - [**5.5 Lý do hủy đơn**](eshop/lydohuydon.md)
 - **VI Cài đặt**
-     - [**6.1 Bộ lọc**](eshop/boloc.md)
-	 - [**6.2 Quản lý Thương hiệu**](eshop/tagsthuonghieu.md)
+     - [**6.1 Thông tin chung**](eshop/thongtinchung.md)
+	 - [**6.2 Cấu hình phiếu xuất/nhập**](eshop/cauhinhxuatnhap.md)
+	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
+     - [**6.4 Bộ lọc**](eshop/boloc.md)
+	 - [**6.5 Quản lý Thương hiệu**](eshop/tagsthuonghieu.md)
 	     

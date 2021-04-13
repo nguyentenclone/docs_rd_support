@@ -1,6 +1,6 @@
 **5.4 Nhân viên**
 
-- Thông tin nhân viên trong khoảng thời gian lọc
+- Thông tin nhân viên
    
    + Sắp xếp danh sách theo nhân viên nhiều đơn nhất sẽ hiển thị lên đầu
    

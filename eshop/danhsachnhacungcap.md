@@ -5,7 +5,7 @@
 
 Hiển thị đầy đủ nhà cung cấp, thông tin nhà cung cấp, ngày tạo nhà cung cấp
 
-- Tại danh sách nhà cung cấp có thể tìm kiếm kho theo tỉnh/thành phố, chỉnh sửa vào xóa nhà cung cấp
+- Tại danh sách nhà cung cấp có thể tìm kiếm nhà cung cấp theo tỉnh/thành phố, chỉnh sửa vào xóa nhà cung cấp
 
   + **Tìm kiếm nhà cung cấp**
   

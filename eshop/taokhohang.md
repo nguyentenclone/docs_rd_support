@@ -3,7 +3,7 @@
 
 **2.4.1	Tạo mới kho hàng**
 
-**Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Kho hàng/Nhà cung cấp'
+**Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Kho hàng/Nơi cung cấp'
 
 **Bước 2**:   Tại tab 'Kho hàng' Click buton 'Thêm mới kho'
 
