@@ -7,10 +7,13 @@
 - [**6. Giao dịch tích điểm**](Loyalty/5giaodichtichdiem.md) 
 - [**7. Phân hạng thành viên**](Loyalty/6phanhangtv.md) 
 - [**8. Điều chỉnh hạng thủ công**](Loyalty/7dchangthucong.md) 
- 
+- 9.Đổi quà tặng
+     - [**9.1 Kênh đổi quà**](Loyalty/kenhdoiqua.md)
+	 - [**9.2 Danh sách quà tặng**](Loyalty/danhsachquatang.md)
+	 - [**9.3 Đơn đổi quà tặng**](Loyalty/dondoiquatang.md)
+	   
+
 
  
-
-
  
 
