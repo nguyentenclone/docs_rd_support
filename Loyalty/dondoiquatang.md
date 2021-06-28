@@ -4,6 +4,6 @@
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/05/31/5963907_7.png)
 
-- Tại danh sách đơn có thể tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm đơn của khách hàng 'Thùy'
+- Tại danh sách đơn có thể tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm đơn của khách hàng 'thuy' và tên quà 'giáng sinh'
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/05/31/5964056_screenshot-1.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/05/31/5964099_screenshot-2.png)
