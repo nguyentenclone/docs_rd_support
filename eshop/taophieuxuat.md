@@ -1,4 +1,5 @@
 
+
 **2.6.1	Tạo phiếu xuất**
 
 Để xuất sản phẩm ra khỏi kho cần tạo phiếu xuất
@@ -11,8 +12,10 @@
 
 **Bước 3**: Nhập thông tin  phiếu xuất. Có 3 hình thức vận chuyển phiếu xuất
 
- + Nhận hàng trực tiếp: Khác mua và nhận tại cửa hàng. Phiếu trạng thái 'Đã xuất kho' => Đơn hoàn thành luôn 
+ + Nhận hàng trực tiếp: Khách mua và nhận tại cửa hàng (Phí ship sẽ cập nhật lại về 0đ). Phiếu trạng thái 'Đã xuất kho' => Đơn hoàn thành luôn 
+ 
 + Tự giao hàng: Bên bán tự giao hàng. Phiếu trạng thái 'Đã xuất kho' => Đơn hàng 'Đang giao hàng' 
+
 + Đối tác vận chuyển: Hàng hóa sẽ được bên thứ 3 giao vận chuyển đi.  Phiếu trạng thái 'Đã xuất kho' => Đơn hàng trạng thái sẽ theo bên vận chuyển
 
 Nhập thông tin xuất kho => click 'Tạo phiếu xuất' 
