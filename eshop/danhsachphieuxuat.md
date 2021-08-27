@@ -1,5 +1,6 @@
 
 
+
 **2.6.2 Danh sách phiếu xuất**
 
 - Hiển thị đầy đủ phiếu xuất và đầy đủ trạng thái của phiếu: Phiếu mới, phiếu chờ xuất, đã xuất kho, đã hủy
@@ -22,7 +23,9 @@
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893769_screenshot-13.png)
 
-Hủy thành công phiếu về trạng thái 'Đã hủy'
+Hủy thành công phiếu về trạng thái 'Đã hủy' 
+
+**Note:** Với phiếu xuất từ đơn, hủy phiếu thành công đơn sẽ về trạng thái 'Đang xử lý' để yêu cầu xuất kho lại
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893771_screenshot-14.png)
 

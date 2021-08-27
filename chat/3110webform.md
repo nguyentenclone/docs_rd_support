@@ -57,6 +57,10 @@ Với những trường hợp sử dụng lần đầu, sẽ chưa có form nào
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5630129_32.png)
 
+- Bạn có thể cài đặt nội dung gửi đi khi hoàn thành form bằng cách click vào Chọn sẵn kịch bản như dưới hình:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/25/5996528_tg5.png)
+
 - Thông tin về câu trả lời của khách hàng, bạn có thể kiểm tra bằng cách truy cập vào **Quản lý khách hàng** => Click vào **Xem chi tiết user** => Kéo đến phần **Thông tin Chat Bizfly**:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/11/5630134_34.png)

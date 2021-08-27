@@ -131,93 +131,24 @@ Nhân sự tư vấn hỗ trợ những vấn đề chưa được giải quyế
 
 Hiện tại, khi sử dụng dịch vụ chatbot Bizfly bạn có thể chọn thẻ message tag phù hợp với nội dung tin nhắn của fanpage.
 
-- Chọn thẻ trong khi setup kịch bản
+- Chọn thẻ trong khi setup kịch bản: Bạn có thể chọn các loại thẻ tương ứng với nội dung kịch bản (tin nhắn). Hiện tại thẻ Tư vấn viên của chúng tôi đang trong quá trình hoàn thiện, phiên bản mới nhất sẽ được update tới người dùng trong thời gian tới.
 
-Bạn có thể chọn các loại thẻ tương ứng với nội dung kịch bản (tin nhắn). Hiện tại thẻ Tư vấn viên của chúng tôi đang trong quá trình hoàn thiện, phiên bản mới nhất sẽ được update tới người dùng trong thời gian tới.
+- Chọn thẻ trong phần chat support
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/25/5503136_11111.png)
 
-- Chọn thẻ trong phần chat support:
+**Ví dụ 1: Gửi kịch bản cho khách hàng tương tác quá 24h** 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504325_screenshot-1.png)
+Để gửi được kịch bản cho khách hàng tương tác với fanpage >24h, bạn cần chọn thẻ tag cho kịch bản đó. Nội dung kịch bản gửi đi phải sát với nội dung của thẻ tag, và không được chứa nội dung quảng cáo.
 
-**Ví dụ 1: Bạn đang muốn gửi 1 tin nhắn đến 1 danh sách khách hàng, thời gian tương tác của họ với fanpage đã vượt quá khung 24h mà Facebook quy định.**  Bạn có thể thao tác theo các bước dưới đây:
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/25/5996449_tg2.png)
 
-Bước 1: Click Quản lý khách hàng 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/25/5996450_tg1.png)  
 
-Bước 2: Lọc ra những khách hàng đã tương tác trong khoảng 24h
+**Ví dụ 2: Bạn cần gửi tin nhắn CSKH cho những người đã vượt quá khung 24 trong phần Chatbox**
 
-Tại phần Tìm kiếm Chọn Thêm bộ lọc => Chọn Thời gian tin nhắn cuối trên Facebook => Chọn điều kiện lớn hơn hoặc bằng => Chọn thời gian muốn lọc(chọn lùi lại 24h so với thời gian và ngày hiện tại)
+Trong phần nhập nội dung trả lời cho khách hàng, bạn cần chọn thẻ tag để gắn cho nội dung đó:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504353_2.png)
-
-Sau khi lọc được dữ liệu theo điều kiện này, bạn nên gán vào 1 ds đánh dấu khung 24h.
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504360_3.png)
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504361_4.png)
-
-Bước 3: Tạo thêm 1 bộ lọc để ra được danh sách những người tương tác ngoài khung 24h
-
-Bộ lọc này sẽ lọc ra những người tương tác không có trong nhóm danh sách bạn vừa gán ở bước trên.
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504363_5.png)
-
-Kết quả: Hiển thị được danh sách những người chưa có thời gian tương tác cuối hoặc nằm ngoài danh sách trong khung 24h
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504364_6.png)
- 
- Bước 4: Gán danh sách cho nhóm người dùng không nằm trong khung 24h(tương tự bước gán danh sách ở bước 2)
- 
- Bước 5:  Tạo kịch bản hẹn giờ
-
-- Tạo Khung hẹn giờ 
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504374_7.png)
- 
-- Tạo nội dung cho kịch bản hẹn giờ hoặc chọn từ những kịch bản có sẵn
- 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/26/5504375_8.png)
- 
-- Chọn thẻ message tag phù hợp với nội dung tin nhắn gửi đi:
- 
- Giả sử bạn muốn nhắc cho khách hàng nhớ về thời gian diễn ra sự kiện đang sắp diễn ra, bạn hãy chọn thẻ Xác nhận sự kiện như hình.
- 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504377_9.png)
-
-- Sau khi thêm xong kịch bản, bạn cần thêm khung giờ gửi kịch bản đó và bấm Cập nhật
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504384_10.png)
-
-Bước 6: Thêm nhóm đối tượng để nhận tin nhắn
-
-Nhóm đối tượng trong ví dụ này chính là nhóm đối tượng được lọc và gán danh sách ở bước 4
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504385_11.png)
- 
- Sau khi thêm đối tượng xong, bạn sang tab Nội dung kịch bản bấm Cập nhật để lưu nhóm đối tượng và khung gửi. Và hệ thống sẽ bắt đầu gửi kịch bản cho danh sách đối tượng đó.
- Kết quả:
- 
- Fanpage có thể gửi được nội dung tin nhắn cho khách hàng đã tương tác từ nhiều ngày trước đó:
- 
- ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504405_12.png)
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504406_13.png)
-
-**Ví dụ 2: Bạn cần gửi tin nhắn CSKH cho những người đã vượt quá khung 24 trong phần Chatbox**, bạn có thể làm như sau:
-
-- Khi gửi tin nhắn và bị lỗi, bạn có thể trỏ chuột vào tam giác cảnh báo để biết mình đang gặp lỗi gì
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504419_14.png)
-
-- Sau đó click vào dấu 3 chấm bên cạnh để chọn thẻ message tag phù hợp với nội dung tin nhắn:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504420_15.png)
-
-Kết quả: Tin nhắn đã được gửi đi 
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/03/27/5504422_16.png)
-
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/25/5996501_tg3.png)
 
 
 **4. Mã API sử dụng 1 lần**

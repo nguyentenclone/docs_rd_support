@@ -1,5 +1,6 @@
 
 
+
 **1.2 Danh sách đơn hàng**
 
 - Hiển thị đầy đủ đơn hàng đặt từ hệ thống và đơn đổ về từ các nguồn khác nhau: website, facebook
@@ -23,6 +24,13 @@
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5908253_screenshot-87.png)
 
+- In đơn hàng ở các trạng thái: Đơn mới, Đang xử lý, Đang đóng gói, Đang giao hàng, Đơn hủy 
+  
+     - Vào chi tiết đơn hàng=> Click 'In hóa đơn'
+    
+         ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/28/5999783_screenshot-54.png) 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/28/5999791_screenshot-55.png)
 - Đơn có thể hủy ở các trạng thái: Đơn mới, Đang xử lý, Đang đóng gói, Đang giao hàng. Click button 'Hủy đơn' 
 
 

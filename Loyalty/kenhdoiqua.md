@@ -14,7 +14,6 @@
 
 **- Kết nối kênh solo**
 
-
   - Click 'Kết nối ngay' hiển thị popup chọn doanh nghiệp để kết nối hoặc Tạo mới danh nghiệp: 
   
   ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/06/16/5985294_screenshot-40.png)

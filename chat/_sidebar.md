@@ -33,10 +33,6 @@
 	- [8.4 Thông tin khách hàng](chat/84thongtinkhachhang.md)
 	- [8.5 Plugin mở rộng](chat/85pluginmorong.md)
 	- [8.6 Tạo mã nhúng website](chat/86creatwebsite.md)
-- **9. Cài đặt**
-	- [9.1 Cài đặt chung](chat/91caidatchung.md)
-	- [9.2 Cài đặt tài khoản](chat/92caidattaikhoan.md)
-	- [9.3 Cài đặt Live chat](chat/93caidatlivechat.md)	
 
   
  

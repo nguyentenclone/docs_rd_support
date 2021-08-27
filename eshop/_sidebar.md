@@ -36,7 +36,7 @@
 	 - [**2.8 Quản lý tồn kho**](eshop/quanlytonkho.md)
 - **III Khách hàng**
      - [**3.1 Danh sách khách hàng**](eshop/danhsachkhachhang.md)  
-- **IV Chiến dịch khuyến mại**
+- **IV Chiến dịch khuyến mại**           
 	 - **4.1 Tạo mới chiến dịch**
 	     - [4.1.1 Tạo mới chiến dịch coupon](eshop/taochiendichcoupon.md)
 	     - [4.1.2 Tạo mới chiến dịch có điều kiện](eshop/taochiendichcodieukien.md)
@@ -53,4 +53,8 @@
 	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
      - [**6.4 Bộ lọc**](eshop/boloc.md)
 	 - [**6.5 Quản lý Thương hiệu**](eshop/tagsthuonghieu.md)
-	     
+	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
+	 - [**6.7 Quản lý nhân viên**](eshop/quanlynhanvien.md)	
+	 
+      
+     
