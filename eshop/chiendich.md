@@ -1,3 +1,4 @@
+
 **6.8.2 Chiến dịch**
 
 - **Tạo mới chiến dịch**
@@ -7,32 +8,49 @@
 **Bước 2**: Click button 'Thêm chiến dịch mới'
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/08/31/6069493_screenshot-7.png)
-   
+
+  
 **Bước 3**: Chọn loại chiến dịch và nhập thông tin chiến dịch
 
+Có 2 loại chiến dịch: 
 
+**Loại 1: Giới thiệu sản phẩm**
+
+ - Quan hệ: 
+   - 1 chiến dịch - 1 sản phẩm
+   - 1 chiến dịch - N Đối tác
+ 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6071063_screenshot-38.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6071079_screenshot-39.png)
 
 **Note:**
--  Chiến dịch loại 'Giới thiệu sản phẩm' có thể cấu hình  các block để tạo thành 1 landing
+
+- Tạo mới chiến dịch thành  công mới có thể copy link để mua hàng
+
+- Đối với sản phẩm mới, cần nhập kho để có số lượng mới có thể mua hàng trên langding page
 
 - Chiến dịch tạm dừng hoạt động, hoặc chưa đến thời gian diễn ra hoặc hết thời gian sẽ không mua hàng được trên langding page
 
-**Bước 4**: 
-
-- Cuối cùng, click button 'Tạo mới' để hoàn thành việc thêm mới chiến dịch
-
-
-
-
-**Note:** 
-
-- Đối với sản phẩm mới, cần nhập kho để có số lượng mới có thể mua hàng trên langding page
-- Tạm dừng trạng thái hoạt động của chiến dịch =>Tất cả link langding page của các đối tác của chiến dịch sẽ không mua hàng được
 - Tạm dừng trạng thái hoạt động của đối tác trong chiến dịch => Trang langding page của đối tác trong chiến dịch sẽ không mua hàng được
 
-**Bước 5:** Thêm mới chiến dịch thành công click 'Copy link' để sử dụng mua hàng trên trang langding page
 
-**Bước 6:** 
+**Loại 2: Giới thiệu Link**
+
+- Quan hệ:
+  -  1 chiến dịch - 1 link giới thiệu
+  - 1 chiến dịch - N đối tác 
+- Muốn thay đổi link giới thiệu phải xóa hết đối tác đi mới thay đổi được
+
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6071091_screenshot-40.png)
+
+
+
+**Bước 4:** Thêm mới chiến dịch thành công click 'Copy link' để sử dụng mua hàng
+
+**Bước 5:** 
 - Chọn số lượng, phân loại sản phẩm (nếu có) và nhập thông tin mua hàng => Click 'Đặt hàng' để hoàn thành việc mua hàng 
 
 - Đặt hàng thành công sẽ có email gửi về cho khách hàng 
