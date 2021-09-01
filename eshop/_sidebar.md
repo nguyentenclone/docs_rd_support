@@ -55,6 +55,14 @@
 	 - [**6.5 Quản lý Thương hiệu**](eshop/tagsthuonghieu.md)
 	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
 	 - [**6.7 Quản lý nhân viên**](eshop/quanlynhanvien.md)	
-	 
+	 - **6.8 Quản lý Affiliate**
+	     - [6.8.1 Quản lý đối tác](eshop/quanlydoitac.md)
+		 - [6.8.2 Chiến dịch](eshop/chiendich.md)
+		 - [6.8.3 Báo cáo](eshop/baocaoaffiliate.md)	 
+	 - **6.9 Kết nối đối tác vận chuyển**
+	     - [6.9.1 Kết nối cổng vận chuyển ViettelPost](eshop/ketnoiviettelpost.md)
+		 - [6.9.2 Kết nối cổng vận chuyển Ahamove](eshop/ketnoiahamove.md)
+		
+     	
       
      
