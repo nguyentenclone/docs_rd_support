@@ -1,5 +1,6 @@
 
 
+
 **6.8.1 Danh sách đối tác**
 
 - **Tạo mới đối tác**
@@ -38,6 +39,7 @@
    **Note:**
    
    - Đối tác trạng thái tạm dừng hoạt động sẽ không có trong list danh sách chọn đối tác vào chiến dịch
+   
    - Trường hợp đối tác đã tham gia chiến dịch rồi mới tạm dừng thì doanh thu KOLs trong chiến dịch tính bình thường
 
 
@@ -65,20 +67,33 @@
 
 - Truy cập chi tiết đối tác bằng cách Click vào Tên đối tác hoặc button 'Chi tiết' 
 
-- Thống kê hiệu quả doanh thu, giá trị đơn hàng, số chiến dịch đã tham gia và chi tiết chiến dịch trong khoảng thời gian lọc
+- Thống kê hiệu quả doanh thu, giá trị đơn hàng, số chiến dịch đã tham gia  và tổng click
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074353_screenshot-20.png)
 
 - Thống kê chi tiết chiến dịch có thể : 
 
      + Xuất ra file excel chiến dịch của đối tác đã tham gia trong khoảng thời gian lọc 
      ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6070853_screenshot-33.png)
      
-     + Xem báo cáo chiến dịch của đối tác đã tham gia trong khoảng thời gian lọc: 
+     + Xem báo cáo chiến dịch của đối tác
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6070897_screenshot-35.png)
 
  -   Thống kê doanh số:
+   
+   -   Thống kê số click trong thời gian lọc: 1 lần click là 1 lần mà link đã short mang đi cắm, được bất kì ai đó trên bất kì device, browsers click vào (không tính f5)
     
-    -   Tổng giá trị đơn hàng, Tổng đơn đã thanh toán và tổng đơn hoàn thành trong khoảng thời gian lọc
+
+**Note:**  số lượng click đang quét theo từng ngày. Ví dụ: 1h sáng ngày 23/08/2021 thì sẽ quét tất cả ngày 22/08/2021
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074207_screenshot-11.png)
+    
+   -   Thống kê tổng giá trị đơn hàng, Tổng đơn đã thanh toán và tổng đơn hoàn thành  theo trạng thái trong khoảng thời gian lọc
+ 
+ ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074215_screenshot-12.png)
+  
+    
 
 -   Danh sách đơn giới thiệu:
     
