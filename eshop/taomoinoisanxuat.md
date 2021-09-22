@@ -1,6 +1,6 @@
 
 
-**2.4.5	Tạo mới nơi sản xuất**
+**6.10.5	Tạo mới nơi sản xuất**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Kho hàng/Nơi cung cấp'
 
@@ -10,8 +10,7 @@
 
 **Note:** Trạng thái 'Hoạt động' khi tạo phiếu nhập nơi sản xuất sẽ hiển thị trong list danh sách
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/13/5912877_screenshot-155.png)
-
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/22/6086690_screenshot-52.png)
 
 Tạo NSX thành công, NSX sẽ hiển thị ngoài danh sách
 

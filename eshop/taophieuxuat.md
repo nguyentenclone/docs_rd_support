@@ -1,7 +1,7 @@
 
 
 
-**2.6.1	Tạo phiếu xuất**
+**2.5.1	Tạo phiếu xuất**
 
 Để xuất sản phẩm ra khỏi kho cần tạo phiếu xuất
 
@@ -12,6 +12,10 @@
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893654_screenshot-6.png)
 
 **Bước 3**: Nhập thông tin xuất kho => click 'Tạo phiếu xuất' 
+
+Thêm thông tin kho hàng tại   [6.10.1 Tạo mới kho hàng](eshop/taokhohang.md)
+
+Có thể cấu hình chi phí xuất xem tại  [6.2 Cấu hình phiếu xuất/nhập](eshop/cauhinhxuatnhap.md)
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/08/31/6070135_screenshot-23.png)
           

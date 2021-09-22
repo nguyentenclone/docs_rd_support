@@ -1,7 +1,7 @@
 
 
 
-**2.5.2 Danh sách phiếu nhập**
+**2.4.2 Danh sách phiếu nhập**
 
 - Hiển thị đầy đủ phiếu nhập và đầy đủ trạng thái của phiếu: Phiếu chờ xử lý, đã nhập kho, Đã hủy
 
@@ -18,6 +18,12 @@
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893595_9875.png)
 
 + Phiếu chờ xử lý có thể từ chối phiếu ở danh sách hoặc vào xử lý phiếu để từ chối
+
+Note: 
+
+- Lý do hủy phiếu có thế cấu hình xem tại  [6.2 Cấu hình phiếu xuất/nhập](eshop/cauhinhxuatnhap.md)
+
+- Lý do hủy phiếu mặc định sẽ có Lý do khác (nếu chưa cấu hình) 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893606_screenshot-3.png)
 

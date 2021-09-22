@@ -1,5 +1,5 @@
 
-**6.8.3 Báo cáo**
+**7.3 Báo cáo**
 
 - Thống kê tổng số click, giá trị đơn theo trạng thái, thứ hạng chiến dịch, thứ hạng đối tác theo bộ lọc thời gian
 

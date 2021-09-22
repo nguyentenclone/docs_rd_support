@@ -2,7 +2,7 @@
 
 
 
-**2.6.2 Danh sách phiếu xuất**
+**2.5.2 Danh sách phiếu xuất**
 
 - Hiển thị đầy đủ phiếu xuất và đầy đủ trạng thái của phiếu: Phiếu mới, Phiếu chờ xuất, Đã xuất kho, Đã hủy
 
@@ -39,6 +39,12 @@ Tạo đơn bên giao vận thành công, phần chi phí sẽ có chi phí vậ
 **Note:** Lúc này phiếu xuất sẽ lắng nghe trạng thái bên giao vận (Đơn có phiếu xuất cũng sẽ lắng nghe trạng thái bên giao vận)
 
 + 'Phiếu mới' và 'Chờ xuất kho' có thể từ chối phiếu ở danh sách hoặc vào xử lý phiếu để từ chối
+
+Note: 
+
+- Lý do hủy phiếu có thế cấu hình xem tại  [6.2 Cấu hình phiếu xuất/nhập](eshop/cauhinhxuatnhap.md)
+
+- Lý do hủy phiếu mặc định sẽ có Lý do khác (nếu chưa cấu hình) 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893769_screenshot-13.png)
 

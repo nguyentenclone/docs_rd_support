@@ -1,7 +1,7 @@
 
 
 
-**6.8.1 Danh sách đối tác**
+**7.1 Danh sách đối tác**
 
 - **Tạo mới đối tác**
 

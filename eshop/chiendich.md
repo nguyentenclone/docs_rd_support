@@ -1,5 +1,5 @@
 
-**6.8.2 Chiến dịch**
+**7.2 Chiến dịch**
 
 - **Tạo mới chiến dịch**
 
