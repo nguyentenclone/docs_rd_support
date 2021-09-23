@@ -1,7 +1,20 @@
 
 
 
+
 **6.1	Thông tin chung**
+
+**Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
+
+**Bước 2**: Chọn mục đầu tiên 'Thông tin chung'
+
++ Thông tin cửa hàng
+
+Nhập thông tin cửa hàng =>Click 'Cập nhật' để hoàn thành thông tin
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/23/6087584_screenshot-18.png)
+
+- Chỉnh sửa thông tin cửa hàng => Nhập thông tin thay đổi=> Click 'Cập nhật' để hoàn thành việc thay đổi 
 
 + Cấu hình tính thuế giá trị gia tăng (VAT)
   

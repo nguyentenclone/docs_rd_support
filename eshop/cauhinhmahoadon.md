@@ -2,7 +2,7 @@
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 
-**Bước 2**: Chọn mục đầu tiên 'Cấu hình hóa đơn' 
+**Bước 2**: Chọn tab 'Cấu hình hóa đơn' 
 
 + Cấu hình mã hóa đơn bao gồm sẽ có tiền tố và độ dài ký tự
 
