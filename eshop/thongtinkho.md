@@ -1,4 +1,4 @@
-**5.3	Thông tin kho**
+**5.1.3	Thông tin kho**
 
 - Thông tin kho
    

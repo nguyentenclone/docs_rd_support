@@ -35,17 +35,25 @@
 	     - [4.1.2 Tạo mới chiến dịch có điều kiện](eshop/taochiendichcodieukien.md)
 	 - [**4.2 Danh sách chiến dịch**](eshop/danhsachchiendich.md)
 - **V Báo cáo**
-     - [**5.1 Thống kê doanh số**](eshop/thongkedoanhso.md)
-	 - [**5.2 Thống kê đơn hàng**](eshop/thongkedonhang.md)
-	 - [**5.3 Thông tin kho**](eshop/thongtinkho.md)
-	 - [**5.4 Nhân viên**](eshop/nhanvien.md)
-	 - [**5.5 Lý do hủy đơn**](eshop/lydohuydon.md)
+     - **5.1 Báo cáo tổng quan**
+         - [**5.1.1 Thống kê doanh số**](eshop/thongkedoanhso.md)
+	     - [**5.1.2 Thống kê đơn hàng**](eshop/thongkedonhang.md)
+	     - [**5.1.3 Thông tin kho**](eshop/thongtinkho.md)
+	     - [**5.1.4 Nhân viên**](eshop/nhanvien.md)
+	     - [**5.1.5 Lý do hủy đơn**](eshop/lydohuydon.md)
+     - **5.2 Báo cáo doanh thu**
+         - [**5.2.1 Doanh thu theo thời gian**](eshop/doanhthuthoigian.md)
+	     - [**5.2.2 Doanh thu theo nguồn hàng**](eshop/doanhthunguonhang.md)
+	     - [**5.2.3 Doanh thu theo sản phẩm**](eshop/doanhthusanpham.md)
+	     - [**5.2.4 Doanh thu theo đơn hàng**](eshop/doanhthudonhang.md)
+	     - [**5.2.5 Doanh thu theo khách hàng**](eshop/doanhthukhachhang.md)	
+         - [**5.2.6 Doanh thu theo nhân viên**](eshop/doanhthunhanvien.md)		 
 - **VI Cài đặt**
      - [**6.1 Thông tin chung**](eshop/thongtinchung.md)
 	 - [**6.2 Cấu hình phiếu xuất/nhập**](eshop/cauhinhxuatnhap.md)
 	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
      - [**6.4 Bộ lọc**](eshop/boloc.md)
-	 - **6.5 Quản lý Tags,Thương hiệu**us
+	 - **6.5 Quản lý Tags,Thương hiệu**
 		 - [**6.5.1 Quản lý Tags**](eshop/quanlytags.md)
 		 - [**6.5.2 Quản lý Thương hiệu**](eshop/quanlythuonghieu.md)
 	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
@@ -66,7 +74,7 @@
 		 - [6.10.6 Danh sách nơi sản xuất](eshop/danhsachnoisanxuat.md)
 - **VII Quản lý Affiliate**
 	 - [7.1 Quản lý đối tác](eshop/quanlydoitac.md)
-	 - [7.2 Chiến dịch](eshop/chiendich.md)	 
+	 - [7.2 Chiến dịch](eshop/chiendich.md)
 	 - [7.3 Báo cáo](eshop/baocaoaffiliate.md)		
      	
       

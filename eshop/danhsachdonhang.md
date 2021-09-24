@@ -25,6 +25,8 @@
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5908253_screenshot-87.png)
 
 - In đơn hàng ở các trạng thái: Đơn mới, Đang xử lý, Đang đóng gói, Đang giao hàng, Đơn hủy 
+
+     - Có thể cấu chỉnh sửa cấu hình mẫu in tại [6.3 Cấu hình mẫu in](eshop/cauhinhmauin.md)
   
      - Vào chi tiết đơn hàng=> Click 'In hóa đơn'
     
