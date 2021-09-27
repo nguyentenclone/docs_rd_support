@@ -1,5 +1,6 @@
 
 
+
 **2.3.1	Tạo mới sản phẩm**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng=> Chọn menu Danh sách sản phẩm
@@ -47,7 +48,9 @@ Thêm phân loại tương tự đối với các nhóm phân loại thứ 2,..
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/24/5891362_79.png)
 
-**Lưu ý**: Sản phẩm trạng thái 'Hiển thị' khách hàng có thể nhìn thấy sản phẩm trên website
+**Lưu ý**: 
+- Sản phẩm trạng thái 'Hiển thị' khách hàng có thể nhìn thấy sản phẩm trên website
+- Quan hệ: 1 sản phẩm - 1 danh mục
 
 **Bước 6**: Cuối cùng,  click button Thêm mới để hoàn thành việc thêm mới sản phẩm 
 

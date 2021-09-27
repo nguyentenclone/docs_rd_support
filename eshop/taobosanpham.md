@@ -1,4 +1,5 @@
 
+
 **2.3.3	Tạo mới bộ sản phẩm**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng=> Chọn menu Danh sách sản phẩm
@@ -27,4 +28,4 @@ Thêm sản phẩm vào bộ sản phẩm bằng các tìm kiếm sản phẩm h
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/24/5891496_101.png)
 - Sản phẩm trạng thái 'Hiển thị' khách hàng có thể nhìn thấy sản phẩm trên website
 
-
+- Quan hệ 1 combo - 1 Danh mục
