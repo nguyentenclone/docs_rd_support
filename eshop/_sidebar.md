@@ -41,7 +41,7 @@
 	     - [**5.1.3 Thông tin kho**](eshop/thongtinkho.md)
 	     - [**5.1.4 Nhân viên**](eshop/nhanvien.md)
 	     - [**5.1.5 Lý do hủy đơn**](eshop/lydohuydon.md)
-     - **5.2 Báo cáo doanh thu**
+     - [**5.2 Báo cáo doanh thu**](eshop/baocaodoanhthu.md)
          - [**5.2.1 Doanh thu theo thời gian**](eshop/doanhthuthoigian.md)
 	     - [**5.2.2 Doanh thu theo nguồn hàng**](eshop/doanhthunguonhang.md)
 	     - [**5.2.3 Doanh thu theo sản phẩm**](eshop/doanhthusanpham.md)

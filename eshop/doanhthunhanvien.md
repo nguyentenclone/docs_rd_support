@@ -40,7 +40,7 @@
 - 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088541_screenshot-56.png)
 
-**Note:** File excel được quản lý ở giao diện báo cáo doanh thu đầu tiên và sẽ hiện thị tất cả các file trong 30 ngày gần nhất 
+**Note:** Click 'Xuất file' là đã tự động lưu file ở giao diện báo cáo doanh thu đầu tiên và sẽ hiện thị tất cả các file trong 30 ngày gần nhất 
 
 - Có thể nhân bản, nhân bản 1 file excel tùy chỉnh với nội dung đã thiết lập => Click 'Nhân bản' 
 

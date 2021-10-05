@@ -1,6 +1,7 @@
 
 
 
+
 **2.4.2 Danh sách phiếu nhập**
 
 - Hiển thị đầy đủ phiếu nhập và đầy đủ trạng thái của phiếu: Phiếu chờ xử lý, đã nhập kho, Đã hủy
@@ -32,3 +33,15 @@ Note:
 - Nhập kho thành công phiếu ở trạng thái 'Đã nhập kho' đồng thời số lượng sản phẩm sẽ tăng theo phiếu nhập
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5908797_screenshot-111.png)
+
+Ở trạng thái 'Đã nhập kho' có thể in phiếu theo cấu hình đã setting 
+- Có thể cấu chỉnh sửa cấu hình mẫu in tại [6.3 Cấu hình mẫu in](eshop/cauhinhmauin.md)
+
+- In phiếu mục đích 'Nhập hàng từ phiếu xuất' 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/10/01/6094563_screenshot-58.png)
+
+- In phiếu mục đích 'Nhập hàng từ Nơi sản xuất'
+
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/10/01/6094568_screenshot-59.png)

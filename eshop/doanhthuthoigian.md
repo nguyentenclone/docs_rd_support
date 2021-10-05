@@ -1,4 +1,5 @@
 
+
 **5.2.1 Doanh thu theo thời gian**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
@@ -12,7 +13,10 @@
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088124_screenshot-27.png)
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088129_screenshot-28.png)
 
-**Note:** Thời gian lọc có thể tùy chọn và không quá 90 ngày
+**Note:**
+    
+    -  Thời gian lọc có thể tùy chọn và không quá 90 ngày
+    - Chỉ báo cáo doanh thu theo thời gian và lọc mỗi thuộc tính theo thời gian sẽ hiển thị cả dữ liệu trống
 
 - Có thể thêm, thay đổi thuộc tính cho báo cáo doanh thu bằng cách click vào icon sau Thuộc tính 
 
@@ -39,12 +43,13 @@
 
 - Có thể xuất excel báo cáo doanh thu theo thời gian bằng cách click 'Xuất excel' 
 
+
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088326_screenshot-32.png)
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088327_screenshot-33.png)
 
 
-**Note:** File excel được quản lý ở giao diện báo cáo doanh thu đầu tiên và sẽ hiện thị tất cả các file trong 30 ngày gần nhất 
+**Note:** Click 'Xuất file' là đã tự động lưu file ở giao diện báo cáo doanh thu đầu tiên và sẽ hiện thị tất cả các file trong 30 ngày gần nhất 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088331_screenshot-34.png)
 
@@ -59,5 +64,4 @@ Nhân bản thành công sẽ thống kê báo cáo thêm thuộc tính và thô
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088492_screenshot-35.png)
 
 
--  
 
