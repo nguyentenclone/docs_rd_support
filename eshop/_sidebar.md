@@ -4,6 +4,7 @@
 	     - [1.1.1 Tạo mới đơn hàng trên hệ thống bán hàng](eshop/taodonhangtrenhethong.md)
 	     - [1.1.2 Tạo mới đơn hàng trên website](eshop/taodontrenwebsite.md)
 		 - [1.1.3 Tạo đơn hàng trên facebook](eshop/taodonhangquamess.md)
+		 - [1.1.4 Tạo đơn hàng trên chatbot](eshop/taodonhangchatbot.md)
 	 - [**1.2 Danh sách đơn hàng**](eshop/danhsachdonhang.md)
 - **II Sản phẩm**   
      - **2.1 Danh sách menu**
@@ -36,26 +37,26 @@
 	 - [**4.2 Danh sách chiến dịch**](eshop/danhsachchiendich.md)
 - **V Báo cáo**
      - **5.1 Báo cáo tổng quan**
-         - [**5.1.1 Thống kê doanh số**](eshop/thongkedoanhso.md)
-	     - [**5.1.2 Thống kê đơn hàng**](eshop/thongkedonhang.md)
-	     - [**5.1.3 Thông tin kho**](eshop/thongtinkho.md)
-	     - [**5.1.4 Nhân viên**](eshop/nhanvien.md)
-	     - [**5.1.5 Lý do hủy đơn**](eshop/lydohuydon.md)
+         - [5.1.1 Thống kê doanh số](eshop/thongkedoanhso.md)
+	     - [5.1.2 Thống kê đơn hàng](eshop/thongkedonhang.md)
+	     - [5.1.3 Thông tin kho](eshop/thongtinkho.md)
+	     - [5.1.4 Nhân viên](eshop/nhanvien.md)
+	     - [5.1.5 Lý do hủy đơn](eshop/lydohuydon.md)
      - [**5.2 Báo cáo doanh thu**](eshop/baocaodoanhthu.md)
-         - [**5.2.1 Doanh thu theo thời gian**](eshop/doanhthuthoigian.md)
-	     - [**5.2.2 Doanh thu theo nguồn hàng**](eshop/doanhthunguonhang.md)
-	     - [**5.2.3 Doanh thu theo sản phẩm**](eshop/doanhthusanpham.md)
-	     - [**5.2.4 Doanh thu theo đơn hàng**](eshop/doanhthudonhang.md)
-	     - [**5.2.5 Doanh thu theo khách hàng**](eshop/doanhthukhachhang.md)	
-         - [**5.2.6 Doanh thu theo nhân viên**](eshop/doanhthunhanvien.md)		 
+         - [5.2.1 Doanh thu theo thời gian](eshop/doanhthuthoigian.md)
+	     - [5.2.2 Doanh thu theo nguồn hàng](eshop/doanhthunguonhang.md)
+	     - [5.2.3 Doanh thu theo sản phẩm](eshop/doanhthusanpham.md)
+	     - [5.2.4 Doanh thu theo đơn hàng](eshop/doanhthudonhang.md)
+	     - [5.2.5 Doanh thu theo khách hàng](eshop/doanhthukhachhang.md)	
+         - [5.2.6 Doanh thu theo nhân viên](eshop/doanhthunhanvien.md)		 
 - **VI Cài đặt**
      - [**6.1 Thông tin chung**](eshop/thongtinchung.md)
 	 - [**6.2 Cấu hình phiếu xuất/nhập**](eshop/cauhinhxuatnhap.md)
 	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
      - [**6.4 Bộ lọc**](eshop/boloc.md)
 	 - **6.5 Quản lý Tags,Thương hiệu**
-		 - [**6.5.1 Quản lý Tags**](eshop/quanlytags.md)
-		 - [**6.5.2 Quản lý Thương hiệu**](eshop/quanlythuonghieu.md)
+		 - [6.5.1 Quản lý Tags](eshop/quanlytags.md)
+		 - [6.5.2 Quản lý Thương hiệu](eshop/quanlythuonghieu.md)
 	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
 	 - [**6.7 Quản lý nhân viên**](eshop/quanlynhanvien.md)	
 	 - **6.8 Cấu hình hóa đơn**

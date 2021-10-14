@@ -9,7 +9,9 @@
 
 - Thống kê doanh thu những đơn hoàn thành theo thời gian lọc và mặc định thuộc tính hiển thị là 'Mã sku' và 'Tên sản phẩm/Combo'
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088514_screenshot-42.png)
+- Biểu đồ hiển thị 5 sản phẩm có doanh thu cao nhất và còn lại là 'Các sản phẩm khác'
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/10/14/6108567_screenshot-8.png)
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088515_screenshot-43.png)
 
@@ -43,7 +45,7 @@
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/24/6088521_screenshot-44.png)
 
 
-**Note:** File excel được quản lý ở giao diện báo cáo doanh thu đầu tiên và sẽ hiện thị tất cả các file trong 30 ngày gần nhất 
+**Note:** Click 'Xuất file' là đã tự động lưu file ở giao diện báo cáo doanh thu đầu tiên và sẽ hiện thị tất cả các file trong 30 ngày gần nhất 
 
 - Có thể nhân bản, nhân bản 1 file excel tùy chỉnh với nội dung đã thiết lập => Click 'Nhân bản' 
 
