@@ -1,6 +1,7 @@
 
 
 
+
 **1.1.1	Tạo đơn hàng trên hệ thống bán hàng**
 
 **1.1.1.1 Tạo đơn mới**
@@ -153,7 +154,7 @@ Tạo phiếu xuất thành công, số lượng sản phẩm trong kho đã b�
 **Bước 3:**  Chọn phiếu muốn xử lý để hoàn tất việc xử lý  hoặc hủy hàng loạt
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5908243_screenshot-79.png)
  
- + click 'Đánh dấu đã xuất kho hàng loạt' để hoàn tất đơn hàng và có thể in đơn hàng loạt 
+ + click 'Đánh dấu đã xuất kho hàng loạt' để hoàn tất quá trình xử lý và có thể in đơn hàng loạt 
  
  ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5908245_screenshot-80.png)
 
@@ -168,6 +169,8 @@ Tạo phiếu xuất thành công, số lượng sản phẩm trong kho đã b�
 - Chi tiết phiếu xuất xử lý hàng loạt sẽ có thông tin km 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909107_screenshot-143.png)
+
+- Đơn xử lý hàng loạt sẽ về trạng thái 'Đang giao hàng'
 
 + click 'Hủy hàng loạt' để hủy hàng loạt đơn hàng. Hủy hàng loạt về danh sách phiếu trạng thái 'Đã hủy' và số lượng sẽ cộng lại vào kho
 

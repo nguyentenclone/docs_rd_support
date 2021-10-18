@@ -2,6 +2,7 @@
 
 
 
+
 **2.3.2	Danh sách sản phẩm**
 
 Hiển thị tất cả sản phẩm của hệ thống bao gồm các thông tin: mã sku, giá bán, số lượng tồn kho, danh mục của sản phẩm
@@ -73,16 +74,3 @@ Xuất thành công file dữ liệu sẽ hiển thị đầy đủ thông tin s
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/25/5892645_25454.png)
 
-+ **Thêm hàng loạt sản phẩm vào danh mục**
-
-Chọn các sản phẩm cần thêm vào danh mục để thêm hàng loạt =>click 'Thêm'
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/24/5890884_70.png)
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/24/5890885_72.png)
-
-
- 
-
-     
-    

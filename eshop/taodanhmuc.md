@@ -1,6 +1,7 @@
 
 
 
+
 **2.2.1	Tạo Danh mục**
 
 - Danh mục là nơi chứa sản phẩm và không phân cấp
@@ -24,6 +25,8 @@ Tạo danh mục thành công, danh mục sẽ hiển thị ngoài danh sách
 
 **Note:**
 
-- Sản phẩm A là sản phẩm tiêu biểu của danh mục X  thì A sẽ thuộc danh mục đó 
+- Khi thêm mới danh mục sẽ chưa chọn được sản phẩm tiêu biểu
+
+- Vào chỉnh sửa mới chọn được sản phẩm tiêu biểu. Sản phẩm phải thuộc danh mục mới tìm kiếm và thêm vào tiêu biểu được 
 
 - Sản phẩm B thuộc danh mục Y, nhưng B có thể không phải là sản phẩm tiêu biểu của danh mục Y

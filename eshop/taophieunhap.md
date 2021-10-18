@@ -1,5 +1,5 @@
 
-**2.5.1	Tạo phiếu nhập**
+**2.4.1	Tạo phiếu nhập**
 
 Để có số lượng sản phẩm cần nhập hàng về kho 
 
@@ -14,6 +14,10 @@
 + Nhập từ nhà cung cấp
 
 Nhập thông tin nhập kho => click 'Tạo phiếu nhập' 
+
+Thêm thông tin kho hàng, nhà cung cấp, nơi sản xuất tại [6.10 Kho hàng / Nơi cung cấp](eshop/taokhohang.md)
+
+Có thể cấu hình chi phí nhập xem tại  [6.2 Cấu hình phiếu xuất/nhập](eshop/cauhinhxuatnhap.md)
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893130_250.png)
           

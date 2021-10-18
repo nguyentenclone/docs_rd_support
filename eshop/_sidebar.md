@@ -4,11 +4,12 @@
 	     - [1.1.1 Tạo mới đơn hàng trên hệ thống bán hàng](eshop/taodonhangtrenhethong.md)
 	     - [1.1.2 Tạo mới đơn hàng trên website](eshop/taodontrenwebsite.md)
 		 - [1.1.3 Tạo đơn hàng trên facebook](eshop/taodonhangquamess.md)
+		 - [1.1.4 Tạo đơn hàng trên chatbot](eshop/taodonhangchatbot.md)
 	 - [**1.2 Danh sách đơn hàng**](eshop/danhsachdonhang.md)
 - **II Sản phẩm**   
      - **2.1 Danh sách menu**
 	     - [2.1.1 Tạo mới menu](eshop/taomenu.md)
-		 - [2.1.2 Danh sách menu](eshop/danhsachmenu.md)
+		 - [2.1.2 Danh sách menu](eshop/danhsachmenu.md) 
      - **2.2 Danh mục sản phẩm**
 	     - [2.2.1 Tạo mới danh mục](eshop/taodanhmuc.md)
 		 - [2.2.2 Danh sách danh mục](eshop/danhsachdanhmuc.md)
@@ -16,41 +17,66 @@
 	     - [2.3.1 Tạo mới sản phẩm](eshop/taosanpham.md)
 		 - [2.3.2 Danh sách sản phẩm](eshop/danhsachsanpham.md)
 		 - [2.3.3 Tạo mới bộ sản phẩm](eshop/taobosanpham.md)
-		 - [2.3.4 Danh sách bộ sản phẩm](eshop/danhsachbosanpham.md)
-     - **2.4 Kho hàng / Nơi cung cấp**
-	     - [2.4.1 Tạo mới kho hàng](eshop/taokhohang.md)
-		 - [2.4.2 Danh sách kho hàng](eshop/danhsachkhohang.md)
-		 - [2.4.3 Tạo mới nhà cung cấp](eshop/taonhacungcap.md)
-		 - [2.4.4 Danh sách nhà cung cấp](eshop/danhsachnhacungcap.md)
-		 - [2.4.5 Tạo mới nơi sản xuất](eshop/taomoinoisanxuat.md)
-		 - [2.4.6 Danh sách nơi sản xuất](eshop/danhsachnoisanxuat.md)
-     - **2.5 Nhập kho**
-         - [2.5.1 Tạo mới phiếu nhập](eshop/taophieunhap.md)
-		 - [2.5.2 Danh sách phiếu nhập](eshop/danhsachphieunhap.md)
-     - **2.6 Xuất kho**
-	     - [2.6.1 Tạo mới phiếu xuất](eshop/taophieuxuat.md)
-		 - [2.6.2 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
-     - **2.7 Cân bằng kho**
-	     - [2.7.1 Tạo mới phiếu cân bằng](eshop/taophieucanbang.md)
-		 - [2.7.2 Danh sách phiếu cân bằng](eshop/danhsachphieucanbang.md)
-	 - [**2.8 Quản lý tồn kho**](eshop/quanlytonkho.md)
+		 - [2.3.4 Danh sách bộ sản phẩm](eshop/danhsachbosanpham.md)     
+     - **2.4 Nhập kho**
+         - [2.4.1 Tạo mới phiếu nhập](eshop/taophieunhap.md)
+		 - [2.4.2 Danh sách phiếu nhập](eshop/danhsachphieunhap.md)
+     - **2.5 Xuất kho**
+	     - [2.5.1 Tạo mới phiếu xuất](eshop/taophieuxuat.md)
+		 - [2.5.2 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
+     - **2.6 Cân bằng kho**
+	     - [2.6.1 Tạo mới phiếu cân bằng](eshop/taophieucanbang.md)
+		 - [2.6.2 Danh sách phiếu cân bằng](eshop/danhsachphieucanbang.md)
+	 - [**2.7 Quản lý tồn kho**](eshop/quanlytonkho.md)
 - **III Khách hàng**
      - [**3.1 Danh sách khách hàng**](eshop/danhsachkhachhang.md)  
-- **IV Chiến dịch khuyến mại**
+- **IV Chiến dịch khuyến mại**           
 	 - **4.1 Tạo mới chiến dịch**
 	     - [4.1.1 Tạo mới chiến dịch coupon](eshop/taochiendichcoupon.md)
 	     - [4.1.2 Tạo mới chiến dịch có điều kiện](eshop/taochiendichcodieukien.md)
 	 - [**4.2 Danh sách chiến dịch**](eshop/danhsachchiendich.md)
 - **V Báo cáo**
-     - [**5.1 Thống kê doanh số**](eshop/thongkedoanhso.md)
-	 - [**5.2 Thống kê đơn hàng**](eshop/thongkedonhang.md)
-	 - [**5.3 Thông tin kho**](eshop/thongtinkho.md)
-	 - [**5.4 Nhân viên**](eshop/nhanvien.md)
-	 - [**5.5 Lý do hủy đơn**](eshop/lydohuydon.md)
+     - **5.1 Báo cáo tổng quan**
+         - [5.1.1 Thống kê doanh số](eshop/thongkedoanhso.md)
+	     - [5.1.2 Thống kê đơn hàng](eshop/thongkedonhang.md)
+	     - [5.1.3 Thông tin kho](eshop/thongtinkho.md)
+	     - [5.1.4 Nhân viên](eshop/nhanvien.md)
+	     - [5.1.5 Lý do hủy đơn](eshop/lydohuydon.md)
+     - [**5.2 Báo cáo doanh thu**](eshop/baocaodoanhthu.md)
+         - [5.2.1 Doanh thu theo thời gian](eshop/doanhthuthoigian.md)
+	     - [5.2.2 Doanh thu theo nguồn hàng](eshop/doanhthunguonhang.md)
+	     - [5.2.3 Doanh thu theo sản phẩm](eshop/doanhthusanpham.md)
+	     - [5.2.4 Doanh thu theo đơn hàng](eshop/doanhthudonhang.md)
+	     - [5.2.5 Doanh thu theo khách hàng](eshop/doanhthukhachhang.md)	
+         - [5.2.6 Doanh thu theo nhân viên](eshop/doanhthunhanvien.md)		 
 - **VI Cài đặt**
      - [**6.1 Thông tin chung**](eshop/thongtinchung.md)
 	 - [**6.2 Cấu hình phiếu xuất/nhập**](eshop/cauhinhxuatnhap.md)
 	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
      - [**6.4 Bộ lọc**](eshop/boloc.md)
-	 - [**6.5 Quản lý Thương hiệu**](eshop/tagsthuonghieu.md)
-	     
+	 - **6.5 Quản lý Tags,Thương hiệu**
+		 - [6.5.1 Quản lý Tags](eshop/quanlytags.md)
+		 - [6.5.2 Quản lý Thương hiệu](eshop/quanlythuonghieu.md)
+	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
+	 - [**6.7 Quản lý nhân viên**](eshop/quanlynhanvien.md)	
+	 - **6.8 Cấu hình hóa đơn**
+	     - [6.8.1 Cấu hình mã hóa đơn](eshop/cauhinhmahoadon.md)
+		 - [6.8.2 Cấu hình lưu ý hóa đơn](eshop/luuyhoadon.md)
+		 - [6.8.3 Lý do hủy hóa đơn](eshop/cauhinhlydohuydon.md)
+	 - **6.9 Kết nối đối tác vận chuyển**
+	     - [6.9.1 Kết nối cổng vận chuyển ViettelPost](eshop/ketnoiviettelpost.md)
+		 - [6.9.2 Kết nối cổng vận chuyển Ahamove](eshop/ketnoiahamove.md)
+	 - **6.10 Kho hàng / Nơi cung cấp**
+	     - [6.10.1 Tạo mới kho hàng](eshop/taokhohang.md)
+		 - [6.10.2 Danh sách kho hàng](eshop/danhsachkhohang.md)
+		 - [6.10.3 Tạo mới nhà cung cấp](eshop/taonhacungcap.md)
+		 - [6.10.4 Danh sách nhà cung cấp](eshop/danhsachnhacungcap.md)
+		 - [6.10.5 Tạo mới nơi sản xuất](eshop/taomoinoisanxuat.md)
+		 - [6.10.6 Danh sách nơi sản xuất](eshop/danhsachnoisanxuat.md)
+- **VII Quản lý Affiliate**
+	 - [7.1 Quản lý đối tác](eshop/quanlydoitac.md)
+	 - [7.2 Chiến dịch](eshop/chiendich.md)
+	 - [7.3 Báo cáo](eshop/baocaoaffiliate.md)		
+     	
+      
+     
