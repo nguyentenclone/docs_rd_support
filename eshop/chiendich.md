@@ -1,4 +1,6 @@
 
+
+
 **7.2 Chiến dịch**
 
 - **Tạo mới chiến dịch**
@@ -19,29 +21,32 @@ Có 2 loại chiến dịch:
  - Quan hệ: 
    - 1 chiến dịch - 1 sản phẩm
    - 1 chiến dịch - N Đối tác
+  - Có thể cấu hình nội dung trang langding page: không giới hạn nội dung và thứ tự tạo
  
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137748_screenshot-11.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6071063_screenshot-38.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137769_screenshot-12.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137793_screenshot-14.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6071079_screenshot-39.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137798_screenshot-15.png)
 
 **Note:**
 
 - Tạo mới chiến dịch thành  công mới có thể copy link để mua hàng
 
-- Đối với sản phẩm mới, cần nhập kho để có số lượng mới có thể mua hàng trên langding page
+- Mua hàng trên langding page sẽ không check số lượng trong kho. Khi yêu cầu xuất kho trong hệ thống bán hàng mới check số lượng
 
 - Chiến dịch tạm dừng hoạt động, hoặc chưa đến thời gian diễn ra hoặc hết thời gian sẽ không mua hàng được trên langding page
 
 - Tạm dừng trạng thái hoạt động của đối tác trong chiến dịch => Trang langding page của đối tác trong chiến dịch sẽ không mua hàng được
-
 
 **Loại 2: Giới thiệu Link**
 
 - Quan hệ:
   -  1 chiến dịch - 1 link giới thiệu
   - 1 chiến dịch - N đối tác 
-- Muốn thay đổi link giới thiệu phải xóa hết đối tác đi mới thay đổi được (click 'Dấu ... chọn 'Xóa' đối tác để thay đổi link giới thiệu sản phẩm)
+ - Muốn thay đổi link giới thiệu phải xóa hết đối tác đi mới thay đổi được (click 'Dấu ... chọn 'Xóa' đối tác để thay đổi link giới thiệu sản phẩm)
+ 
 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6071091_screenshot-40.png)
@@ -57,24 +62,27 @@ Có thể copy link luôn khi tạo chiến dịch thành công, hoặc vào chi
 **Bước 5:** Hướng dẫn mua hàng trên langding page của chiến dịch giới thiệu sản phẩm
 - Chọn số lượng, phân loại sản phẩm (nếu có) và nhập thông tin mua hàng => Click 'Đặt hàng' để hoàn thành việc mua hàng 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074166_screenshot-42.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137802_screenshot-16.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137801_screenshot-17.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137803_screenshot-18.png)
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137804_screenshot-19.png)
 
 - Nhập thông tin giao hàng click 'Đặt hàng hoàn tất' để mua hàng
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074185_screenshot-1.png)
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074186_screenshot-2.png)
 
-- Đặt hàng thành công sẽ có email gửi về cho khách hàng  và có thể xem lại chi tiết đơn hàng hoặc về trang sản phẩm 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137806_screenshot-20.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074188_screenshot-4.png)
+- Đặt hàng thành công đơn sẽ đổ về hệ thống click 'Về trang sản phẩm' để xem lại trang langding page 
 
-- Chi tiết đơn hàng: 
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074189_screenshot-5.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137811_screenshot-21.png)
 
 - Đơn đặt hàng thành công sẽ đổ về 'Danh sách đơn hàng' trong hệ thống 
 **Note:** Xử lý đơn hàng sẽ thao tác trên hệ thống bán hàng xem cụ thể [1.1.2 Xử lý đơn hàng](http://localhost:3000/#/eshop/taodonhangtrenhethong)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074190_screenshot-6.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137812_screenshot-22.png)
 
 - **Danh sách chiến dịch**
 
@@ -116,7 +124,7 @@ Có thể copy link luôn khi tạo chiến dịch thành công, hoặc vào chi
 
 - Thống kê số click trong thời gian lọc: 1 lần click là 1 lần mà link đã short mang đi cắm, được bất kì ai đó trên bất kì device, browsers click vào (không tính f5)
 
-**Note:** số lượng click đang quét theo từng ngày. Ví dụ: 1h sáng ngày 23/08/2021 thì sẽ quét tất cả ngày 22/08/2021
+**Note:** số lượng click đang quét theo từng giờ
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/06/6074207_screenshot-11.png)
 

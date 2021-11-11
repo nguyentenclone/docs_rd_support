@@ -91,7 +91,7 @@ Nhân viên hệ thống bán hàng sẽ tiền hành xác nhận thông tin c�
 
 Sau khi đặt hàng xong khách hàng có thể xem tình trạng đơn hàng bằng cách click vào button Kiểm tra đơn hàng
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/16/5665528_screenshot-17.png)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/10/20/6113649_screenshot-9.png)
 
 Nhập mã đơn hàng =>Click Tìm kiếm
 
