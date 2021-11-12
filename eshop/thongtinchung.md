@@ -20,7 +20,7 @@ Nhập thông tin cửa hàng =>Click 'Cập nhật' để hoàn thành thông t
 
 **Note:** 
     
-    - Cấu hỉnh quốc gia để thêm địa chỉ ship cho đơn hàng,sẽ có 2 quốc gia được cấu hình: Việt Nam và Canada (trừ mua hàng qua langding page)
+    - Cấu hỉnh quốc gia để thêm địa chỉ ship cho đơn hàng,sẽ có 2 quốc gia được cấu hình: Việt Nam và Canada (áp dụng mua hàng trên tool hệ thống (Bot), facebook và livechat)
     - Loại tiền tệ chuyển đổi sẽ cấu hình tương ứng: Tên tiền tệ = n giá trị (VD: Cấu hình C$ = 18.390 Tức 1C$ = 18.390VNĐ) và chỉ áp dụng popup mua hàng trên face
 
 + Cấu hình tính thuế giá trị gia tăng (VAT)

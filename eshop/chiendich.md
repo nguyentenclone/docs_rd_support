@@ -60,7 +60,7 @@ Có thể copy link luôn khi tạo chiến dịch thành công, hoặc vào chi
 
 
 **Bước 5:** Hướng dẫn mua hàng trên langding page của chiến dịch giới thiệu sản phẩm
-- Chọn số lượng, phân loại sản phẩm (nếu có) và nhập thông tin mua hàng => Click 'Đặt hàng' để hoàn thành việc mua hàng 
+- Chọn số lượng, phân loại sản phẩm (nếu có) => Click 'Mua ngay' ra màn thanh toán để mua hàng 
 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/11/11/6137802_screenshot-16.png)
