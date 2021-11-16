@@ -11,6 +11,7 @@
      - [**9.1 Kênh đổi quà**](Loyalty/kenhdoiqua.md)
 	 - [**9.2 Danh sách quà tặng**](Loyalty/danhsachquatang.md)
 	 - [**9.3 Đơn đổi quà tặng**](Loyalty/dondoiquatang.md)
+	 - [**9.4 Danh sách chiến dịch**](Loyalty/danhsachchiendich.md)
 	   
 
 
