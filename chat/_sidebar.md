@@ -33,7 +33,8 @@
 	- [8.4 Thông tin khách hàng](chat/84thongtinkhachhang.md)
 	- [8.5 Plugin mở rộng](chat/85pluginmorong.md)
 	- [8.6 Tạo mã nhúng website](chat/86creatwebsite.md)
-
+- **9. Báo cáo mới**
+- [1. Báo cáo livechat mới](chat/baocaonew.md)
   
  
  
