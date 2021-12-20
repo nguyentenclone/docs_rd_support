@@ -51,7 +51,7 @@ Hệ thống sẽ hiển thị báo cáo - thống kê mặc định là 7 ngày
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/17/6176309_8.png)
 
-II. BÁO CÁO TỔNG QUAN 
+**II. BÁO CÁO TỔNG QUAN**
 
 **1. Tổng số KH**
 
@@ -83,7 +83,7 @@ VD:
  
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/17/6176269_5.png)
 
-- Biểu đồ đường line để hiện sự biến thiên của số điện thoại mới và email mới trong 7 ngày vừa qua:
+- Biểu đồ đường để hiện sự biến thiên của số điện thoại mới và email mới trong 7 ngày vừa qua:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/17/6176319_12.png)
 
@@ -91,9 +91,11 @@ VD:
  
  Là số email mới hệ thống ghi nhận trong khoảng thời gian đang xem báo cáo - thống kê
  
- VD: 6 là số điện thoại mới ghi nhận hôm nay của 28 bot trong dự án Bizfly Solution, và giảm 25% so với số điện thoại mới ghi nhận ngày hôm qua.
+ VD: 3 là số email mới ghi nhận 7 ngày qua của 28 bot trong dự án Bizfly Solution, và tăng 50% so với email mới ghi nhận của 7 ngày trước nữa.
  
- - Biểu đồ đường line để thể hiện sự biến thiên của email và số điện thoại mới trong 7 ngày vừa qua:
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6177996_26.png)
+
+ - Biểu đồ đường để thể hiện sự biến thiên của email và số điện thoại mới trong 7 ngày vừa qua:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/17/6176319_12.png)
  
@@ -149,7 +151,7 @@ VD: Biểu đồ ở hình dưới thể hiện tổng số bình luận theo t�
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/18/6177044_22.png)
 
-9. Thống kê chi tiết theo giờ 
+**9. Thống kê chi tiết theo giờ** 
 
 Hiển thị chi tiết số tin nhắn, bình luận theo từng khung giờ của từng ngày theo khoảng thời gian đang xem báo cáo - thống kê:
 
@@ -157,6 +159,78 @@ Hiển thị chi tiết số tin nhắn, bình luận theo từng khung giờ c�
  
 Người dùng có thể xuất báo cáo để xem chi tiết bằng cách bấm vào nút *Xuất ra file excel* ở góc trên cùng bên phải bảng thống kê theo giờ
 
-III. BÁO CÁO THEO NHÂN VIÊN 
+**III. BÁO CÁO THEO NHÂN VIÊN**
 
+**1. Hội thoại của nhân viên**
+
+Hiển thị tổng số hội thoại của nhân viên trong khoảng thời gian xem báo cáo - thống kê.
+
+VD:  13 là số hội thoại của nhân viên của 28 bot trong dự án Bizfly Solution trong hôm nay, giảm 61,9% so với hôm qua.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178036_27.png)
+
+**2. Thời gian phản hổi tin nhắn**
+
+Là thời gian trung bình phản hồi tin nhắn của tất cả nhân viên chăm sóc. Định dạng thời gian: mm/ss hoặc hh/mm. Thời gian phản hồi chỉ tính cho các tin nhắn phát sinh từ 8h - 12h và 13h - 18h.
+
+VD: Thời gian phàn hổi tin nhắn trong ngày hôm qua của các nhân viên trong dự án Bizfly Solution là 1 phút 33 giây, giảm 54,31% so với hôm kia
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178048_28.png)
+
+**3. Thời gian phản hổi bình luận** 
+
+Là thời gian trung bình phản hồi bình luận của tất cả nhân viên chăm sóc. Định dạng thời gian: mm/ss hoặc hh/mm. Thời gian phản hồi chỉ tính cho các bình luận phát sinh từ 8h - 12h và 13h - 18h.
+
+VD: Thời gian phàn hổi bình luận trong 7 ngày  của các nhân viên trong dự án Hà nội là 22 phút 14 giây, không ghi nhận sự tăng giảm so với tuần trước đó.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178100_29.png)
+
+**4. Tin nhắn phản hồi trên 5p**
+
+Được tính theo công thức : [số lần phản hồi tin nhắn trên 5p]/[tổng số lần phản hồi tin nhắn]. 
+Một cặp tin nhắn phản hồi bao gồm:  tin nhắn cuối cùng của khách hàng và tin nhắn phản hồi đầu tiên của nhân viên.
+
+VD: 3% là tỉ lệ phản hồi tin nhắn trên 5p hôm qua của toàn bộ nhân viên tính theo 28 bot trong dự án Bizfly Solution, giảm 20,67% so với hôm kia. 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178116_30.png)
+
+**5. Hội thoại của top 5 nhân viên** 
+
+Hiển thị top 5 nhân viên chăm sóc được nhiều hội thoại nhất trong khoảng thời gian xem báo cáo - thống kê. 
+
+Mặc định 7 ngày từ thứ 2 đến chủ nhật. Số liệu thống kê được cộng dồn theo thứ và đổ dữ liệu theo thứ tương ứng, không phụ thuộc vào thứ tự ngày dd/mm/yyyy mà hiển thị mặc định từ thứ 2 đến CN. 
+
+Mức độ đậm nhạt của bảng màu thể hiện số lượng hội thọai tương ứng. Màu nhạt tương đương với số lượng hội thoại ít, màu đậm thương đương số lượng hội thoại nhiều. Người dùng có thể di chuột vào từng ngày để xem số liệu cụ thể.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178177_31.png) 
+
+**6. Top 5 nhân viên** 
+
+Hiển thị tổng số hội thoại của top 5 nhân viên chăm sóc nhiều nhất trong khoảng thời gian xem báo cáo - thống kê
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178179_32.png)
+
+**7. Thời gian phản hồi**
+
+Biểu đồ thể hiện thời gian trung bình phản hồi tin nhắn/bình luận của tất cả các nhân viên trong khoảng thời gian xem báo cáo - thống kê.
+
+Thời gian phản hồi chỉ tính cho các tin nhắn phát sinh từ 8h-12h và 13h-18h.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178211_33.png)
+
+**8. Tin nhắn phản hồi trên 5p**
+
+Biểu đồ thể hiện số lượng tin nhắn phản hồi sau 5 phút tính từ lúc nhận được tin nhắn của khách hàng.
+
+VD: Ngày 18/12/2021 trong 28 bot của dự án Bizfly Solution có 5 tin nhắn phản hồi sau 5p 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178261_34.png)
+
+**9. Thống kê chi tiết** 
+ 
+ Hiển thị chi tiết số lượng tin nhắn, bình luận theo từng nhân viên trong khoảng thời gian đang xem báo cáo - thống kê:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/20/6178273_35.png)
+
+Người dùng có thể xuất báo cáo để xem chi tiết bằng cách bấm vào nút *Xuất ra file excel* ở góc trên cùng bên phải bảng thống kê theo nhân viên
 
