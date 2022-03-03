@@ -23,6 +23,16 @@ Người dùng cũng có thể tìm nhanh bot bằng cách sử dụng bộ lọ
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/03/01/6228174_2.jpg)
 
+Đối với mỗi con bot, người dùng có thể: 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/03/03/6230160_27.jpg)
+
+- Tạo bản sao: Tạo 1 bot mới có nội dung y hệt bot đã chọn 
+
+- Chỉnh sửa thông tin: Đổi tên hoặc chỉnh sửa mô tả bot 
+
+- Xóa bot: Xóa bỏ bot đồng thời gỡ kết nối 
+
 **2. Tạo và kết nối bot**
 
 **2.1 Tạo bot**
