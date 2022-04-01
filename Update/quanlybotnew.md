@@ -158,15 +158,15 @@ Chức năng của các form kịch bản vẫn được giữ nguyên tại phi
 
 Tùy kiểu bot mà số lượng chức năng và số lượng form cấu hình kịch bản sẽ được điều chỉnh cho phù hợp. Luồng sử dụng kịch bản sẽ được dùng chung cho cả 3 kiểu bot.
 
-1. Màn hình mặc định khi truy cập chatbot sẽ hiển thị như sau: 
+4.3.1. Màn hình mặc định khi truy cập chatbot sẽ hiển thị như sau: 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/03/03/6229828_25.jpg)
 
-2. Người dùng click vào **Kịch bản chào** màn hình mặc định sẽ hiển thị như sau:
+4.3.2. Người dùng click vào **Kịch bản chào** màn hình mặc định sẽ hiển thị như sau:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/03/03/6229819_24.jpg)
 
-3. Để kịch bản hiển thị trên fanpage, người dùng có thể thao tác theo các bước sau đây: 
+4.3.3. Để kịch bản hiển thị trên fanpage, người dùng có thể thao tác theo các bước sau đây: 
 
 		--B1. Từ màn hình mặc định khi truy cập chatbot, bấm vào Kịch bản chào
 		
@@ -186,11 +186,11 @@ Tùy kiểu bot mà số lượng chức năng và số lượng form cấu hìn
  
  - **Áp dụng**: Toàn bộ kịch bản trong bot sẽ được xuất bản, và khi tương tác với fanpage, những kịch bản nào được chọn sẽ hiển thị
  
- - **Link kịch bản đã xuất bản**: Là link m.me chứa nội dung kịch bản đó (chỉ áp dụng với bot FB)
+ - **Link kịch bản đã xuất bản**: Là link m.me dẫn người dùng chat thẳng với fanpage (chỉ áp dụng với bot FB)
  
  - **Tạo bản sao**:  Cho phép người dùng copy kịch bản sang vùng khác của bot hoặc những bot khác cùng loại
 
-4. Đối với mỗi form kịch bản, người dùng có thể:
+4.3.4. Đối với mỗi form kịch bản, người dùng có thể:
  
 		-- Di chuyển vị trí của kịch bản   
 		
@@ -199,7 +199,42 @@ Tùy kiểu bot mà số lượng chức năng và số lượng form cấu hìn
 		-- Sao chép form và nội dung của form đó  
 		
 		-- Ẩn/hiện form
-		
+
+
+**5. Sử dụng menu chính** 
+
+Sau khi kết nối fanpage với bot, người dùng có thể thiết lập menu chính để hiển thị trên fanpage. 
+
+ **-- Giao diện mặc định menu chính** 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/04/01/6266291_28.jpg)
+
+- Đối với tài khoản người dùng sử dụng gói chatbot miễn phí sẽ không thể sửa/xóa được menu chính mặc định.
+- Đối với tài khoản người dùng sử dụng gói chatbot trả phí sẽ sửa/xóa được menu chính mặc định.
+
+**-- Để tắt/bật menu chính trên fanpage, người dùng bấm vào phần Kích hoạt facebook như hình dưới:**
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/04/01/6266305_29.jpg)
+
+**-- Áp dụng menu** 
+
+Để những menu vừa tạo và những thay đổi về mặt sắp xếp menu được hiển thị lên fanpage người dùng cần bấm vào nút Áp dụng như hình dưới đây:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/04/01/6266395_30.jpg)
+
+**-- Thay đổi vị trí của các nút**
+
+b1. Bấm vào mục Thay đổi thứ tự ở trên cùng của menu 
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/04/01/6266618_31.jpg)
+
+b2. Kéo để thay đổi vị trí các nút đang hiển thị trong popup => bấm Áp dụng
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/04/01/6266626_32.jpg)
+
+
+
+
 
 
 
