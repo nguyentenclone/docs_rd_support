@@ -1,5 +1,9 @@
-- [**Báo cáo Chat mới**](Update/baocaonew.md)
-- [**Quản lý Chatbot mới**](Update/quanlybotnew.md)
+- [**I. Báo cáo Chat mới**](Update/baocaonew.md)
+- [**II. Quản lý bot phiên bản mới**](Update/quanlybotnew.md)
+	- [**1. Truy cập hệ thống**](Update/truycaphethong.md)
+	- [**2. Tạo và kết nối bot**](Update/taovaketnoibot.md)
+	- [**3. Quản lý kịch bản**](Update/quanlykichban.md)
+	- [**4. Sử dụng menu chính**](Update/sudungmenuchinh.md)
 
 
  
