@@ -57,13 +57,17 @@ Hệ thống sẽ hiển thị báo cáo - thống kê mặc định là 7 ngày
 
 Hiển thị tổng số khách hàng của các bot trong cả dự án. 
 
+Riêng đối với hội thoại website, những hội thoại nào có sđt hoặc email mới được thống kê
+
 Ví dụ: 27.562 là tổng số khách hàng của 28 bot trong dự án Bizfly Solution 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/12/17/6176219_3.png)
 
 **2. Số KH mới**
 
-Là số khách hàng mới ghi nhận trong khoảng thời gian đang xem báo cáo - thống kê
+Là số khách hàng mới ghi nhận trong khoảng thời gian đang xem báo cáo - thống kê. 
+
+Riêng đối với hội thoại website, những hội thoại nào có sđt hoặc email mới được thống kê
 
 VD: 
 - 40 là số khách hàng mới ghi nhận hôm nay của 28 bot trong dự án Bizfly Solution, và giảm 24% so với số khách hàng mới ghi nhận ngày hôm qua.
