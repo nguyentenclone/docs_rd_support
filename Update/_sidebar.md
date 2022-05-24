@@ -4,7 +4,7 @@
 	- [**2. Tạo và kết nối bot**](Update/taovaketnoibot.md)
 	- [**3. Quản lý kịch bản**](Update/quanlykichban.md)
 	- [**4. Sử dụng menu chính**](Update/sudungmenuchinh.md)
-
+- [**III. Thiết lập bài viết phiên bản mới**](Update/Thietlapbaivietnew.md)
 
  
  
