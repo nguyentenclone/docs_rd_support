@@ -76,7 +76,6 @@ Màn hình nhập thông tin giao vận của các đơn hiển thị: nhập đ
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_123jpg1652845729.jpg)
 
 Popup liệt kê danh sách các phiếu xuất và trạng thái duyệt (thành công hoặc thất bại ). Phiếu duyệt thành công sẽ chuyển sang tab 'Chờ xuất kho', những phiếu duyệt thất bại vẫn ở tab 'Phiếu mới'.
-
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_234jpg1652845933.jpg)
 
 Khi bên giao vận đến lấy hàng, vào chi tiết các phiếu 'Chờ xuất kho' -> CLick "Xuất kho" để hoàn thành phiếu xuất
