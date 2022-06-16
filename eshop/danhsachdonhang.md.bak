@@ -34,10 +34,7 @@
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/20/huyenvt/img_tnjpg1653017236.jpg)
 
 Hệ thống hiển thị danh sách các đơn hàng được tiếp nhận gồm 2 trạng thái thành công hoặc thất bại. Nếu tiếp nhận thành công đơn hàng chuyển sang trạng thái 'Đang xử lý', nếu tiếp nhận thất bại đơn hàng vẫn ở trạng thái 'Đơn mới'
-
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/20/huyenvt/img_kqjpg1653017650.jpg)
-				               
+				                  ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/20/huyenvt/img_kqjpg1653017650.jpg)
 
 +) Tạo phiếu xuất hàng loạt:
 
@@ -63,7 +60,7 @@ Chọn lý do -> Click 'Hủy đơn hàng'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_12jpg1653278038.jpg)
 
- Hệ thống hiển thị danh sách các đơn hàng  bị hủy  gồm 2 trạng thái thành công hoặc thất bại. Nếu hủy thành công đơn hàng chuyển sang trạng thái 'Đơn hủy', nếu thất bại đơn hàng vẫn giữ nguyên trạng thái
+* Hệ thống hiển thị danh sách các đơn hàng  bị hủy  gồm 2 trạng thái thành công hoặc thất bại. Nếu hủy thành công đơn hàng chuyển sang trạng thái 'Đơn hủy', nếu thất bại đơn hàng vẫn giữ nguyên trạng thái
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_123jpg1653278060.jpg)
 
@@ -109,16 +106,12 @@ Giao diện chi tiết phiếu nhập hiển thị với mục đích "Nhập t�
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_7jpg1653292464.jpg)
 
 	
-Tại chi tiết phiếu nhập, người dùng click 'Nhập kho' phiếu nhập chuyển sang  trạng thái 'Đã nhập kho', số lượng sản phẩm trong kho tăng. Tại tab 'Đơn hủy' hiển thị button 'Đã nhập kho'
-
+Người dùng click 'Nhập kho' phiếu nhập chuyển sang  trạng thái 'Đã nhập kho', số lượng sản phẩm trong kho tăng. Tại tab 'Đơn hủy' hiển thị button 'Đã nhập kho'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_8jpg1653292490.jpg)
-
-
 * In đơn hàng ở các trạng thái: Đang xử lý, Đang đóng gói, Đang giao hàng, Đơn hoàn thành, Đơn hủy 
 Có thể cấu chỉnh sửa cấu hình mẫu in tại  [6.3 Cấu hình mẫu in](https://chat.bizfly.vn/guides/#/eshop/cauhinhmauin)
 Vào chi tiết đơn hàng=> Click 'In hóa đơn'
-
 	 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_9jpg1653292521.jpg)
 
