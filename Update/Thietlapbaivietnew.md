@@ -4,7 +4,7 @@
 
 Chức năng này cho phép người dùng có thể chọn các bài Post trên fanpage cụ thể để cài đặt. Nếu một bài post được cài đặt chế độ Auto reply comment thì khi có khách hàng comment vào bài post này, lập tức hệ thống sẽ trả lời tự động comment đó với nội dung đã được thiếp lập sẵn. 
 
-Trong một thiết lập người dùng có thể chọn nhiều bài viết khác nhau, chính vì vậy một bài viết sẽ có thể chạy được theo nhiều kiểu thiết lập. Hệ thống sẽ quét đến từng thiết lập, gặp điều kiện nào trước sẽ chạy cái đó và chạy lần lượt các điều kiện đã lưu.
+Trong một thiết lập, người dùng có thể chọn nhiều bài viết khác nhau, chính vì vậy một bài viết sẽ có thể chạy được theo nhiều kiểu thiết lập. Hệ thống sẽ quét đến từng thiết lập, gặp điều kiện nào trước sẽ chạy cái đó và chạy lần lượt các điều kiện đã lưu.
 
 Người dùng có thể cài đặt chế độ reply tùy theo một số điều kiện khác như: Tag bạn bè, ẩn comment, auto like, auto reply theo điều kiện....Có 2 kiểu trả lời comment của khách hàng đó là: Trả lời tự động và trả lời thủ công.
 
@@ -42,7 +42,7 @@ Hiển thị chi tiết những comment gặp lỗi trong quá trình chạy thi
 
 - Khi bật đồng thời thiết lập cho tất cả bài viết và những thiết lập riêng cho từng bài viết đó => Khi khách hàng comment hệ thống sẽ chạy theo cấu hình của bài thiết lập riêng.
 
-- Khi gửi tin nhắn có chứa giftcode, hệ thống sẽ ưu tiên lấy thống báo hết giftcode từ bài thiết lập để gửi cho khách hàng
+- Khi gửi tin nhắn có chứa giftcode, hệ thống sẽ ưu tiên lấy thông báo hết giftcode từ bài thiết lập để gửi cho khách hàng
 
 
 **3. Xem Danh sách thiết lập**
