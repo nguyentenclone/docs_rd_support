@@ -92,7 +92,7 @@ Thông báo thêm mới thành công, hiển thị chi tiết đơn hàng
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_3jpg1653292350.jpg)
 
-+) Nhập lại kho (ĐIều kiện: đơn hàng có phiếu xuất đã xuất kho):
++) Nhập lại kho (Điều kiện: đơn hàng có phiếu xuất đã xuất kho):
 
 Người dùng có thể sử dụng bộ lọc Trạng thái hủy để tìm những đơn hàng 'Đã xuất kho'
 		 
@@ -102,9 +102,12 @@ Chọn đơn hàng muốn nhập lại kho -> Click 'Nhập lại kho'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_5jpg1653292409.jpg)
 
-Giao diện chi tiết phiếu nhập hiển thị với mục đích "Nhập từ đơn hủy", phiếu nhập ở trạng thái Phiếu mới. Tại tab danh sách 'Đơn hủy' hiển thị button 'Xem phiếu nhập'. Click 'Xem phiếu nhập' hiển thị chi tiết phiếu.
+Giao diện chi tiết phiếu nhập hiển thị với mục đích "Nhập từ đơn hủy", phiếu nhập ở trạng thái Phiếu mới. 
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_6jpg1653292432.jpg)
+
+Tại tab danh sách 'Đơn hủy' hiển thị button 'Xem phiếu nhập'. Click 'Xem phiếu nhập' hiển thị chi tiết phiếu.
+
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_7jpg1653292464.jpg)
 
@@ -116,7 +119,9 @@ Tại chi tiết phiếu nhập, người dùng click 'Nhập kho' phiếu nhậ
 
 
 * In đơn hàng ở các trạng thái: Đang xử lý, Đang đóng gói, Đang giao hàng, Đơn hoàn thành, Đơn hủy 
+
 Có thể cấu chỉnh sửa cấu hình mẫu in tại  [6.3 Cấu hình mẫu in](https://chat.bizfly.vn/guides/#/eshop/cauhinhmauin)
+
 Vào chi tiết đơn hàng=> Click 'In hóa đơn'
 
 	 
