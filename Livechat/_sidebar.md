@@ -12,7 +12,7 @@
 - [**3. Xem hội thoại theo bot**](Livechat/xemtheobot.md)
 - [**4. Quản lý hội thoại**](Livechat/quanlyhoithoai.md)
 - [**5. Chi tiết hội thoại**](Livechat/chitiethoithoai.md)
-- [**6. Thông tin khách hàng**](Livechat/thongtinkh.md)
+- [**6. Plugin**](Livechat/plugin.md)
 
 
 

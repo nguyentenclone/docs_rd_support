@@ -1,59 +1,106 @@
-**8.5. Plugin mở rộng**
+**5. Chi tiết hội thoại**
 
-**8.5.1. Đặt món nhanh của bot nhà hàng** 
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_84jpg1657270023.jpg)
 
-Để hiển thị plugin đặt món nhanh của nhà hàng, bạn cần tích chọn hiển thị plugin này trong phần cài đặt chung:
+**5.1. Gửi tin nhắn phản hồi cho khách hàng**
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5828988_36.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_80jpg1657265117.jpg)
 
-Sau khi tích chọn dịch vụ Nhà hàng, plugin sẽ hiển thị mặc định ở góc cuối màn hình bên phải. Bạn có thể di chuyển vị trí hiển thị tùy ý.
+Người dùng có thể gửi tin nhắn theo các định dạng sau đây:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829009_37.jpg)
+- Text
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829010_38.jpg)
+- Icon
 
-Khi bấm vào Đặt món, một form chứa các thông tin cần thiết để đặt món từ nhà hàng của bạn sẽ hiển thị. 
+- File đính kèm
 
-Bạn có thể đặt món nhanh cho khách ngay tại đây, các thông tin của khách hàng sẽ được fill tự động từ phần thông tin khách hàng.
+- Ảnh hoặc video
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829013_39.jpg)
+- Các ảnh đã lưu trên cloud
 
-**8.5.2. Tạo đơn hàng nhanh của bot bán hàng** 
+- Tin nhắn mẫu( đã soạn trước trong mục cài đặt Tin nhắn mẫu)
 
-Tương tự dịch vụ Nhà hàng, bạn cần tích chọn hiển thị plugin này trong phần cài đặt chung:
+Ngoài ra, người dùng có thể gửi tin nhắn nội bộ cho các nhân viên khác đang cùng chăm sóc khách hàng này. Đây là tin nhắn bảo mật, sẽ không hiển thị ở phía khách hàng.
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829035_40.jpg)
+**5.2.  Mở nội dung hội thoại trên nền tảng Messenger**
 
-Sau khi tích chọn dịch vụ Bán hàng, plugin sẽ hiển thị mặc định ở góc cuối màn hình bên phải. Bạn có thể di chuyển vị trí hiển thị tùy ý.
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_81jpg1657266424.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829042_41.jpg)
+**5.3. Thông tin khác**
 
-Form tạo đơn hàng sẽ hiển thị như sau:
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_82jpg1657266892.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829043_42.jpg)
+Tại mục này, người dùng có thể thực hiện các thao tác sau:
 
-**8.5.3. Tích hợp plugin FreshDesk ticket (tạo ticket trên FreshDesk)**
+- Đồng bộ dữ liệu với Facebook: Hệ thống sẽ đồng bộ các thông tin liên quan đến Khách hàng như: avatar, sđt/email (nếu public)
 
-Để hiện thị form tạo Ticket, bạn cần tích chọn hiển thị plugin này trong phần cài đặt chung:
+- Xem lịch sử cuộc hội thoại: Hỗ trợ xem các hành động đánh dấu hội thoại của nhân viên
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/28/5829045_43.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_83jpg1657267172.jpg)
 
-Để mở plugin, bạn click vào dấu cộng ở góc phải cuối màn hình:
+- Trả lời tự động: Người dùng có thể tắt chế độ trả lời tự động tương đương với việc tắt bot, khi đó kịch bản sẽ không được 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451138_141.png)
+**5.4. Thông tin khách hàng**
 
-Nhân viên sau khi đăng nhập vào trang [https://wowholiday.freshdesk.com/](https://wowholiday.freshdesk.com/) sẽ lấy keyAPI để sử dụng tạo ticket.
+Mục này giúp người dùng là quản trị viên/nhân viên quản lý các thông tin liên quan đến khách hàng, đồng thời đồng bộ sang hệ thống mini CRM nếu được bật chức năng đồng bộ dữ liệu sang CRM.
 
-Sau khi popup được mở ra, bạn nhập vào APIkey và tiến hành tạo ticket như bình thường:
+- Hệ thống sẽ lưu mặc định tên của khách hàng, thông tin này sẽ không được sửa/xóa
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451147_142.png)
+- Số điện thoại, email, ghi chú khi có thay đổi sẽ được update trực tiếp sang CRM, người dùng có thể xem nhanh thông tin của khách hàng bằng cách bấm vào icon CRM
 
-Ticket tạo xong sẽ được đẩy sang trang: [https://wowholiday.freshdesk.com/a/tickets/filters/all_tickets](https://wowholiday.freshdesk.com/a/tickets/filters/all_tickets)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_85jpg1657270165.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451148_143.png)
+**5.5. Nhân viên chăm sóc/người tham gia**
 
-Danh dách ticket của khách hàng sẽ được hiển thị ở cột bên phải màn hình:
+- Nếu dự án không bật chia tin nhắn, hệ thống sẽ hiển thị thông tin Người tham gia. Cuộc hội thoại lúc này hiển thị đối với tất cả nhân viên có trong bot đó
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/18/5451149_144.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_86jpg1657270237.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/01/17/5450968_139.png)
+- Nếu dự án bật chia tin, bạn sẽ nhìn thấy thêm thông tin Người tham gia, chính là sale được nhận chia cuộc hội thoại đó.
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_87jpg1657270302.jpg)
+
+Người dùng có thể chuyển hội thoại cho một người khác bằng cách bấm vào icon ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_88jpg1657270378.jpg)
+
+Người dùng có thể xem lịch sử chuyển  hội thoại  bằng cách bấm vào icon ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_89jpg1657270515.jpg)
+
+Người dùng có thể thêm người tham gia hội thoại bằng cách bấm vào icon ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_90jpg1657270568.jpg)
+
+**5.6. Gắn tag cho khách hàng**
+
+Người dùng có thể gắn các tag có sẵn hoặc thêm mới 1 tag cho khách hàng, tag sau khi gắn sẽ đi kèm với thông tin của khách và được đồng bộ sang mục Chat tags của CRM 
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_91jpg1657270645.jpg)
+
+Khi nhập vào 1 tags chưa có trong hệ thống, bạn có thể bấm vào Thêm mới để gắn tag đó cho khách hàng luôn.
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_92jpg1657270757.jpg)
+
+**5.7. Gắn Kịch bản tự động**
+
+- Người dùng có thể gắn kịch bản tự động cho 1 khách hàng cụ thể, danh sách kịch bản này được lấy từ danh sách Kịch bản hẹn giờ của chatbot.
+
+- Số lượng kịch bản tự động không giới hạn, người dùng có thể gán 1 hoặc nhiều kịch bản cùng 1 lúc tùy vào mục đích sử dụng.
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827640_34.jpg)
+
+**5.8. Hoạt động Ticket** 
+
+Hiển thị danh sách ticket đã tạo cho khách hàng này
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_93jpg1657271615.jpg)
+
+Ngoài ra, những ảnh và file trong cuộc hội thoại cũng sẽ được hiển thị tại đây:
+
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827656_35.jpg)
+
+
+
+
+
+
+
+
+
+
+

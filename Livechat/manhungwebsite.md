@@ -1,49 +1,57 @@
- **8.4. Thông tin khách hàng**
 
-Chức năng này giúp admin/nhân viên quản lý các thông tin liên quan đến khách hàng, đồng thời đồng bộ sang hệ thống mini CRM nếu được bật chức năng đồng bộ dữ liệu sang CRM.
+**Hướng dẫn tạo mã nhúng website**
 
-**8.4.1. Thông tin khách hàng**
+- Cho phép bạn nhúng box chat lên website bằng 1 đoạn mã 
+- 1 dự án có thể tạo nhiều mã nhúng khác nhau 
+- Có thể On/Off hoặc chỉnh sửa thời gian hiển thị của boxchat trên website
+- Hoạt động trên giao diện mới của Live chat
+- Thay vì tương tác với các nhóm support như phần cấu hình mã nhúng ở bot, đối với mã nhúng mới khách hàng sẽ tương tác với các option - chính là các bot trong dự án đó.
+- 1 mã nhúng có thể gồm nhiều option
+- Mỗi 1 option tương ứng với 1 bot
 
-- Hệ thống sẽ lưu mặc định tên của khách hàng, thông tin này sẽ không được sửa/xóa
-- Số điện thoại, email, ghi chú khi có thay đổi sẽ được update trực tiếp sang CRM, bạn có thể xem nhanh thông tin của khách hàng bằng cách bấm vào icon CRM
+**Bước 1**: Truy cập https://livechat.bizfly.vn, chọn Cài đặt Livechat 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827614_27.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735880_screenshot-11.jpg)
 
-**8.4.2. Nhân viên chăm sóc/người tham gia**
+**Bước 2**: Chọn Mã nhúng chat website
 
-- Nếu dự án không bật chia tin nhắn, hệ thống sẽ hiển thị thông tin Người tham gia. Cuộc hội thoại lúc này hiển thị đối với tất cả nhân viên có trong bot đó
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735905_13.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827624_29.jpg)
+**Bước 3**: Bấm vào Thêm mã nhúng 
 
-- Nếu dự án bật chia tin, bạn sẽ nhìn thấy thêm thông tin Người tham gia, chính là sale được nhận chia cuộc hội thoại đó.
+Màn hình chuyển sang màn cấu hình cho mã nhúng
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827625_30.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735910_14.jpg)
 
-**8.4.3. Gắn tag cho khách hàng**
+Bạn có thể chỉnh sửa thông tin cấu hình phù hợp nhu cầu sử dụng:
 
-Bạn có thể gắn các tag có sẵn hoặc thêm mới 1 tag cho khách hàng, tag sau khi gắn sẽ đi kèm với thông tin của khách và được đồng bộ sang mục Chat tags của CRM 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735912_15.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827631_31.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5736364_25.jpg)
 
-Khi nhập vào 1 tags chưa có trong hệ thống, bạn có thể bấm vào Thêm mới để gắn tag đó cho khách hàng luôn.
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735913_16.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827638_32.jpg)
+Bấm tiếp vào Thêm option để chọn các bot sẽ hiển thị kịch bản tương tác với khách hàng.
 
-**8.4.4. Gắn Kịch bản tự động**
+ - Mỗi option chỉ được chọn 1 bot
+ - Có thể tạo nhiều option trong 1 mã nhúng
+ - Có thể tùy chọn kịch bản của bot theo ý thích
+ 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735958_17.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5735963_18.jpg)
 
-- Bạn có thể gắn kịch bản tự động cho 1 khách hàng cụ thể, danh sách kịch bản này được lấy từ danh sách Kịch bản hẹn giờ của bot.
-- Số lượng kịch bản tự động không giới hạn, bạn có thể gán 1 hoặc nhiều kịch bản cùng 1 lúc tùy vào mục đích sử dụng.
+Đối với các mã nhúng tạo thành công, hệ thống sẽ tự động để thời gian hiển thị của mã nhúng đó là 24h. Bạn có thể sửa lại khung giờ theo ý muốn hoặc off khi cần.
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827640_34.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5736337_22.jpg)
 
-Ngoài ra, những ảnh và file trong cuộc hội thoại cũng sẽ được hiển thị tại đây:
+Để xóa, xem chi tiết hoặc lấy lại lại mã nhúng, bạn bấm vào icon dấu 3 chấm như dưới để chọn hành động:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827656_35.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5736342_23.jpg)
 
+**Bước 4**: Nhúng mã lấy được vào website bạn muốn hiển thị
 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5736304_21.jpg)
 
+Kết quả: 
 
-
-
-
-
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/09/22/5736344_24.jpg)
