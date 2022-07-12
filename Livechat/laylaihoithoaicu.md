@@ -1,4 +1,4 @@
-**6. Lấy lại hội thoại cũ** 
+**2.6. Lấy lại hội thoại cũ** 
 
 Cho phép người dùng chạy lấy lại hội thoại của Fanpage khi mới kết nối với chatbot. 
 

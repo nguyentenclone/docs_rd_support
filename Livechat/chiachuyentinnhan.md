@@ -1,4 +1,4 @@
-**3. Chia/chuyển tin nhắn**
+**2.3. Chia/chuyển tin nhắn**
 
 Cho phép người dùng phân chia hội thoại đổ về hệ thống Livechat cho nhân viên. Có 2 chế độ để người dùng có thể lựa chọn: 
 

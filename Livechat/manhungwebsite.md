@@ -1,5 +1,5 @@
 
-**Hướng dẫn tạo mã nhúng website**
+**2.7. Mã nhúng website**
 
 - Cho phép bạn nhúng box chat lên website bằng 1 đoạn mã 
 - 1 dự án có thể tạo nhiều mã nhúng khác nhau 

@@ -1,5 +1,5 @@
 
-**2. Nguồn hội thoại**
+**2.2 Nguồn hội thoại**
 
 - Cho phép người dùng cấu hình nguồn  hội thoại đổ về hệ thống Livechat
 

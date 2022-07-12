@@ -26,6 +26,8 @@ Ngoài ra, người dùng có thể gửi tin nhắn nội bộ cho các nhân v
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_81jpg1657266424.jpg)
 
+Người dùng có thể bấm vào tên khách hàng => bấm vào Messenger để mở hội thoại đó trên nền tảng của Facebook
+
 **5.3. Thông tin khác**
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_82jpg1657266892.jpg)

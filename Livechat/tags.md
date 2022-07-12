@@ -1,4 +1,4 @@
-**5. Quản lý Tags**
+**2.5. Quản lý Tags**
 
 Cho phép quản lý tất cả các tags đã tạo trong Livechat. Người dùng có thể sửa/xóa tags đó, sau khi thao tác dữ liệu sẽ được đồng bộ ngược lại những hội thoại đã được gán tag đó.
 

@@ -1,4 +1,4 @@
-**4. Tin nhắn mẫu**
+**2.4. Tin nhắn mẫu**
 
 Cho phép người dùng cấu hình những mẫu tin nhắn để gửi nhanh cho khách hàng thay vì phải tốn thời gian viết cùng một nội dung gửi đi nhiều lần. 
 

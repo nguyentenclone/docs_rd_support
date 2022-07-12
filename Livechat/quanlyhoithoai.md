@@ -52,7 +52,7 @@ Các thao tác đánh dấu hội thoại bao gồm:
 
 - Đánh dấu là spam: hội thoại sẽ được chuyển vào mục spam, người dùng sẽ không nhận được thông báo về tin nhắn mới của hội thoại này nữa.
 
-- Đánh dấu là seeding: Hệ thống sẽ chặn tất cả những tin nhắn đến từ khách hàng này
+- Đánh dấu là seeding: Hệ thống sẽ chặn tất cả những tin nhắn đến từ khách hàng này(chỉ có quản trị viên mới thực hiện được thao tác này).
 
 - Xóa hội thoại: Hệ thống sẽ xóa hội thoại và khách hàng này, đồng thời khôi phục lại quota vào gói chat.
 
