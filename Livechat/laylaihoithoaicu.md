@@ -2,7 +2,7 @@
 
 Cho phép người dùng chạy lấy lại hội thoại của Fanpage khi mới kết nối với chatbot. 
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/04/chatbot/img_64jpg1656930519.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/14/chatbot/img_96jpg1657789631.jpg)
 
 **Lấy lại hội thoại tự động:**
 
