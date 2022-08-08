@@ -16,6 +16,12 @@ b. Dữ liệu bổ sung
 
 Cho phép người dùng cài đặt đồng bộ/không đồng bộ dữ liệu từ Livechat sang hệ thống Bizfly CRM
 
+Khi tích vào box Chặn đồng bộ user chat/comment từ các nguồn: 
+
+- Đối với user cũ: không đẩy các thông tin update sau thời điểm tích chọn. Các thông tin bao gồm: SĐT, Email, Ghi chú, Sale chăm sóc
+
+- Đối với user mới: Không đồng bộ bất cứ thông tin nào từ khách mới đó 
+
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/24/chatbot/img_47jpg1656067468.jpg)
 
 c. Thông báo tin nhắn
