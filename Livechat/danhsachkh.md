@@ -1,4 +1,4 @@
-**2.8. Danh sách khách hàng**
+**2.9. Danh sách khách hàng**
 
 Cho phép người dùng quản lý danh sách những khách hàng của dự án. Khách hàng đến từ các bot FB, Website, OA Zalo.
 

@@ -1,5 +1,4 @@
-
-**2.7. Mã nhúng website**
+**2.8. Mã nhúng website**
 
 - Cho phép người dùng nhúng box chat lên website bằng một đoạn mã 
 
