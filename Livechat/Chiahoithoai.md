@@ -8,7 +8,7 @@ Cho phép người dùng phân chia hội thoại đổ về hệ thống Livech
 
 ***Hướng dẫn chi tiết cấu hình chia tin tự động cho nhân viên:***
  
-Truy cập vào mục Cài đặt => Chia hội thoại => Tích vào **Chia  tự động và chỉ nhân viên được chia mới được quyền xử lý hội thoại ** . Màn hình sẽ hiển thị như sau: 
+Truy cập vào mục Cài đặt => Chia hội thoại => Tích vào **Chia tự động và chỉ nhân viên được chia mới được quyền xử lý hội thoại** . Màn hình sẽ hiển thị như sau: 
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/08/12/chatbot/img_56jpg1660298035.jpg)
  
