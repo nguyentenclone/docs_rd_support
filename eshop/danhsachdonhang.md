@@ -19,11 +19,15 @@
         
     -   Đơn hủy: Đơn đã hủy, hàng sẽ hoàn lại nếu đã được xuất.
     
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_tiuongjpg1652868513.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/08/17/huyenvt/img_1png1660711527.png)
 
- * Tại danh sách đơn có thể tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm đơn của các khách hàng tại Hồ Chí MInh
+ * Tại danh sách đơn có thể tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau (Nhãn, Nguồn đặt, Ngày đặt...). Ví dụ tìm kiếm đơn của các khách hàng tại Hồ Chí MInh
  
-  ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_tkjpg1652868659.jpg)
+  ![enter image description here](https://chatbizfly.mediacdn.vn/2022/08/17/huyenvt/img_12png1660711624.png)
+
+* Người dùng có thể xuất excel danh sách đơn hàng: Chọn checkbox những đơn hàng cần xuất excel hoặc chọn tất cả đơn hàng  và click button Xuất ra file excel.
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/08/17/huyenvt/img_2png1660712353.png)
 
 * Có thể thực hiện tiếp nhận hàng loạt, Tạo phiếu xuất hàng loạt, Hủy hàng loạt đơn hàng: 
 
@@ -74,6 +78,47 @@ Chọn lý do -> Click 'Hủy đơn hàng'
 	*  Lý do hủy đơn mặc định sẽ có Lý do khác (nếu chưa cấu hình)
 	* Khi hủy đơn ở trạng thái 'Đang đóng gói' thì phiếu xuất cũng hủy theo và cộng lại số lượng sản phẩm vào kho
 	* Đơn hàng ở trạng thái 'Đang giao hàng' (phiếu xuất cho đơn hàng đã xuất kho) nếu hủy đơn thì phiếu xuất không bị hủy, cần nhập lại kho với phiếu nhập có mục đích nhập '"Nhập từ đơn hủy" -> Số lượng sản phẩm được cộng lại vào kho
+
+* Tại tab 'Đang xử lý' có thể thực hiện tách đơn (điều kiện: đơn hàng có từ 2 sản phẩm trở lên)
+	
+	Tại chi tiết đơn hàng: Click 'Tách đơn'
+	
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/19/huyenvt/img_1jpg1658225750.jpg)
+
+
+Hiển thị popup: Nhập số đơn cần tách, Lý do tách đơn -> Click 'tách đơn'
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/19/huyenvt/img_2jpg1658225842.jpg)
+
+ Popup tác đơn hiển thị. Người dùng nhập thông tin các đơn -> Click 'Đồng ý'
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/19/huyenvt/img_3jpg1658225945.jpg)
+	
+Thông báo thành công -> Hiển thị số đơn hàng được tách
+
+* Người dùng có thể lên lịch xử lý với những đơn hàng ở trạng thái 'Đơn mới' hoặc 'Đang xử lý'
+	
+	Tại tab 'Đơn mới' hoặc 'Đang xử lý' click xem chi tiết 1 đơn hàng
+	
+	![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/20/huyenvt/img_1jpg1658290607.jpg)
+			
+	 Tại giao diện chi tiết đơn hàng -> Click 'Lên lịch xử lý'
+	
+	![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/20/huyenvt/img_2jpg1658290637.jpg)
+
+    Chọn thời gian và lý do lên lịch -> Click 'lên lịch'
+	
+	![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/20/huyenvt/img_3jpg1658290660.jpg)
+
+	 Thông báo thành công. Tại danh sách đơn hàng hiển thị Đơn đã lên lịch. Người dùng có quyền xử lý đơn hàng  từ ngày đã lên lịch
+	
+	![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/20/huyenvt/img_4jpg1658290698.jpg)
+
+	![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/20/huyenvt/img_6jpg1658290726.jpg)
+
+	Note: Có thể sửa hoặc xóa lịch xử lý đơn
+
+	![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/20/huyenvt/img_5jpg1658290864.jpg)
 	
 * Tại tab 'Đơn hủy' có thể tạo lại đơn với đơn hủy bất kì hoặc nhập lại kho với những đơn hủy có phiếu xuất đã xuất kho 
 
