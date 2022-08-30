@@ -67,6 +67,8 @@
 	 - **6.9 Kết nối đối tác vận chuyển**
 	     - [6.9.1 Kết nối cổng vận chuyển ViettelPost](eshop/ketnoiviettelpost.md)
 		 - [6.9.2 Kết nối cổng vận chuyển Ahamove](eshop/ketnoiahamove.md)
+		 - [6.9.3 Kết nối cổng vận chuyển Giao hàng tiết kiệm](eshop/ketnoightk.md)
+		 - [6.9.4 Kết nối cổng vận chuyển Giao hàng nhanh](eshop/ketnoighn.md)
 	 - **6.10 Kho hàng / Nơi cung cấp**
 	     - [6.10.1 Tạo mới kho hàng](eshop/taokhohang.md)
 		 - [6.10.2 Danh sách kho hàng](eshop/danhsachkhohang.md)

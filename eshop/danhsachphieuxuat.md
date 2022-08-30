@@ -62,6 +62,7 @@ Hủy thành công phiếu về trạng thái 'Đã hủy'
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_dutkhojpg1652842454.jpg)
 
 - ***Xử lý xuất hàng loạt:*** 
+
 	Tại màn danh sách phiếu mới chọn từ 2 phiếu cùng kho xuất với mục đích bán hàng -> Click 'Xử lý phiếu hàng loạt'
 	![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_xuathljpg1652844149.jpg)
 
@@ -73,7 +74,12 @@ Chọn phương thức vận chuyển cho tất cả phiếu xuất -> Click 'Du
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_11jpg1653295315.jpg)
 
 Màn hình nhập thông tin giao vận của các đơn hiển thị: nhập đầy đủ thông tin -> Click 'Sẵn sàng giao'
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_123jpg1652845729.jpg)
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/08/09/huyenvt/img_121jpg1660018249.jpg)
+
+
+**Note:** 
+ Khi chọn Dịch vụ vận chuyển cho tất cả các đơn, phát sinh đơn không tính được phí vận chuyển -> Click checkbox "Dịch vụ vận chuyển" và chọn dịch vụ  khác cho đơn. Thao tác này không bắt buộc, nếu đơn không tính được phí thì khi xử lý hàng loạt phiếu xuất bán hàng sẽ bị rớt lại , người dùng xử lý sau
 
 Popup liệt kê danh sách các phiếu xuất và trạng thái duyệt (thành công hoặc thất bại ). Phiếu duyệt thành công sẽ chuyển sang tab 'Chờ xuất kho', những phiếu duyệt thất bại vẫn ở tab 'Phiếu mới'.
 

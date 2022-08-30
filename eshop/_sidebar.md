@@ -55,9 +55,10 @@
 	 - [**6.2 Cấu hình phiếu xuất/nhập**](eshop/cauhinhxuatnhap.md)
 	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
      - [**6.4 Bộ lọc**](eshop/boloc.md)
-	 - **6.5 Quản lý Tags,Thương hiệu**
-		 - [6.5.1 Quản lý Tags](eshop/quanlytags.md)
-		 - [6.5.2 Quản lý Thương hiệu](eshop/quanlythuonghieu.md)
+	 - **6.5 Quản lý Nhãn/Tags/Thương hiệu**
+		 - [6.5.1 Quản lý Nhãn](eshop/quanlynhan.md)
+		 - [6.5.2 Quản lý Tags](eshop/quanlytags.md)
+		 - [6.5.3 Quản lý Thương hiệu](eshop/quanlythuonghieu.md)
 	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
 	 - [**6.7 Quản lý nhân viên**](eshop/quanlynhanvien.md)	
 	 - **6.8 Cấu hình hóa đơn**
