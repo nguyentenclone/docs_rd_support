@@ -2,6 +2,10 @@
 
 Tính năng này cho phép người dùng xem được toàn bộ danh sách khách hàng(DSKH) có trong một con bot. Người dùng có thể thực hiện các chức năng lọc, gán danh sách, gán tag...để có được tệp DSKH như mong muốn. Người dùng sản phẩm chatbot có thể hoàn toàn sử dụng tính năng DSKH để quản lý ở mức độ cơ bản
 
+Người dùng có thể sử dụng song song DSKH của chatbot và dịch vụ Quản lý khách hàng (CRM) trong cùng một dự án mà không ảnh hưởng gì đến dữ liệu. Tuy nhiên, những thông tin được update từ DSKH của chatbot chưa được đồng bộ sang hệ thống CRM và ngược lại.
+
+Mặc định dữ liệu của khách hàng sẽ được hệ thống chatbot đồng bộ từ Livechat khi người dùng update các thông tin liên quan đến sđt, email, thời gian nhắn tin,.... 
+
 Các thông tin hiển thị của mỗi kiểu bot Facebook, Website hoặc Zalo sẽ khác nhau về một số cột hiển thị dữ liệu. 
 
 
