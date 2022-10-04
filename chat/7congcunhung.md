@@ -1,80 +1,90 @@
  **7. Công cụ nhúng**
+ 
+Chat Bizfly hỗ trợ bạn 3 kiểu nhúng kịch bản chatbot như sau:
 
-[cinwell website](https://www.youtube.com/embed/2pSwtgemlBY ':include :type=iframe width=100% height=400px')
+- **Box chat Facebook**: Cho phép người dùng nhúng kịch bản chatbot Facebook lên website 
 
-Chat Bizfly hỗ trợ bạn 3 kiểu nhúng botchat như sau:
+- **Messenger Ref URL**: Cho phép người dùng tạo link m.me mở ra Messenger với từng kịch bản riêng biệt
 
-- **Box chat**: Box Chat để nhúng lên website sẽ có giao diện giống với box chat của facebook. Bạn có thiết lập màu sắc, ẩn, hiện từng page hoặc theo thời gian mà bạn muốn.
-
-- **Messenger Ref URL**: cho phép bạn tạo link mở Facebook Messenger với từng kịch bản riêng biệt.
-
-- **Chat Website**: Cho phép bạn nhúng box chat lên website bằng 1 đoạn mã code được nhúng trực tiếp vào website. Hỗ trợ thiết lập box chat trực tiếp với khách hàng trên website.
-<![endif]-->
+- **Box chat Website**: Cho phép người dùng nhúng kịch bản chatbot lên website bằng một đoạn mã script 
 
 **7.1. Nhúng box chat**
 
-Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Box chat => “Tiếp tục”
+Người dùng cần tạo bot kiểu Facebook để thực hiện được chức năng này:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384250_88.png)
+Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Bấm vào mục Box chat 
 
-Bước 2:  Nhập vào các thông tin  cấu hình box chat
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_62jpg1664339485.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384260_89.png)
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384270_90.png)
+Bước 2:  Nhập vào các thông tin cấu hình box chat
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_63jpg1664352604.jpg)
+
+Cấu hình ẩn chức năng " Continue as guest" theo hướng dẫn nếu có nhu cầu:
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_64jpg1664352808.jpg)
 
 Giao diện hiển thị mẫu box chat vừa tạo:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384271_91.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_65jpg1664352956.jpg)
 
-Bước 3: Copy mã code nhúng vừa được tạo ra và nhúng vào danh sách website muốn hiển thị
+Bước 3: Bấm nút Tạo mã nhúng
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384303_92.png)
+Bước 4: Copy mã code nhúng vừa được tạo ra và nhúng vào danh sách website muốn hiển thị
 
-**7.2. Nhúng** **Messenger Ref URL**
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_66jpg1664353027.jpg)
 
-Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Messenger Ref URL => “Tiếp tục”
+Giao diện khi nhúng lên website:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384311_93.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_67jpg1664353340.jpg)
 
-Bước 2: Nhập vào địa chỉ website muốn nhúng chat bot => Chọn Kịch bản trả lời cho link nhúng => Click “Tạo URL”
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384312_94.png)
+**7.2. Nhúng Messenger Ref URL**
 
-Bước 3: Sao chép link đã nhúng và để vào vị trí bạn muốn
+Người dùng cần tạo bot kiểu Facebook để thực hiện được chức năng này:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384313_95.png)
+Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Bấm vào mục Messenger Ref URL 
 
- **7.3. Nhúng** **chat website**
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_68jpg1664353609.jpg)
 
-Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Chọn Chat website => “Tiếp tục”
+Bước 2: Điền thông tin cho link m.me
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384352_96.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_69jpg1664353786.jpg)
 
-Bước 2: Nhập vào địa chỉ website muốn nhúng chat bot => Chọn Kịch bản trả lời cho link nhúng => Click “Tạo mã nhúng”
+Bước 3: Bấm nút Tạo mã nhúng
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5652156_49.png)
+Bước 4: Lấy link m.me qua link hoặc QR
 
-Bước 3: Copy mã nhúng vừa tạo và gắn vào website muốn hiển thị
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_70jpg1664353876.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384359_98.png)
+ **7.3. Nhúng boxchat website**
+
+Người dùng cần tạo bot kiểu website để thực hiện được chức năng này:
+
+Bước 1:  Từ menu “Công cụ nhúng” chọn “Thêm mới” => Bấm vào mục Chat website 
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_71jpg1664354165.jpg)
+
+Bước 2: Nhập thông tin cho mã nhúng
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_72jpg1664354395.jpg)
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_73jpg1664354517.jpg)
+
+    Sau khi tích hợp với Google analytics với mã nhúng website, bạn có thể theo dõi được các số liệu thống kê sau đây:
+    - sent_message
+    - recived_message
+    - open_box_chat
+    Sau khi tạo xong mã nhúng, bạn gắn lên website và có thể vào GA để theo dõi tương tác của khách hàng với website.
+
+Bước 3: Bấm nút Tạo mã nhúng
+
+Bước 4: Copy mã nhúng gắn lên website
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_74jpg1664354675.jpg)
 
 Giao diện hiển thị trên website:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5384361_99.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/09/28/chatbot/img_75jpg1664354951.jpg)
 
-Lưu ý: Bạn có thể thêm các URL và phân chia nhóm support cho link đó. Chat web bắt buộc phải có nhóm support, bạn cần tạo nhóm support để hỗ trợ khi khách hàng vào chat với website (tham khảo cách tạo nhóm support tại mục 8.2).
 
-[Xem video HDSD](https://youtu.be/2pSwtgemlBY?list=PLYQfkp8M9WLWe-uVRzY8PaKyo_k5NO2l7) Công cụ nhúng.
 
-**7.4. Tích hợp mã nhúng website và Google Analytics**
-
-Sau khi tích hợp với Google analytics với mã nhúng website, bạn có thể theo dõi được các số liệu thống kê sau đây:
-
-- sent_message
-- recived_message
-- open_box_chat
-
-Để tích hợp, bạn chỉ cần nhập mã Google analytics vào trong phần tạo mã nhúng website như hình dưới đây:
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/22/5824229_screenshot-3.jpg)
-
-Sau khi tạo xong mã nhúng, bạn gắn lên website và có thể vào GA để theo dõi tương tác của khách hàng với website
