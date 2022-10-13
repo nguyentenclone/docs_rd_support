@@ -1,68 +1,59 @@
- **3.1.8. Thêm action**
+ **3.1.8. Thêm Action**
 
-[cinwell website](https://www.youtube.com/embed/1agEZycDpDI ':include :type=iframe width=100% height=400px')
+ **Với form Action người dùng có thể:**
+    
+   -  Gắn tag: Tự động gắn tag cho khách hàng khi tương tác với nút hoặc kịch bản đó 
+   
+   - Bỏ tag: Tự động bỏ tag khỏi khách hàng khi tương tác với nút hoặc kịch bản đó
+   
+   - Nhúng kịch bản: Tự động gắn luồng kịch bản hẹn giờ cho khách hàng khi tương tác với nút hoặc kịch bản đó 
+   
+   - Bỏ kịch bản: Tự động gỡ luồng kịch bản hẹn giờ cho khách hàng khi tương tác với nút hoặc kịch bản đó
 
-* **Trong chức năng Thêm action có 4 tính năng nhỏ bao gồm:**
-    - Gắn tag
-    - Bỏ tag
-    - Nhúng kịch bản
-    - Bỏ kịch bản
-* **Thêm action được sử dụng :**
-     - Gắn vào nút của kịch bản:
+**Form action được áp dụng khi người dùng cấu hình :**
+
+   - Gắn vào nút của kịch bản:
         
-		=> Giả sử, bạn muốn khi khách hàng ấn vào 1 nút kịch bản nào đó, họ sẽ được gắn 1 tag đánh dấu hoặc gửi kèm theo 1 kịch bản. Bạn có thể thêm action gắn tag và nhúng 1 kịch bản hẹn giờ(thời gian gửi tùy vào cài đặt). 
+		=> Giả sử, người dùng muốn khi khách hàng ấn vào 1 nút kịch bản nào đó, họ sẽ được gắn 1 tag đánh dấu hoặc gửi kèm theo 1 kịch bản. Người dùng có thể thêm action gắn tag và nhúng 1 kịch bản hẹn giờ (thời gian gửi tùy vào cài đặt của kịch bản hẹn giờ đó). 
         
-		=> Và ngược lại, khi bạn muốn bỏ tag *abc* ra khỏi khách hàng *H*, bạn chỉ cần tạo 1 nút tùy ý, chọn bỏ tag abc và khi khách hàng tương tác với nút đó, tag *abc* sẽ tự động được xóa đi. Chức năng bỏ nhúng kịch bản tương tự như bỏ tag.
+		=> Và ngược lại, khi người dùng muốn bỏ tag *abc* ra khỏi khách hàng *H*, chỉ cần tạo 1 nút tùy ý, chọn bỏ tag abc và khi khách hàng tương tác với nút đó, tag *abc* sẽ tự động được xóa đi. Chức năng bỏ nhúng kịch bản tương tự như bỏ tag.
      
-	 - Gắn vào bộ từ khóa: 
+	- Gắn vào bộ từ khóa: 
        
-	   => Sử dụng tương tự với khi thêm action vào nút, nhưng thay vì phải ấn vào nút thì khi khách hàng chat 1 câu nào đó nằm trong bộ từ khóa của bạn, khách hàng đó sẽ được thêm action theo như bạn đã setup.
+	   => Sử dụng tương tự với khi thêm action vào nút, nhưng thay vì phải ấn vào nút thì khi khách hàng chat  câu nào đó nằm trong bộ từ khóa, khách hàng đó sẽ được thêm action theo như người dùng đã setup.
 
-- **Gắn tag**
+- Thêm vào kịch bản:
 
-Khi bạn gắn tag vào 1 nút hoặc khi chat 1 từ khóa nào đó, tag đó sẽ được lưu cùng với thông tin của khách hàng và lưu trữ tại chức năng Quản lý khách hàng(mini CRM). Bạn có thể dùng tag để phân loại khách hàng thành nhiều nhóm khác nhau.
+   => Khi tương tác với kịch bản có chứa form action khách hàng sẽ nhận được các action tương ứng.
 
-Để thực hiện bạn làm như sau:
+**a. Thêm action khi gắn vào nút kịch bản:**
 
-Bước 1: Ấn vào nút bạn cần gắn tag
+Bước 1. Tạo form kịch bản và tạo 
 
-Bước 2: Click vào action => chọn Gắn tag
+Bước 2: Tại nút vừa tạo, bấm vào **Thêm hành động** tại mục **Hành động đi kèm**
 
-Bước 3: Thêm tag cho nút => Click Lưu
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/13/chatbot/img_76jpg1665649838.jpg)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383734_28.png)
+Bước 3: Chọn hành động muốn gắn vào nút đó
 
-- **Bỏ tag**
+Bước 4: Bấm **Lưu**
 
-Bước 1: Ấn vào nút bạn hoặc bộ từ khóa cần bỏ tag
+Bước 5: Bấm **Áp dụng**
 
-Bước 2: Click vào action => chọn Bỏ tag
+**b. Thêm action vào kịch bản:**
 
-Bước 3: Nhập vào tag bạn muốn bỏ => Click Lưu
+Bước 1: Tạo 1 kịch bản 
 
-*Lưu ý: Tag muốn bỏ phải là tag đã được gắn cho khách hàng.*
+Bước 2. Chọn **form Action** trong phần **Công cụ tạo kịch bản**
 
-- **Nhúng kịch bản**
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/13/chatbot/img_77jpg1665651213.jpg)
 
-Chức năng này có thể giúp bạn gửi 1 kịch bản hẹn giờ cho khách hàng khi họ tương tác với nút hoặc khi 1 từ khóa nào đó. Thời gian gửi lại tin nhắn sẽ tùy thuộc vào thời gian bạn cài đặt cho kịch bản đó.
+Bước 3: Chọn hành động muốn gắn vào kịch bản
 
-Ví dụ: Bạn muốn 1 ngày sau khi khách hàng click vào nút “Đồ phượt”, fanpage sẽ gửi lại 1 nội dung tin nhắn, gợi nhắc lại cho khách hàng đang nói về vấn đề gì, hoặc gợi nhắc họ sử dụng lại dịch vụ. Bạn có thể làm như sau:
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/13/chatbot/img_78jpg1665651372.jpg)
 
-Bước 1: Click vào nút hoặc bộ từ khóa muốn nhúng kịch bản => chọn Nhúng kịch bản
-Bước 2: Chọn kịch bản muốn gắn
+Bước 4:  Bấm **Lưu**
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383737_31.png)
-
-Bước 3: Sau đó click Lưu
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2019/11/19/5383736_30.png)
-
-- **Bỏ nhúng kịch bản** 
-
-Bước 1: Ấn vào nút bạn hoặc bộ từ khóa cần bỏ nhúng kịch bản
-
-Bước 2: Click vào action => chọn Bỏ nhúng kịch bản
-
-Bước 3: Chọn kịch bản bạn muốn bỏ => Click Lưu
+Bước 5: Bấm **Áp dụng**
 
 *Lưu ý:  Bỏ nhúng kịch bản chỉ áp dụng đối với những kịch bản có thời gian chờ gửi lớn. Đối với những kịch bản đã nhúng và cài đặt thời gian gửi là Gửi ngay lập tức hoặc  gửi sau 1-2p sẽ không bỏ được.*
