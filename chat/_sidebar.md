@@ -16,7 +16,8 @@
 		- [3.1.8 Thêm action](chat/318themaction.md)
 		- [3.1.9 Form danh sách user](chat/319formDSuser.md)
 		- [3.1.10 Webform](chat/3110webform.md)
-		
+		- [3.1.11 Google Sheet](chat/3111ggsheet.md)
+>>>>>>> f6d58f77c104b10195e65d13ac52f4324c7416e0
 	- [3.2. Quản lý kịch bản mặc định](chat/32qlykichbanmacdinh.md)	
 	- [3.3. Quản lý menu chính](chat/33qlymenuchinh.md)
 	- [3.4. Kịch bản hẹn giờ](chat/34qlykichbanhengio.md)
