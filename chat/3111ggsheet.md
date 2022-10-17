@@ -1,10 +1,8 @@
 **3.1.11 Google Sheet**
 
-Chức năng cho phép người dùng hiển thị những thông tin thu thập được từ khách hàng lên form google sheet.
+Chức năng cho phép người dùng thu thập thông tin có sẵn của khách hàng và hiển thị trên form Google Sheet
 
-## Cách sử dụng
-
-### **Thiết lập form google sheet**
+ **Cách sử dụng**
 
 **Bước 1**:  Click vào Google Sheet
 
@@ -20,7 +18,8 @@ Chức năng cho phép người dùng hiển thị những thông tin thu thập
 
 **Bước 3**: Click Lưu. Sheet đã tạo không được sửa, thêm mới, xoá trường hiển thị.
 
-### **Sử dụng form google sheet**
+ **Sử dụng form google sheet**
+ 
 Sau khi hoàn thành form google sheet, bạn có thể thông qua form Hỏi đáp, Webform (tuỳ mục đích sử dụng) để thu thập thông tin khách hàng
 
  - VD sử dụng Google sheet qua form Hỏi đáp 
