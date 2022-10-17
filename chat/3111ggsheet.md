@@ -45,7 +45,7 @@ Sau khi hoàn thành form Google Sheet, người dùng có thể thông qua form
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot15png1665805238.png)
 
- - VD sử dụng Google Sheet ghi nhận thông tin có sẵn của khách hàng 
+ - VD sử dụng Google Sheet để thu thập thông tin có sẵn của khách hàng 
 
 **Bước 1**: Người dùng thu thập những thông tin của khách hàng được ghi nhận thông qua livechat như tên khách hàng, sđt, email, ...
 
