@@ -4,10 +4,9 @@ Chức năng cho phép người dùng hiển thị những thông tin thu thập
 
 ## Cách sử dụng
 
-
 ### **Thiết lập form google sheet**
 
-**Bước 1**:  Click vào Google Sheet.
+**Bước 1**:  Click vào Google Sheet
 
 **Bước 2**: Thiết lập form google sheet
 
@@ -22,7 +21,6 @@ Chức năng cho phép người dùng hiển thị những thông tin thu thập
 **Bước 3**: Click Lưu. Sheet đã tạo không được sửa, thêm mới, xoá trường hiển thị.
 
 ### **Sử dụng form google sheet**
-
 Sau khi hoàn thành form google sheet, bạn có thể thông qua form Hỏi đáp, Webform (tuỳ mục đích sử dụng) để thu thập thông tin khách hàng
 
  - VD sử dụng Google sheet qua form Hỏi đáp 
@@ -31,21 +29,26 @@ Sau khi hoàn thành form google sheet, bạn có thể thông qua form Hỏi đ
  
  ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot16png1665805524.png)
 
+
  b2: Thiết lập form google sheet, các trường hiển thị là trường tuỳ chỉnh đã lưu câu trả lời khách hàng.
  
- ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/14/chatbot/img_Screenshot6png1665740719.png)
+ ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/17/chatbot/img_Screenshot18png1665973263.png)
 
  - VD sử dụng Google sheet qua Webform
 
 b1: Thiết lập Webform, lưu câu trả lời của khách hàng vào trường tuỳ chỉnh
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot13png1665804879.png)
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/17/chatbot/img_Screenshot19png1665973564.png)
+
 
 b2: Thiết lập form google sheet sao cho form google sheet được gọi sau khi khách hàng đã hoàn thành webform
+
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot14png1665805185.png)
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot15png1665805238.png)
+
 
 ### Kết quả của thiết lập
 
