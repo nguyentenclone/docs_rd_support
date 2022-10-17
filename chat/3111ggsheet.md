@@ -3,7 +3,7 @@
 
 Chức năng cho phép người dùng thu thập thông tin có sẵn của khách hàng và hiển thị trên form Google Sheet
 
- **Cách tạo form Google sheet**
+ **Cách tạo form Google Sheet**
 
 **Bước 1**:  Click vào form Google Sheet
 
@@ -25,7 +25,7 @@ Sau khi hoàn thành form Google Sheet, người dùng có thể thông qua form
 
  - VD sử dụng Google Sheet qua form Hỏi đáp 
 
- **Bước1**: Thiết lập form Hỏi đáp, lưu câu trả lời của khách hàng vào trường tuỳ chỉnh 
+ **Bước 1**: Thiết lập form Hỏi đáp, lưu câu trả lời của khách hàng vào trường tuỳ chỉnh 
  
  ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot16png1665805524.png)
 
@@ -36,7 +36,6 @@ Sau khi hoàn thành form Google Sheet, người dùng có thể thông qua form
  - VD sử dụng Google Sheet qua Webform
 
 **Bước 1**: Thiết lập Webform, lưu câu trả lời của khách hàng vào trường tuỳ chỉnh
-
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/17/chatbot/img_Screenshot19png1665973564.png)
 
@@ -50,15 +49,15 @@ Sau khi hoàn thành form Google Sheet, người dùng có thể thông qua form
 
 **Bước 1**: Người dùng thu thập những thông tin của khách hàng được ghi nhận thông qua livechat như tên khách hàng, sđt, email, ...
 
-
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/17/chatbot/img_Screenshot20png1665981240.png)
-
 
 **Bước 2**: Thiết lập google sheet sao cho khách hàng tương tác với kịch bản có chứa form Google sheet vừa được tạo
 
  ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/17/chatbot/img_Screenshot21png1665981366.png)
  
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/17/chatbot/img_Screenshot22png1665981489.png)
+
+Sau khi khách hàng tương tác những kịch bản có chứa form Google sheet vừa được tạo, các thông tin tương ứng của khách hàng sẽ tự động được fill vào Sheet đó
 
  **Kết quả của thiết lập**
 
