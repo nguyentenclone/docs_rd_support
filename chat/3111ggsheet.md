@@ -4,9 +4,10 @@ Chức năng cho phép người dùng hiển thị những thông tin thu thập
 
 ## Cách sử dụng
 
+
 ### **Thiết lập form google sheet**
 
-**Bước 1**:  Click vào Google Sheet
+**Bước 1**:  Click vào Google Sheet.
 
 **Bước 2**: Thiết lập form google sheet
 
@@ -21,6 +22,7 @@ Chức năng cho phép người dùng hiển thị những thông tin thu thập
 **Bước 3**: Click Lưu. Sheet đã tạo không được sửa, thêm mới, xoá trường hiển thị.
 
 ### **Sử dụng form google sheet**
+
 Sau khi hoàn thành form google sheet, bạn có thể thông qua form Hỏi đáp, Webform (tuỳ mục đích sử dụng) để thu thập thông tin khách hàng
 
  - VD sử dụng Google sheet qua form Hỏi đáp 
@@ -46,4 +48,5 @@ b2: Thiết lập form google sheet sao cho form google sheet được gọi sau
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot15png1665805238.png)
 
 ### Kết quả của thiết lập
+
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/15/chatbot/img_Screenshot17png1665805878.png)
