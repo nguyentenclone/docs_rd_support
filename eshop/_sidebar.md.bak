@@ -28,7 +28,8 @@
 	     - [2.6.1 Tạo mới phiếu cân bằng](eshop/taophieucanbang.md)
 		 - [2.6.2 Danh sách phiếu cân bằng](eshop/danhsachphieucanbang.md)
 	 - [**2.7 Quản lý tồn kho**](eshop/quanlytonkho.md)
-	 - [**2.8 Quản lý sản phẩm vật lý**](eshop/sanphamvatly.md)
+	 - [**2.8 Kiểm kho**](eshop/kiemkho.md)
+	 - [**2.9 Quản lý sản phẩm vật lý**](eshop/sanphamvatly.md)
 - **III Khách hàng**
      - [**3.1 Danh sách khách hàng**](eshop/danhsachkhachhang.md)  
 - **IV Chiến dịch khuyến mại**           
@@ -55,9 +56,10 @@
 	 - [**6.2 Cấu hình phiếu xuất/nhập**](eshop/cauhinhxuatnhap.md)
 	 - [**6.3 Cấu hình mẫu in**](eshop/cauhinhmauin.md)
      - [**6.4 Bộ lọc**](eshop/boloc.md)
-	 - **6.5 Quản lý Tags,Thương hiệu**
-		 - [6.5.1 Quản lý Tags](eshop/quanlytags.md)
-		 - [6.5.2 Quản lý Thương hiệu](eshop/quanlythuonghieu.md)
+	 - **6.5 Quản lý Nhãn/Tags/Thương hiệu**
+		 - [6.5.1 Quản lý Nhãn](eshop/quanlynhan.md)
+		 - [6.5.2 Quản lý Tags](eshop/quanlytags.md)
+		 - [6.5.3 Quản lý Thương hiệu](eshop/quanlythuonghieu.md)
 	 - [**6.6 Cấu hình phí vận chuyển chung**](eshop/cauhinhphivanchuyenchung.md)
 	 - [**6.7 Quản lý nhân viên**](eshop/quanlynhanvien.md)	
 	 - **6.8 Cấu hình hóa đơn**
