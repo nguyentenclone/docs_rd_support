@@ -36,7 +36,7 @@ Thanh  **Menu**  là công cụ hữu ích giúp người dùng dễ dàng tìm 
 
 -   **Lưu ý: cần phải thiết lập nội dung ở menu chính để kích hoạt menu nhanh**
 
- ***Hướng dẫn tạo menu truy vấn tự động đến kịch bản chatbot Bizfly:***
+**Hướng dẫn tạo menu truy vấn tự động đến kịch bản chatbot Bizfly:**
  
 Menu truy vấn tự động của OA Zalo có thể gọi đến kịch bản của bot Zalo đang kết nối. Khi khách hàng bấm vào nút menu trên OA, kịch bản từ chatbot sẽ được gửi đi. Để thiết lập chức năng này, người dùng thực hiện theo các bước sau:
 
