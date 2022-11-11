@@ -5,11 +5,10 @@
   - [Thông báo từ Facebook](notice/)
   - [Zalo bot](zalo/)
   - [Eshop](eshop/)
+  - [Loyalty bizfly](Loyalty/)
   - [Coupon bizfly](coupon/)
   - [Restaurant bizfly](nhahang/)
   - [Billing bizfly](pay/)
-  - [Sale bizfly](banhang/)
-  - [Loyalty bizfly](Loyalty/)
   - [Open API](OpenAPI/)
   
 
