@@ -23,10 +23,14 @@ Thanh  **Menu**  là công cụ hữu ích giúp người dùng dễ dàng tìm 
 -   Thanh menu có 3 vị trí: Trái – Giữa – Phải. (OA có thể thiết lập tối đa 3 menu và tối thiểu 1 menu)
 
 -   Chọn loại tương tác: OA có thể chọn 1 trong các loại sau:
-    -   Menu cha: Là một lựa chọn nằm trong bảng menu cho phép thiết lập thêm các menu con bên trong (các lựa chọn trong menu con bao gồm các thiết lập như thanh menu)
-    -   Mở trang web: Lựa chọn này cho phép OA chèn đường link dẫn đến Website Doanh nghiệp.
-    -   Gọi điện: Tại đây OA có thể thiết lập số Hotline của doanh nghiệp để khách hàng có thể chủ động liên lạc
-    -   Truy vấn tự động: Tính năng này nhằm mục đích tối ưu tương tác tự động giữa OA và khách hàng. Khi người dùng nhấn thanh menu, hệ thống sẽ ghi nhận là người dùng gửi yêu cầu truy vấn và sẽ phản hồi theo nội dung truy vấn đã thiết lập. 
+    
+	-   Menu cha: Là một lựa chọn nằm trong bảng menu cho phép thiết lập thêm các menu con bên trong (các lựa chọn trong menu con bao gồm các thiết lập như thanh menu)
+    
+	-   Mở trang web: Lựa chọn này cho phép OA chèn đường link dẫn đến Website Doanh nghiệp.
+    
+	-   Gọi điện: Tại đây OA có thể thiết lập số Hotline của doanh nghiệp để khách hàng có thể chủ động liên lạc
+    
+	-   Truy vấn tự động: Tính năng này nhằm mục đích tối ưu tương tác tự động giữa OA và khách hàng. Khi người dùng nhấn thanh menu, hệ thống sẽ ghi nhận là người dùng gửi yêu cầu truy vấn và sẽ phản hồi theo nội dung truy vấn đã thiết lập. 
 
 **Đối với Menu V2**
 
