@@ -31,5 +31,5 @@ Có 2 loại tài khoản Doanh nghiệp:
 
 Các tính năng của OA Doanh nghiệp:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/10/29/5770677_z2145015395599-6c6cefefe3a7867e07897d93a1ac08a7.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/11/14/chatbot/img_5770677z21450153955996c6cefefe3a7867e07897d93a1ac08a7jpg1668396938.jpg)
 
