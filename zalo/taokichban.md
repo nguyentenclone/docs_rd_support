@@ -12,7 +12,7 @@ Hiển thị đoạn text không quá 640 kí tự, có thể sử dụng emoji 
 
 **2. Form ảnh**
 
-Form ảnh hỗ trợ tải lên ảnh hoặc file upload( .doc, .docx, .pdf). Hiện tại zalo chưa hỗ trợ hiển thị kịch bản có chứa zalo.
+Form ảnh hỗ trợ tải lên ảnh hoặc file upload( .doc, .docx, .pdf). Hiện tại zalo chưa hỗ trợ hiển thị kịch bản có chứa video.
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/10/20/5762545_screenshot-21.jpg)
 

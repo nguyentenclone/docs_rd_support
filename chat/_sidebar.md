@@ -1,4 +1,3 @@
-
 - [**Giới thiệu**](chat/README.md)
 - **1. Đăng nhập vào hệ thống**
 	- [1.1. Chưa có tài khoản VietID](chat/chuacotkvietid.md)

@@ -10,14 +10,19 @@ Quản trị viên trên Trang có thể chọn một trong các ứng dụng đ
 
 Đối với người dùng đang sử dụng Livechat, khi app Bizfly chưa được chọn là ứng dụng chính sẽ có thể gặp phải tình trạng không thể gửi được tin nhắn/bình luận cho khách hàng. Để cài đặt app Bizfly là ứng dụng chính, người dùng có thể thao tác theo các bước sau đây:
 
- - Bước 1: Truy cập vào mục Cài đặt Trang  
- 
- - Bước 2: Bấm vào Nền tảng Messenger  
- 
- - Bước 3: Bấm vào  Ứng dụng đã kết nối  
- 
- - Bước 4: Đặt cấu hình như sau:
+Truy cập nhanh [tại đây](https://www.facebook.com/settings?tab=advanced_messaging)
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/16/chatbot/img_51jpg1655371019.jpg)
+ - Bước 1: Chuyển sang trang đang cần thiết lập
+ 
+ - Bước 2: Bấm vào Bảng điều khiển chuyển nghiệp  
+ 
+ - Bước 3: Bấm vào  Quyền truy cập trang  
+ 
+ - Bước 4: Bấm vào Nhắn tin nâng cao
+ 
+ - Bước 5: Chọn cấu hình app Bizfly tại mục Cài đặt ứng dụng -> Ứng dụng nhận tin nhắn trên Messenger -> Cấu hình
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/11/11/chatbot/img_CUHNHAPPjpg1668152809.jpg)
 
 Tham khảo thêm về chính sách này của Facebook [tại đây](https://developers.facebook.com/docs/messenger-platform/handover-protocol/?translation) 
+
