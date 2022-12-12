@@ -1,5 +1,7 @@
 **2.2. Kết nối bot Zalo** 
 
+**Lưu ý**: Để kết nối được OA Zalo với bot, OA của người dùng cần được xác thực và mua gói của Zalo trước. Mọi thông tin cần tìm hiểu người dùng có thể xem tại link sau: https://oa.zalo.me/home/resources/guides
+
 Sau khi bấm Hoàn thành từ bước tạo bot(tương tác như tạo bot Facebook), màn hình hiển thị như sau:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/03/01/6228350_14.jpg)

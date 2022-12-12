@@ -78,13 +78,34 @@ Khi nhập vào 1 tags chưa có trong hệ thống, bạn có thể bấm vào 
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_92jpg1657270757.jpg)
 
-**5.7. Gắn Kịch bản tự động**
+**5.7. Kịch bản tự động**
 
-- Người dùng có thể gắn kịch bản tự động cho 1 khách hàng cụ thể, danh sách kịch bản này được lấy từ danh sách Kịch bản hẹn giờ của chatbot.
+ - Chức năng cho phép gắn kịch bản tự động cho 1 khách hàng cụ thể, danh sách kịch bản này được lấy từ danh sách Kịch bản hẹn giờ của chatbot. 
+ 
+- Số lượng gắn kịch bản không giới hạn, người dùng có thể gắn 1 hoặc nhiều kịch bản cùng 1 lúc tuỳ vào mục đích sử dụng.
+ 
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/12/chatbot/img_Screenshot1png1670828802.png) 
+ 
+**Cách sử dụng kịch bản hẹn giờ cho 1 khách hàng trong màn Live chat**
 
-- Số lượng kịch bản tự động không giới hạn, người dùng có thể gán 1 hoặc nhiều kịch bản cùng 1 lúc tùy vào mục đích sử dụng.
+Bước 1: Trong màn hình Live chat, chọn khách hàng muốn nhúng kịch bản hẹn giờ
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827640_34.jpg)
+Bước 2: Tại phần Kịch bản tự động bấm biểu tương thêm kịch bản
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/12/chatbot/img_Screenshot2png1670829903.png)
+
+Bước 3: Chọn Kịch bản hẹn giờ 
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/12/chatbot/img_Screenshot3png1670829972.png)
+
+ - Có thể thêm nhiều kịch bản hẹn giờ, một kịch bản hẹn giờ được gắn sẽ có bao gồm thời gian gán, luồng kịch bản, thời gian gửi, trạng thái gửi.
+ 
+ ![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/12/chatbot/img_Screenshot5png1670830473.png)
+ 
+ - Người dùng có thể gửi ngay luồng kịch bản trong một kịch bản hẹn giờ mà không phải chờ đến thời gian gửi khi nhấn **Gửi ngay**
+
+ ![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/12/chatbot/img_Screenshot4png1670830347.png)
+
 
 **5.8. Hoạt động Ticket** 
 
@@ -95,6 +116,8 @@ Hiển thị danh sách ticket đã tạo cho khách hàng này
 Ngoài ra, những ảnh và file trong cuộc hội thoại cũng sẽ được hiển thị tại đây:
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/12/26/5827656_35.jpg)
+
+
 
 
 

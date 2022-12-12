@@ -21,11 +21,13 @@
 
 Chức năng của các form kịch bản vẫn được giữ nguyên tại phiên bản mới, hệ thống chỉ update lại giao diện của mỗi form. Đồng thời số lượng các form của mỗi kiểu bot sẽ được thống nhất lại như sau:
 
-- **Bot Facebook**: Text/menu, Ảnh, Card, Dynamic, Delay, Hỏi đáp, Hẹn giờ, Danh sách Users, Trả lời nhanh
+- **Bot Facebook**: Text/menu, Ảnh, Card, Dynamic, Delay, Hỏi đáp, Hẹn giờ, Danh sách Users, Google Sheet, Action, Trả lời nhanh
 
-- **Bot Zalo**: Text, Ảnh, Card Zalo, Dynamic, Hỏi đáp, List Zalo
+- **Bot Zalo**: Text, Ảnh, Card Zalo, Dynamic, Hỏi đáp, List Zalo, Google Sheet, Action
 
-- **Bot website**: Text/menu, Ảnh, Card, Dynamic, Delay, Hỏi đáp, Hẹn giờ, Danh sách Users, Xác thực email/sđt, Xác thực otp, Trả lời nhanh
+- **Bot website**: Text/menu, Ảnh, Card, Dynamic, Delay, Hỏi đáp, Hẹn giờ, Google Sheet, Action, Xác thực email/sđt, Xác thực otp, Trả lời nhanh
+
+- **Bot Telegram**: Text/menu, Ảnh, Dynamic, Hỏi đáp, Hẹn giờ, Google Sheet, Action
 
 **3.3. Sử dụng kịch bản** 
 
