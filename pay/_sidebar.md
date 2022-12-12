@@ -1,5 +1,5 @@
-- [1.Bật dịch vụ quản lý Coupon Bizfly](coupon/1batdichvucoupon.md)
-- [2.Cài đặt chung ](coupon/2caidatkhocoupon.md) 
+- [1.Tổng quan](pay/tongquan.md)
+- [2.Giới thiệu Cổng thanh toán Bizfly Billing ](pay/gioithieu.md) 
 - [3.Quản lý kho Gift-code](coupon/3qlykhocoupon.md)
 - [4.Quản lý khách hàng](coupon/4qlykhachhangcoupon.md)
 - [5.Quản lý chiến dịch ](coupon/5qlychiendich.md)
