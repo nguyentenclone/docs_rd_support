@@ -59,6 +59,26 @@ Từ đây người dùng có thể tạo các form kịch bản cho bot Telegra
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/08/chatbot/img_11jpg1670495537.jpg)
 
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/09/chatbot/img_12jpg1670574322.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
