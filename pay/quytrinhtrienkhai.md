@@ -2,24 +2,15 @@
 
 Thứ tự các bước triển khai:  
   
-Bước 1: Tích hợp cổng thanh toán trên môi trường TEST
+Bước 1: Đăng ký tạo tài khoản quản trị giao dịch với Bizfly Billing
 
-Thông tin MERCHANT ACCOUNT TEST, THẺ TÍN DỤNG TEST, THẺ GHI NỢ TEST
+Bước 2: Tiến hành tích hợp theo tài liệu hướng dẫn 
 
-Bước 2: TEST website ĐVCNT
+Bizfly Billing hiện hỗ trợ thanh toán qua một số cổng thanh toán: ATM / VISA (WEPAY), MOMO, TRUEMONEY, VNPAY, VIETTELPAY . Chọn và kí kết hợp đồng kinh doanh với các cổng thanh toán đó -> thông báo cho Billing biết các cổng thanh toán đã chọn
 
-ĐVCNT thông báo địa chỉ website đã tích hợp xong cổng thanh toán vào hòm mail TECH@ONEPAY.VN.
+Bước 3: Đơn vị tiến hành kiểm thử phần mềm, tham khảo các testcase của Billing cung cấp để kiểm tra các lỗi phổ biến trong quá trình thanh toán.
 
-Bước 3: Nghiệm thu cổng thanh toán
+Bước 4: Sau khi đơn vị kinh doanh hoàn thành tích hợp và kiểm thử, Billing sẽ xác thực dịch vụ của bạn trên môi trường test trước khi lên production
 
-Bước 4: Cấp MERCHANT ACCOUNT chạy thật
+Bước 5: Triển khai dịch vụ thanh toán cho khách hàng.
 
-Bộ phận kỹ thuật OnePAY sẽ gửi file thông tin MERCHANT ACCOUNT cho ĐVCNT khi OnePAY nhận được bản nghiệm thu.
-
-Bước 5: Cấp tài khoản Quản trị giao dịch online
-
-Bộ phận hỗ trợ khách hàng OnePAY sẽ gửi file tài khoản Quản trị giao dịch cho ĐVCNT ngay cùng ngày cấp MERCHANT ACCOUNT.
-
-Bước 6: Thank you
-
-Trong khi trình triển khai và chạy thật, ĐVCNT có vấn đề chưa rõ xin liên hệ theo danh sách của OnePAY
