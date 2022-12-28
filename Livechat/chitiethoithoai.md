@@ -58,7 +58,7 @@ Mục này giúp người dùng là quản trị viên/nhân viên quản lý c�
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_86jpg1657270237.jpg)
 
-- Nếu dự án bật chia tin, bạn sẽ nhìn thấy thêm thông tin Người tham gia, chính là sale được nhận chia cuộc hội thoại đó.
+- Nếu dự án bật chia tin, bạn sẽ nhìn thấy thêm thông tin Người tham gia, chính là sale được nhận chia cuộc hội thoại đó. Nếu bạn là chủ hội thoại, bạn có thể add nhân viên khác vào để cùng chăm sóc khách hàng đó. 
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_87jpg1657270302.jpg)
 
@@ -67,6 +67,8 @@ Người dùng có thể chuyển hội thoại cho một người khác bằng 
 Người dùng có thể xem lịch sử chuyển  hội thoại  bằng cách bấm vào icon ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_89jpg1657270515.jpg)
 
 Người dùng có thể thêm người tham gia hội thoại bằng cách bấm vào icon ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_90jpg1657270568.jpg)
+
+Người dùng có thể rời khỏi hội thoại bằng cách bấm vào icon ![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/28/chatbot/img_outroomjpg1672216470.jpg)
 
 **5.6. Gắn tag cho khách hàng**
 
