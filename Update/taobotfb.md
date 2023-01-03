@@ -46,15 +46,17 @@ Sau khi bấm Hoàn thành từ bước tạo bot, màn hình hiển thị như 
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/03/01/6228339_13.jpg)
 
-- Đối với những tài khoản Facebook thực hiện kết nối mà không đủ quyền với Fanpage, hệ thống sẽ hiển thị những quyền còn thiếu. 
+**Tài khoản kết nối không đủ quyền**
+
+Đối với những tài khoản Facebook thực hiện kết nối mà không đủ quyền với Fanpage, hệ thống sẽ hiển thị những quyền còn thiếu. 
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/03/chatbot/img_83jpg1672720398.jpg)
 
-- Để có thể kết nối lại được, tài khoản đang kết nối cần thông báo cho Quản trị viên của fanpage cấp quyền cao nhất. Việc này đảm bảo app Bizfly sẽ có được toàn bộ quyền mà Faecbook ủy thác, quá trình sử dụng kịch bản tự động, chăm sóc khách hàng từ Livechat sẽ ổn định hơn. 
+Để có thể kết nối lại được, tài khoản đang kết nối cần thông báo cho Quản trị viên của fanpage cấp quyền cao nhất. Việc này đảm bảo app Bizfly sẽ có được toàn bộ quyền mà Faecbook ủy thác, quá trình sử dụng kịch bản tự động, chăm sóc khách hàng từ Livechat sẽ ổn định hơn. 
 
-Ngoài ra, người dùng có thể chủ động đổi kiểu bot từ bot thường sang bot bán hàng, bot nhà hàng...để sử dụng thêm các chức năng nâng cao của các loại bot đó.
+**Đổi kiểu bot**
 
-Để đổi kiểu bot, người dùng có thao tác như sau:
+Ngoài ra, người dùng có thể chủ động đổi kiểu bot từ bot thường sang bot bán hàng, bot nhà hàng...để sử dụng thêm các chức năng nâng cao của các loại bot đó. Để đổi kiểu bot, người dùng có thao tác như sau:
 
 **Bước 1**: Từ màn hình danh sách bot, chọn một bot muốn chỉnh sửa và bấm vào dấu 3 chấm như hình dưới đây:
 
