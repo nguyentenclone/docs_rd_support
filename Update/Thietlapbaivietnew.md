@@ -44,10 +44,9 @@ Hiển thị chi tiết những comment gặp lỗi trong quá trình chạy thi
 
 - Khi gửi tin nhắn có chứa giftcode, hệ thống sẽ ưu tiên lấy thông báo hết giftcode từ bài thiết lập để gửi cho khách hàng
 
-
 **3. Xem Danh sách thiết lập**
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/04/6314650_34.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_34jpg1672827520.jpg)
 
 Người dùng có thể:
 
@@ -65,7 +64,7 @@ Người dùng có thể:
 
 Từ màn hình mặc định, người dùng bấm vào nút **Thêm mới** để tạo thiết lập tự động hoặc thủ công cho bài viết.
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6315484_35.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_35jpg1672826699.jpg)
 
 **4.1. Thiết lập trả lời tự động**
 
@@ -77,7 +76,7 @@ Người dùng có thể chọn1 hoặc nhiều bài viết từ danh sách các
 
     pageid_postid
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316037_38.jpg)      
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_38jpg1672827486.jpg)      
 
 ***Bước 3***: Cấu hình trả lời từ động cho bài viết 
 
@@ -85,23 +84,23 @@ Người dùng có thể tùy ý kết hợp các điều kiện hoặc hành đ
 
 + Tự động like tất cả các bình luận của bài viết
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316072_39.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_39jpg1672827463.jpg)
  
  + Ẩn tất cả bình luận hoặc ẩn theo điều kiện: 
  
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316077_40.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_40jpg1672827438.jpg)
 
 + Điều kiện để trả lời bình luận của khách hàng:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316087_41.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_41jpg1672827403.jpg)
 
 + Nội dung trả lời bình luận của khách hàng
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316160_42.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_42jpg1672826744.jpg)
 
 + Nội dung tin nhắn gửi cho khách hàng: Tin nhắn text( kèm theo tối đa 3 nút) hoặc tin nhắn chứa sản phẩm 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316329_43.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_43jpg1672826776.jpg)
 
 ***Bước 4***: Bấm nút "**Lưu** "
 
@@ -115,21 +114,21 @@ Tính năng cho phép người dùng thao tác bằng tay để gửi phản h�
 
 Hệ thống sẽ chuyển sang màn hình hiển thị danh sách tất cả comment của bài viết đang được chọn. 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316351_45.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_45jpg1672827049.jpg)
 
 Trong trường thiết lập nhiều bài viết cùng 1 lúc, người dùng có thể bấm chọn xem theo bài viết tại bộ lọc Bài viết:
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316348_44.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_44jpg1672827002.jpg)
 
 Người dùng có thể sử dụng những bộ lọc nhanh của hệ thống để có được danh sách khách hàng mong muốn.
 
 Sau khi tích chọn vào danh sách khách hàng, người dùng bấm nút "**Chọn**" 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/05/6316560_46.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_46jpg1672826815.jpg)
 
 ***Bước 2***:  Nhập nội dung trả lời bình luận của khách hàng 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/06/6317431_47.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_47jpg1672826847.jpg)
 
 Phần này người dùng thao tác tương tự khi cấu hình nội dung cho phần rep tự động
 
@@ -139,15 +138,15 @@ Trong phần gửi thủ công, tin nhắn gửi đi sẽ được chia thành 2
 
 + Gửi tin nhắn khi thời gian tương tác của khách hàng <24h
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/06/6317509_48.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_48jpg1672826891.jpg)
 
 + Gửi tin nhắn khi thời gian tương tác của khách hàng >24h (trường hợp này khi gửi tin nhắn cần dùng thêm thẻ tag để đảm bảo theo đúng luật của FB)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/06/6317510_49.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_49jpg1672826930.jpg)
 
 ***Bước 4***: Bấm nút "**Gửi**"
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2022/05/06/6317554_50.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/04/chatbot/img_50jpg1672826964.jpg)
 
 - Sau khi bấm gửi hệ thống sẽ hiển thị thông báo ước lượng khoảng thời gian gửi xong nội dung dựa trên số lượng khách hàng.
 
