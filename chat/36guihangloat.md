@@ -113,12 +113,3 @@ Các bước thực hiện như sau:
 
 **Ngoài ra, bạn có thể nhân bản 1 luồng gửi hàng loạt thành nhiều bản khác nhau nếu muốn tận dụng những cài đặt ở luồng đó.**
 
-- Ở màn hình danh sách luồng gửi tin, bấm vào icon 3 chấm ở luồng bạn muốn nhân bản và chọn Nhân bản
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5651978_nhanban1.png)
-
-- Hoặc click vào chi tiết luồng gửi và chọn Nhân bản
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/07/02/5651979_nhanban2.png)
-
-Sau khi nhân bản xong, bạn có thể chỉnh sửa lại luồng của luồng gửi copy và gửi như bình thường.
