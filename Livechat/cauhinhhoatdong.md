@@ -1,12 +1,29 @@
-**2.10. Thay đổi trạng thái chăm sóc**
+**2.10. Cấu hình hoạt động**
 
-Cho phép người dùng cấu hình trạng thái chăm sóc là online hoặc offline. Trong đó: 
+ Tính năng này cho phép người dùng có quyền Quản trị viên  có thể quản lý trạng thái on/off của nhân viên trong phần Cài đặt. Hệ thống Livechat đã bổ sung thêm một thiết lập (**option 3**) trong mục **Chia hội thoại** với nội dung: ***Tự động thay đổi nhân viên chăm sóc khi nhân viên chăm sóc hiện tại của hội thoại đó offline***.
 
-**Chế độ online**: Khi ở trạng thái này nhân viên sẽ nhận được thông báo khi có khách nhắn tin đến
+**1. Trong trường hợp nhân viên A đang online**: Thực hiện chia  đều hội thoại đối với cả hội thoại cũ và mới cho các nhân viên
 
-**Chế độ offline**: Khi ở trạng thái này, những hội thoại nhân viên đã nhận nếu có tin nhắn mới thì hội thoại sẽ được "công khai" với các nhân viên khác để họ cùng hỗ trợ. Đồng thời hệ thống sẽ tự động thêm các nhân viên được phép nhận hội thoại còn lại trở thành người tham gia của hội thoại đó.
+**2. Trong trường hợp nhân viên A offline + tích chọn option 3**:
 
-*Lưu ý: Hiển thị hội thoại trong trường hợp nhân viên online/offline chỉ hoạt động trong chế độ Chia hội thoại và không áp dụng với hội thoại là Comment.* 
+ - Đối với hội thoại mới: Không chia cho A nữa, chia cho các nhân viên  online còn lại
+ 
+ - Đối với hội thoại cũ: Tự động remove A ra khỏi hội thoại và chia cho 1  trong những nhân viên online còn lại. Trong trường hợp  không có nhân viên nào online, hội thoại sẽ không chia cho ai
+
+**3. Trong trường hợp nhân viên A offline + không tích chọn option 3**:
+
+-  Đối với hội thoại mới: Không chia cho A nữa, chia cho các nhân viên online còn lại
+
+- Đối với hội thoại cũ: Vẫn giữ lại A là người chăm sóc chính, đồng thời add thêm các nhân viên còn lại vào làm người tham gia. 
+
+**Quản trị viên** có thể thay đội trạng thái hoạt động của nhân viên: 
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/12/chatbot/img_84jpg1673492741.jpg)
+
+Kết hợp với thiết lập tại mục Chia hội thoại để đảm bảo tất cả hội thoại đều được chăm sóc kịp thời: 
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/01/12/chatbot/img_85jpg1673492928.jpg)
+
 
 **Nhân viên** có thể chủ động chuyển trạng thái hoạt động của chính mình: 
 
