@@ -1,4 +1,4 @@
-**6.5.2.1. Tag sản phẩm**
+**1.12.2.1. Tag sản phẩm**
 - Thêm Tag của sản phẩm:
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'

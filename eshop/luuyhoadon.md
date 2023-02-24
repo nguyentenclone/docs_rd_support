@@ -1,4 +1,4 @@
-**6.8.2 Cấu hình lưu ý hóa đơn**
+**1.6.2 Cấu hình lưu ý hóa đơn**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

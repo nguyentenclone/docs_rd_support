@@ -1,7 +1,7 @@
 
 
 
-**6.2	Cấu hình phiếu xuất/nhập**
+**1.7	Cấu hình phiếu xuất/nhập**
 
 + Lý do hủy phiếu xuất, phiếu nhập, phiếu kiểm có thể thêm, chỉnh sửa, xóa lý do 
 

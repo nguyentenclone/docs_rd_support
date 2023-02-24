@@ -1,4 +1,4 @@
-**2.7 Quản lý tồn kho**
+**2.6.1 Đối với hệ thống quản lý theo sản phẩm thường**
 
 - Hiển thị đầy đủ thông tin sản phẩm,  tổng số lượng tồn, số lượng chờ xuất và số lượng khả dụng của sản phẩm trong kho
 

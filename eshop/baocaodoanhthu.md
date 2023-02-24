@@ -1,5 +1,5 @@
 
-**5.2 Báo cáo doanh thu**
+**6.2 Báo cáo doanh thu**
 
 - Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 - Có thể báo cáo doanh thu dựa theo 6 tiêu chí

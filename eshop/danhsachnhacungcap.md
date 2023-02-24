@@ -1,7 +1,7 @@
 
 
 
-**6.10.4	Danh sách nhà cung cấp**
+**1.2.4	Danh sách nhà cung cấp**
 
 Hiển thị đầy đủ nhà cung cấp, thông tin nhà cung cấp, ngày tạo nhà cung cấp
 

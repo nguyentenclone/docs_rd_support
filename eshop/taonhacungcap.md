@@ -1,5 +1,5 @@
 
-**6.10.3	Tạo mới nhà cung cấp**
+**1.2.3	Tạo mới nhà cung cấp**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

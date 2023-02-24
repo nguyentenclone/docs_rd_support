@@ -1,5 +1,5 @@
 
-**1.1.4 Tạo đơn hàng trên chatbot**
+**3.1.4 Tạo đơn hàng trên chatbot**
 
 Sau khi đã kết nối fanpage vào hệ thống, bạn click vào menu Live Chat để mở phần quản lý tin nhắn đổ về từ fanpage
 

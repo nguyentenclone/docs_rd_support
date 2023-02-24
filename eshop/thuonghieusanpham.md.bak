@@ -1,45 +1,31 @@
-**6.9.3. Kết nối cổng vận chuyển Giao hàng tiết kiệm**
+**6.12.2.2. Thương hiệu**
+- Thêm thương hiệu của sản phẩm:
 
-**Bước 1:** 
+**Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 
- -   Để kết nối cổng vận chuyển Giao hàng tiết kiệm, đầu tiên cần có tài khoản bên Giao hàng tiết kiệm
- -  Nếu chưa có tài khoản, vui lòng truy cập  https://khachhang.giaohangtietkiem.vn/ để đăng ký
- 
- **Bước 2:**  Sau khi đã đăng ký thành công tài khoản, bạn truy cập vào hệ thống bán hàng => Chọn menu 'Cài Đặt' => 'Kết nối đối tác vận chuyển' => 'Giao hàng tiết kiệm'
- 
- ![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/14/huyenvt/img_1jpg1655200044.jpg)
- 
-**Bước 3:** Nhập  API Token lấy từ tài khoản  trên GHTK -> Click 'Kết nối'
+**Bước 2**:  Click buton 'Quản lý chi tiết' =>Chọn tab 'Sản phẩm' => Chọn 'Thương hiệu' =>Click 'Thêm mới'
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/16/huyenvt/img_2jpg1655349521.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_22jpg1664877178.jpg)
 
+**Bước 3**: Nhập thông tin thương hiệu =>Click 'Thêm mới'
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/16/huyenvt/img_3jpg1655350495.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909058_screenshot-134.png)
 
-**Note:** 
++ Chỉnh sửa thương hiệu:
+Chọn tác vụ ba chấm, chọn chỉnh sửa => click 'Cập nhật' để hoàn thành việc chỉnh sửa
 
-Tại tài khoản GHTK người dùng có thể:
-  + Thêm kho hàng tương ứng với địa chỉ kho hàng trên E-Shop cần kết nối để đồng nhất địa chỉ lấy hàng ( nếu đã có kho trùng với kho trên E-Shop thì không cần thêm)
-  + Trường hợp liên kết 2 kho khác địa chỉ giữa E-Shop và GHTK: khi tạo đơn giao vận, đơn vị vận chuyển sẽ lấy hàng tại địa chỉ hiển thị trên GHTK
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909059_screenshot-135.png)
 
-**Bước 4:**  Sau khi kết nối thành công , giao diện hiển thị danh sách các kho trên GHTK. Người dùng chọn kho muốn liên kết -> Click 'Liên kết kho'
++ Xóa thương hiệu:
+ Chọn tác vụ ba chấm dưới thương hiệu, chọn Xóa => click 'Xóa' để hoàn thành việc xóa
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/16/huyenvt/img_4jpg1655375908.jpg)
-
-**Bước 5:** Người dùng chọn kho muốn liên kết và click button 'Liên kết'  -> hệ thống thông báo "Thêm kho đối tác vận chuyển thành công"
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/17/huyenvt/img_1jpg1655454463.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909060_screenshot-136.png)
 
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/17/huyenvt/img_2jpg1655454484.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909061_screenshot-137.png)
 
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909062_screenshot-138.png)
 
- **Note:**
- 
- - Danh sách kho kết nối hiển thị theo tài khoản
- - 1 kho trên E-Shop có thể liên kết nhiều lần với nhiều kho trên GHTK. Tuy nhiên địa chỉ lấy hàng sẽ là địa chỉ kho GHTK cuối cùng được liên kết
- -  Có thể kết nối n kho trên E-Shop với 1 kho trên GHTK. Địa chỉ lấy hàng là địa chỉ kho trên GHTK
-- Quan hệ 1 dự án bán hàng - 1 tài khoản giao hàng tiết kiệm
-- Thay đổi tài khoản kết nối bằng cách click 'Kết nối tài khoản khác'. Nhập thông tin tài khoản =>Click 'Kết nối' để thay đổi
+- Có thể tìm kiếm thương hiệu theo tên. Nhập tên thương hiệu muốn tìm kiếm =>click icon tìm kiếm hoặc enter
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/06/17/huyenvt/img_11jpg1655457203.jpg)
+![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/09/5909065_screenshot-139.png)

@@ -1,6 +1,6 @@
 
 
-**6.6	Cấu hình phí vận chuyển chung**
+**1.3	Cấu hình phí vận chuyển chung**
 
 + **Cấu hình phí vận chuyển sẽ theo Tỉnh/Thành phố**
 

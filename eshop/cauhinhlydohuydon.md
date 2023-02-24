@@ -1,5 +1,5 @@
 
-**6.8.3 Lý do hủy hóa đơn**
+**1.6.3 Lý do hủy hóa đơn**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

@@ -2,7 +2,7 @@
 
 
 
-**6.10.6	Danh sách nơi sản xuất**
+**1.2.6	Danh sách nơi sản xuất**
 
 Hiển thị đầy đủ nơi sản xuất, thông tin liên hệ và ngày tạo
 

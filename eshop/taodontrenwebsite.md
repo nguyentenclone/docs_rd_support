@@ -1,6 +1,6 @@
 
 
-**1.1.2	Tạo đơn hàng trên website**
+**3.1.2	Tạo đơn hàng trên website**
 
 - Khi website đã được tích hợp với hệ thống bán hàng, vui lòng truy cập vào trang web để mua hàng. 
 
@@ -49,4 +49,4 @@ click 'Xác nhận thanh toán và đặt hàng' để hoàn tất mua hàng
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/15/5880130_23.png)
 
 Xử lý đơn hàng sẽ thao tác trên hệ thống bán hàng xem cụ thể 
-[1.1.2 Xử lý đơn hàng](eshop/taodonhangtrenhethong.md)
+[3.1.2 Xử lý đơn hàng](eshop/taodonhangtrenhethong.md)

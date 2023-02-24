@@ -1,4 +1,4 @@
-**6.9.4. Kết nối cổng vận chuyển Giao hàng nhanh**
+**1.4.4. Kết nối cổng vận chuyển Giao hàng nhanh**
 
 **Bước 1:** 
 

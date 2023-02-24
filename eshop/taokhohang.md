@@ -1,7 +1,7 @@
 
 
 
-**6.10.1	Tạo mới kho hàng**
+**1.2.1	Tạo mới kho hàng**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

@@ -1,7 +1,7 @@
 
 
 
-**4.1.2 Tạo mới chiến dịch có điều kiện**
+**5.1.2 Tạo mới chiến dịch có điều kiện**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng=> Chọn menu Chiến dịch khuyến mại
 

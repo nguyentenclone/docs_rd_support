@@ -1,5 +1,5 @@
 
-**6.3	Cấu hình mẫu in**
+**1.8	Cấu hình mẫu in**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 
@@ -7,7 +7,7 @@
 
 **Bước 3:** Chọn tab cấu hình mẫu in cho 'Đơn hàng', 'Phiếu nhập' hoặc 'Phiếu xuất'
 
-**6.3.1 Cấu hình mẫu in Đơn hàng**
+**1.8.1 Cấu hình mẫu in Đơn hàng**
 
 -   Hệ thống mặc định cho phép tạo mẫu in với 3 khổ A4, A5 và A58. Chỉ hiển thị mẫu in tương ứng với khổ đã chọn ( ví dụ: Khi chọn Khổ A4 chỉ hiển thị những mẫu đã lưu của khổ  A4)
 
@@ -48,7 +48,7 @@
   -   Hệ thống giới hạn tối đa 3 mẫu in hóa đơn giành cho mỗi khổ . Muốn thêm mẫu in mới cần xóa 1 trong 3 mẫu đang có.
   ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/12/huyenvt/img_canhbaojpg1652346127.jpg)
   
-    **6.3.2 Cấu hình mẫu in Phiếu xuất**
+    **1.8.2 Cấu hình mẫu in Phiếu xuất**
  
  - Hệ thống mặc định cho phép tạo mẫu in với 2 khổ A4, A5 với mục đích 'Bán hàng' hoặc 'Chuyển kho'. Chỉ hiển thị mẫu in tương ứng với khổ đã chọn ( ví dụ: Khi chọn Khổ A4 với mục đích 'Bán hàng' chỉ hiển thị những mẫu đã lưu thuộc  khổ A4 có mục đích 'Bán hàng')
  
@@ -80,7 +80,7 @@
     
   **Note:**
   -   Hệ thống giới hạn tối đa 3 mẫu in hóa đơn giành cho mỗi khổ và mục đích . Muốn thêm mẫu in mới cần xóa 1 trong 3 mẫu đang có.
-  **6.3.3. Cấu hình mẫu in Phiếu nhập** 
+  **1.8.3. Cấu hình mẫu in Phiếu nhập** 
  - Hệ thống cho phép tạo 4 loại mẫu in tương ứng với 2 khổ A4, A5 và mục đích "Từ phiếu xuất" hoặc "Từ nhà cung cấp / Tự sản xuất" . Chỉ hiển thị mẫu in tương ứng với khổ và mục đích đã chọn ( ví dụ: Khi chọn Khổ A4 và mục đích "Từ phiếu xuất" chỉ hiển thị những mẫu đã lưu của khổ A4 và mục đích "Từ phiếu xuất")
  
    -   Xem thử mẫu in: Click 'Xem thử' để xem mẫu in	
