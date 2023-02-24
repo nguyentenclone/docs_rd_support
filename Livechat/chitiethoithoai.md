@@ -22,6 +22,8 @@ Người dùng có thể gửi tin nhắn theo các định dạng sau đây:
 
 - **Mở inbox**: Cho phép mở ra cửa sổ chat trực tiếp với khách hàng trên FB. Chức năng này sẽ hữu ích khi thời gian tương tác cuối cùng của khách đã quá 7 ngày (để sử dụng chức năng này, vui lòng đọc và làm theo hướng dẫn của mục Truy cập trang cá nhân tại 5.2)
 
+- **Hiển thị nhân viên chăm sóc cuối cùng của hội thoại**: Hiển thị trong trường hợp nhân viên được chia tin offline, các nhân viên khác cùng được add vào để tham gia chăm sóc. Hệ thống sẽ hiển thị nhân viên chăm sóc cuối cùng để các nhân viên khác có thể xem được.
+
 - **Tin nhắn nội bộ**: Người dùng có thể gửi tin nhắn nội bộ cho các nhân viên khác đang cùng chăm sóc khách hàng này. Đây là tin nhắn bảo mật, sẽ không hiển thị ở phía khách hàng.
 
 **5.2.  Mở nội dung hội thoại trên nền tảng Messenger**
