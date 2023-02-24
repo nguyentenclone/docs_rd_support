@@ -1,4 +1,4 @@
-**6.9.1 Kết nối cổng vận chuyển Viettel Post**
+**1.4.1 Kết nối cổng vận chuyển Viettel Post**
 
 **Bước 1**: 
 - Để kết nối cổng vận chuyển Viettel Post, đầu tiên cần có tài khoản bên ViettelPost

@@ -2,7 +2,7 @@
 
 
 
-**6.10.2 Danh sách kho hàng**
+**1.2.2 Danh sách kho hàng**
 
 Hiển thị đầy đủ kho hàng, thông tin kho hàng, ngày tạo kho hàng
 

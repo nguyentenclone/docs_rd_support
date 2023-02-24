@@ -4,7 +4,7 @@
 
 
 
-**6.1	Thông tin chung**
+**1.1	Thông tin chung**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

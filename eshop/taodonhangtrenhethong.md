@@ -2,9 +2,9 @@
 
 
 
-**1.1.1	Tạo đơn hàng trên hệ thống bán hàng**
+**3.1.1	Tạo đơn hàng trên hệ thống bán hàng**
 
-**1.1.1.1 Tạo đơn mới**
+**3.1.1.1 Tạo đơn mới**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Tạo đơn hàng'
 
@@ -38,7 +38,7 @@ Tạo đơn thành công đơn sẽ hiển thị
     
  - Note: Đơn hàng ở duy nhất trạng thái 'Tạo mới' có thể chỉnh sửa được thông tin đơn hàng 
  
-**1.1.1.2 Xử lý đơn hàng**
+**3.1.1.2 Xử lý đơn hàng**
 
 **Bước 1**: Đơn mới tạo thành công sẽ hiển thị màn chi tiết đơn mới để xử lý đơn hàng. Tại màn này có thể chỉnh sửa thông tin đơn hàng và lên lịch xử lý cho đơn hàng: 
 

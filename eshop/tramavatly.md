@@ -1,0 +1,36 @@
+**2.6.2.1 Tra mã vật lý**
+
+Cho phép người dùng tìm kiếm nhanh thông tin sản phẩm: Tên, SKU, Số lượng tồn kho, kho hiện tại... qua thao tác tra mã vật lý/mã định danh
+
+Người dùng thao tác theo các bước sau để tìm kiếm thông tin sản phẩm:
+
+Bước 1: Chọn Quản lý tồn kho trên thanh menu và click vào button ‘Tra mã vật lý’
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/24/phuongmeu/img_1png1677211015.png)
+
+Giao diện hiển thị popup Tra mã vật lý
+
+![https://prnt.sc/s43dRPY9XVJA](https://chatbizfly.mediacdn.vn/2023/02/24/phuongmeu/img_2png1677211040.png)
+
+Bước 2: Người dùng nhập/quét mã vật lý hoặc mã định danh của sản phẩm vào textbox tìm kiếm và nhấn Enter hoặc click button Tra mã. Giao diện hiển thị thông tin chi tiết về sản phẩm
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/24/phuongmeu/img_3png1677211089.png)
+
+Trong đó:
+- IMEI/SERIAL  chỉ hiển thị thông tin đối với sản phẩm có imei/mã định danh
+
+- Thời gian nhập: Thời gian nhập kho sản phẩm/lô sản hẩm ứng với mã vật lý/mã định danh đang tra
+
+- Kho nhập: Kho đầu tiên nhập hàng sản phẩm/lô sản phẩm
+
+- Kho hiện tại: Kho hàng đang chứa sản phẩm/lô sản phẩm ứng với mã vật lý/mã định danh đang tra. Trong trường hợp sản phẩm chứa mã vật lý/mã định danh đang tra đã xuất hết ra khỏi kho, hệ thống thông báo “Không có kho chứa sản phẩm này”
+
+Lưu ý:
+
+- Với sản phẩm có imei/mã định danh: chỉ có duy nhất 1 kho hiện tại
+- 
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/24/phuongmeu/img_4png1677211168.png)
+
+- Với sản phẩm không có imei/mã định danh: có thể có 1 hoặc nhiều hơn 1 kho hiện tại đang chứa sản phẩm ứng với mã vật lý đang tra. Hệ thống sẽ hiển thị danh sách các kho đang chưa sản phẩm  và số lượng tồn kho tương ứng với từng kho
+- 
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/24/phuongmeu/img_5png1677211200.png)

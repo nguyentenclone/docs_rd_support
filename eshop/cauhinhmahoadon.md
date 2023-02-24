@@ -1,4 +1,4 @@
-**6.8.1 Cấu hình mã hóa đơn**
+**1.6.1 Cấu hình mã hóa đơn**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

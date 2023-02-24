@@ -1,5 +1,5 @@
 
-**5.2.2 Doanh thu theo Nguồn hàng**
+**6.2.2 Doanh thu theo Nguồn hàng**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 

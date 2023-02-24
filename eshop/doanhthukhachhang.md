@@ -1,5 +1,5 @@
 
-**5.2.5 Doanh thu theo Khách hàng**
+**6.2.5 Doanh thu theo Khách hàng**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 

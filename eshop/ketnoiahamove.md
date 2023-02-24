@@ -1,4 +1,4 @@
-**6.9.2  Kết nối cổng vận chuyển AhaMove**
+**1.4.2  Kết nối cổng vận chuyển AhaMove**
  
   **Bước 1**: Truy cập vào hệ thống bán hàng => Chọn menu 'Cài Đặt' => 'Kết nối đối tác vận chuyển' => 'AhaMove'
   
