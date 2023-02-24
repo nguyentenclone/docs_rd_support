@@ -1,4 +1,4 @@
-# Hướng dẫn tạo bot Zalo và kết nối với OA
+# I. Hướng dẫn tạo bot Zalo và kết nối với OA
 
 
 Bài viết này sẽ hướng dẫn cụ thể từng bước để kết nối 1 OA Zalo với nền tảng zalo bot Bizfly. Sau khi kết nối bạn có thể chăm sóc khách hàng, trả lời tự động theo từ khóa,...như tương tác trên OA.

@@ -9,6 +9,7 @@
 	- [2.7 Lấy lại hội thoại cũ](Livechat/laylaihoithoaicu.md)
 	- [2.8 Mã nhúng website](Livechat/manhungwebsite.md)
 	- [2.9 Danh sách khách hàng](Livechat/danhsachkh.md)
+	- [2.10 Cấu hình hoạt động](Livechat/cauhinhhoatdong.md)
 - [**3. Xem hội thoại theo bot**](Livechat/xemtheobot.md)
 - [**4. Quản lý hội thoại**](Livechat/quanlyhoithoai.md)
 - [**5. Chi tiết hội thoại**](Livechat/chitiethoithoai.md)
