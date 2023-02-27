@@ -1,4 +1,4 @@
-**2.10. Cấu hình hoạt động**
+**2.9. Cấu hình hoạt động**
 
  Tính năng này cho phép người dùng có quyền Quản trị viên  có thể quản lý trạng thái on/off của nhân viên trong phần Cài đặt. Hệ thống Livechat đã bổ sung thêm một thiết lập (**option 3**) trong mục **Chia hội thoại** với nội dung: ***Tự động thay đổi nhân viên chăm sóc khi nhân viên chăm sóc hiện tại của hội thoại đó offline***.
 
