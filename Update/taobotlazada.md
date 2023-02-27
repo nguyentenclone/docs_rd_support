@@ -25,3 +25,4 @@ Màn hình hiển thị kết nối thành công như sau:
 Sau bước này người dùng có thể sử dụng Livechat để chăm sóc khách hàng đến từ nguồn này.
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/13/chatbot/img_30jpg1676278084.jpg)
+
