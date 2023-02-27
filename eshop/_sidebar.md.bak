@@ -53,7 +53,7 @@
     -	**2.5 Xuất kho**
 	     - [2.5.1 Tạo mới phiếu xuất](eshop/taophieuxuat.md)
 		 - [2.5.2 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
-	- 	**2.6 Quản lý tồn kho**
+	 -	**2.6 Quản lý tồn kho**
 	-	[**2.6.1 Hệ thống quản lý theo sản phẩm thường**](eshop/quanlytonkho.md)
 	- 	**2.6.2 Hệ thống quản lý theo sản phẩm vật lý**
 		- [2.6.2.1 Tra mã vật lý](eshop/tramavatly.md)

@@ -26,7 +26,7 @@
 		- [1.9.1 Đồng bộ Lazada](eshop/dongbolazada.md)
 		- [1.9.2 Đồng bộ Shopee](eshop/dongboshopee.md)
 		- [1.9.3 Đồng bộ TikTok](eshop/dongbotiktok.md)
-	-	**1.10 Kết nối KiotViet**
+	-	[**1.10 Kết nối KiotViet**](eshop/ketnoikiotviet.md)
 	-	**1.11 Cấu hình thông tin Affiliate**
 	-	**1.12 Quản lý chi tiết**
 		 - 1.12.1 Quản lý đơn hàng
