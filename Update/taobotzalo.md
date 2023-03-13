@@ -8,7 +8,7 @@ Sau khi bấm Hoàn thành từ bước tạo bot(tương tác như tạo bot Fa
 
 - Bấm vào nút "Bỏ qua và đi đến chỉnh sửa kịch bản": Màn hình sẽ chuyền về màn Kịch bản tự động:
 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/12/08/chatbot/img_15jpg1670489539.jpg)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/27/chatbot/img_91jpg1677490114.jpg)
 
 - Bấm nút "Tích hợp Zalo ngay": Màn hình sẽ chuyển sang popup đăng nhập Zalo như dưới đây: 
 
