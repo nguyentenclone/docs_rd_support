@@ -2,7 +2,28 @@
 
 Cho phép người dùng quản lý danh sách hội thoại của bot. Danh sách hội thoại bao gồm inbox/comment FB, Chat website, chat OA zalo. 
 
-**Nội dung hiển thị của một hội thoại**
+**4.1. Lọc hội thoại** 
+
+Người dùng có 2 cách để lọc hội thoại như sau:
+
+**a. Sử dụng bộ lọc nhanh**: Cho phép người dùng lọc nhanh các kiểu hội thoại, sau tên mỗi bộ lọc là số thông báo hội thoại chưa chăm sóc của bộ lọc đó.
+ 
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/27/chatbot/img_117jpg1677469506.jpg)
+
+- Tất cả hội thoại: Bao gồm tất cả hội thoại của các bot đang được chọn
+- Hội thoại chưa chăm sóc: Bao gồm tất cả hội thoại chưa được reply lại
+- Inbox: Các tin nhắn đến từ FB
+- Comment: Các comment đến từ FB
+- Spam: Những hội thoại được đánh dấu là spam
+- Đã xóa: Những hội thoại đã xóa
+
+Ngoài ra, khi chọn bot nào sẽ hiển thị thêm bộ lọc của bot đó như: Lazada, Website, Zalo, Telegram...
+
+**b. Sử dụng bộ lọc chi tiết**: Cho phép người dùng kết hợp nhiều điều kiện để lọc ra kết quả mong muốn
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_77jpg1657251724.jpg)
+
+**4.2. Nội dung hiển thị của một hội thoại**
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/07/chatbot/img_71jpg1657188270.jpg)
 
@@ -22,7 +43,7 @@ Tại mục danh sách mỗi hội thoại sẽ hiển thị các thông tin cơ
  
  - Icon phân biệt loại hội thoại: *Facebook, Website hoặc OA zalo* 
 
-**Sắp xếp hội thoại**
+**4.3. Sắp xếp hội thoại**
 
 Mặc định hệ thống sẽ sắp hội thoại có thời gian tương tác mới nhất lên đầu trang. 
 
@@ -36,7 +57,7 @@ Hình ảnh minh họa khi đã cài đặt *Ưu tiên hiển thị hội thoạ
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/07/chatbot/img_73jpg1657190141.jpg)
 
-**Đánh dấu hội thoại**
+**4.4. Đánh dấu hội thoại**
 
 Người dùng có thể đánh dấu trạng thái của hội thoại để thuận tiện trong quá trình chăm sóc khách hàng. 
 
@@ -55,18 +76,5 @@ Các thao tác đánh dấu hội thoại bao gồm:
 - Đánh dấu là seeding: Hệ thống sẽ chặn tất cả những tin nhắn đến từ khách hàng này(chỉ có quản trị viên mới thực hiện được thao tác này).
 
 - Xóa hội thoại: Hệ thống sẽ xóa hội thoại và khách hàng này, đồng thời khôi phục lại quota vào gói chat.
-
-**Lọc hội thoại** 
-
-Người dùng có 2 cách để lọc hội thoại như sau:
-
-- Sử dụng bộ lọc nhanh: Cho phép người dùng lọc nhanh các kiểu hội thoại, sau tên mỗi bộ lọc là số thông báo hội thoại chưa chăm sóc của bộ lọc đó.
- 
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_76jpg1657251449.jpg)
-
-- Sử dụng bộ lọc chi tiết: Cho phép người dùng kết hợp nhiều điều kiện để lọc ra kết quả mong muốn
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/08/chatbot/img_77jpg1657251724.jpg)
-
 
 
