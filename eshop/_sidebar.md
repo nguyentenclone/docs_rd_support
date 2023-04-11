@@ -28,6 +28,8 @@
 		- [1.9.3 Đồng bộ TikTok](eshop/dongbotiktok.md)
 	-	[**1.10 Kết nối KiotViet**](eshop/ketnoikiotviet.md)
 	-	**1.11 Cấu hình thông tin Affiliate**
+		- [1.11.1 Phân loại đối tác](eshop/cauhinhphanloaidoitac.md)
+		- [1.11.2 Nhãn danh sách](eshop/cauhinhnhandanhsach.md)
 	-	**1.12 Quản lý chi tiết**
 		 - 1.12.1 Quản lý đơn hàng
 		 - [1.12.1.1 Nhãn đơn hàng](eshop/nhandonhang.md)
@@ -52,7 +54,11 @@
 		 - [2.4.2 Danh sách phiếu nhập](eshop/danhsachphieunhap.md)
     -	**2.5 Xuất kho**
 	     - [2.5.1 Tạo mới phiếu xuất](eshop/taophieuxuat.md)
-		 - [2.5.2 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
+		 -	[2.5.2 Xử lý phiếu xuất](eshop/xulyphieuxuat.md)
+		 - [2.5.2.1 Xử lý từng phiếu xuất](eshop/xulytungphieuxuat.md)
+		 - [2.5.2.2 Xử lý phiếu xuất hàng loạt](eshop/xulyhangloatphieuxuat.md)
+		 - [2.5.3 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
+		-
 	 -	**2.6 Quản lý tồn kho**
 	-	[**2.6.1 Hệ thống quản lý theo sản phẩm thường**](eshop/quanlytonkho.md)
 	- 	**2.6.2 Hệ thống quản lý theo sản phẩm vật lý**

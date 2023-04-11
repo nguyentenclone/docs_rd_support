@@ -34,6 +34,15 @@ như hướng dẫn thêm video cho sản phẩm  [Thêm video](https://chat.biz
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_133png1679999512.png)
 
+- Đối tượng áp dụng gồm:
+
+	- Tất cả khách hàng
+	- Theo phân hạng loyalty: chỉ sử dụng được khi người dùng kết nối hệ thống bán hàng với loyalty. Để kết nối với loyalty người dùng thao tác theo link sau: 	[Kết nối với loyalty](https://chat.bizfly.vn/guides/#/eshop/thongtinchung). Người dùng tích chọn những phân hạng thành viên được phép tham gia chương trình khuyến mãi
+	
+	![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/10/phuongmeu/img_downloadpng1681111047.png)
+	
+	**Lưu ý:** Khi điều kiện áp dụng = "Đơn hàng tối thiểu" -> Đối tượng áp dụng luôn là tất cả khách hàng
+
 
 **Bước 4**:  Sau khi đã thêm đầy đủ thông tin ở bước 3, click button 'Thêm mới' để hoàn thành việc thêm mới chiến dịch có điều kiện
 

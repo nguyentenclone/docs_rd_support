@@ -1,0 +1,121 @@
+**2.5.2.1 Xử lý từng phiếu xuất**
+
+**Bước 1:** Xem chi tiết phiếu mới, chọn phương thức vận chuyển => Click 'Duyệt phiếu'. 
+
+	
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_1jpg1664851446.jpg)
+
+* Khách hàng nhận trực tiếp tại cửa hàng: Người dùng chọn Vận chuyển = "Nhận hàng trực tiếp" -> Click button 'Duyệt phiếu'
+
+![https://prnt.sc/8ZmRn8FGIfty](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_1png1681202602.png)
+
+Hệ thống thông báo thành công, phiếu xuất chuyển sang trạng thái Chờ xuất kho. Số lượng khả dụng trong kho của sản phẩm giảm, số lượng Chờ xuất tăng
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_2png1681202629.png)
+
+
+* Shop tự vận chuyển: Người dùng chọn Vận chuyển = "Tự giao hàng" -> Click button 'Duyệt phiếu'
+ 
+ ![https://prnt.sc/BN09TgwHyTWm](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_3png1681202662.png)
+ 
+ Hệ thống thông báo thành công, phiếu xuất chuyển sang trạng thái Chờ xuất kho. Số lượng khả dụng trong kho của sản phẩm giảm, số lượng Chờ xuất tăng
+  
+  ![https://prnt.sc/G-_GzeUFhUSC](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_4png1681202697.png)
+  
+ * Sử dụng đối tác vận chuyển: Người dùng thao tác theo hướng dẫn sau 	
+	
+	
+	
+Bước 1.1 
+
+Phiếu giao hàng qua đối tác vận chuyển: người dùng chọn đối tác vận chuyển -> Click button 'Duyệt phiếu'
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_2jpg1664851757.jpg)
+
+Hệ thống hiển thị giao diện: người dùng chọn thông tin vận chuyển, nhập thông tin các trường khác hợp lệ -> Click button 'Tiếp tục'
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_3jpg1664851827.jpg)
+
+
+**Lưu ý:** Một số dịch vụ vận chuyển của các đối tác vận chuyển và Người thanh toán tương ứng dịch vụ đã chọn 
+
+* Viettel Post
+   -   Không thu tiền: Cửa hàng
+    
+	-   Thu hộ tiền cước và tiền hàng: Khách hàng
+    
+	-   Thu hộ tiền hàng: Cửa hàng
+    
+	-   Thu hộ tiền cước: Khách hàng
+    
+-   Giao hàng tiết kiệm
+    
+	
+	-   Freeship cho người nhận: Cửa hàng
+    
+	
+-   Giao hàng nhanh
+
+    
+	-   Người trả phí vận chuyển là Cửa hàng/Người bán: Cửa hàng
+    
+	-   Người trả phí vận chuyển là Người mua/Người nhận hàng: Khách hàng
+
+**Bước 1.2:** Hệ thống hiển thị giao diện xác nhận chi phí đơn hàng gồm thông tin đơn hàng + phí ship ước tính của đơn vị vận chuyển, cho phép người dùng chỉnh sửa phí ship và chiết khấu đơn hàng. 
+- Phí ship thực tế = Chi phí vận chuyển ước tính cửa đơn vị vận chuyển (nếu sử dụng Vận chuyển = Đối tác vận chuyển)
+- Chiết khấu: Cho phép người dùng điều chỉnh giá trị đơn hàng
+
+
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_5jpg1664852042.jpg)
+
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_4jpg1664852214.jpg)
+
+
+**Bước 1.3:** Sau khi cập nhật thông tin  phiếu xuất -> Click 'Sẵn sàng giao'. Hệ thống tạo đơn giao vận với đơn vị vận chuyển thành công, hiển thị mã vận đơn của phiếu xuất đơn hàng. Sau khi tạo đơn giao vận thành công: Trạng thái đơn hàng và phiếu xuất phụ thuộc trạng thái bên vận chuyển
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_6jpg1664852288.jpg)
+
+
+**Bước 2:** Người dùng Xuất kho phiếu xuất theo hướng dẫn sau
+
+* Vận chuyển = "Đối tác vận chuyển"
+
+Khi bên vận chuyển đến lấy hàng -> đơn vị vận chuyển xác nhận đã lấy hàng thành công -> hệ thống tự động chuyển trạng thái phiếu xuất sang Đã xuất kho
+
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_dutkhojpg1652842454.jpg)
+
+
+Trong lịch sử phiếu xuất sẽ cập nhật trạng thái giao hàng của bên giao vận
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_3232png1681199684.png)
+
+* Vận chuyển = "Nhận hàng trực tiếp"
+
+Người dùng click button 'Xuất kho'  
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_1png1681200843.png)
+
+Phiếu xuất chuyển sang trạng thái Đã xuất kho, đồng thời đơn hàng chuyển trạng thái Đơn hoàn thành
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_2png1681200933.png)
+
+* Vận chuyển = "Tự giao hàng"
+
+Người dùng click button 'Xuất kho'  
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_3png1681201255.png)
+
+
+Phiếu xuất chuyển sang trạng thái Đã xuất kho, đồng thời đơn hàng chuyển trạng thái Đang giao hàng
+
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_dutkhojpg1652842454.jpg)
