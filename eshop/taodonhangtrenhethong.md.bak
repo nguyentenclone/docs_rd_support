@@ -2,9 +2,9 @@
 
 
 
-**1.1.1	Tạo đơn hàng trên hệ thống bán hàng**
+**3.1.1	Tạo đơn hàng trên hệ thống bán hàng**
 
-**1.1.1.1 Tạo đơn mới**
+**3.1.1.1 Tạo đơn mới**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Tạo đơn hàng'
 
@@ -16,29 +16,67 @@
  
   - Thông tin thanh toán: Hình thức, trạng thái thanh toán
   
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/08/17/huyenvt/img_111png1660712782.png)
 
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_121png1679992283.png)
+
+ - Người dùng có thể sửa trực tiếp giá sản phẩm trong đơn hàng: 
+ Click vào textbox Giá bán và sửa giá sản phẩm -> giao diện hiển thị giá bán sau khi sửa
  
- - Có thể bổ sung thêm chiết khấu trực tiếp, chọn chương trình khuyến mại cho đơn hàng, áp dụng mã voucher giảm giá, thêm phí ship và thuế: 
+ ![enter image description here](https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_120png1679992638.png)
  
-- Chiết khấu trực tiếp: giảm theo vnd/% và ghi rõ lý do
+ - Người dùng có thể bổ sung thêm chiết khấu trực tiếp, chọn chương trình khuyến mãi cho đơn hàng, áp dụng mã voucher giảm giá, thêm phí ship và thuế: 
+ 
+- Chiết khấu trực tiếp: giảm theo vnd/% 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5907847_screenshot-63.png)
+![](https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_122png1679992370.png)
 
-- Chương trình khuyến mại: 
 
-Sau khi tạo các chương trình khuyến mại ở màn *#4.1 Tạo mới chiến dịch*
-Khi mua hàng, đơn hàng đủ điều kiện áp dụng khuyến mại sẽ hiển thị các chương trình trong phần chiết khấu để chọn
+- Chương trình khuyến mãi: 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5907996_screenshot-1.png)
+Để hiển thị các chương trình khuyến mãi, người dùng làm theo hướng dẫn sau: [5.1.2 Tạo mới chiến dịch có điều kiện](https://chat.bizfly.vn/guides/#/eshop/taochiendichcodieukien).
+Khi mua hàng, đơn hàng đủ điều kiện áp dụng khuyến mại sẽ hiển thị các chương trình trong phần chiết khấu để chọn. Người dùng có thể chọn nhiều chương trình khuyến mãi
 
-Tạo đơn thành công đơn sẽ hiển thị
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_123png1679992466.png)
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/08/5907997_screenshot-63.png)
+**Lưu ý:** Sau khi áp dụng chương trình khuyến mãi:
+* Giá bán ban đầu sản phẩm bị gạch ngang và hiển thị bên dưới, giá sản phẩm sau khi áp dụng khuyến mãi hiển thị ở trên
+* Chương trình giảm giá có điều kiện gồm 3 loại: đồng giá, giảm giá, tặng sản phẩm
+	* Khi sử dụng đồng thời nhiều chương trình đồng giá: hệ thống ưu tiên chọn chương trình đồng giá có lợi cho khách hàng nhất
+	* Khi sử dụng nhiều chương trình giảm giá: hệ thống tính giá trị giảm của các chương trình theo giá bán ban đầu của sản phẩm 
+	*  Khi sử dụng nhiều chương trình tặng sản phẩm: khách hàng được hưởng tất cả số lượng tặng của các chương trình 
+	*  Các chương trình khuyến mãi áp dụng được ưu tiên theo thứ tự sau: chương trình đồng giá > chương trình giảm giá
+
+Ví dụ: Đơn hàng  gồm: **Sản phẩm X có giá bán = 250.000 VNĐ**. 
+Sản phẩm đủ điều kiện và được  áp dụng các chương trình sau:
+1. Đồng giá 200.000 VNĐ
+2. Đồng giá 150.000 VNĐ
+3. Giảm giá 10%
+4. Giảm gái 20.000 VNĐ
+5. Tặng 1 sản phẩm Y
+6. Tặng 2 sản phẩm Y và 1 sản phẩm Z
+
+Hệ thống sẽ áp dụng khuyến mãi theo rule sau:
+
+- Chương trình đồng giá: Lấy chương trình đồng giá 150.000 VNĐ
+- Chương trình giảm giá:
+	
+	- Giảm 10% = giảm 10% của 250.000 = 25.000 VNĐ
+	- Giảm 20.000 VNĐ
+	-> Tổng giảm giá = 45.000 VNĐ
+	
+- Chương trình tặng quà: Tổng số quà tặng của 2 chương trình = 3 sản phẩm Y + 1 sản phẩm Z
+
+=> Sau khi áp dụng 6 chương trình trên:  Sản phẩm X có giá bán = 150.000 - 45.000 = 105.000 VNĐ. Đơn hàng được tặng thêm 3 sản phẩm Y + 1 sản phẩm Z
+
+
+**Bước 3**: Sau khi chọn chiết khấu và áp dụng các chương trình khuyến mãi. Người dùng click button 'Thêm mới'
+ -> Hệ thống thông báo tạo đơn hàng thành công
     
- - Note: Đơn hàng ở duy nhất trạng thái 'Tạo mới' có thể chỉnh sửa được thông tin đơn hàng 
+![https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_130png1679994987.png](https://chatbizfly.mediacdn.vn/2023/03/28/phuongmeu/img_130png1679994987.png)
+
+ - Lưu ý: Chỉ chỉnh sửa được thông tin đơn hàng khi đơn ở trạng thái "Đơn mới".
  
-**1.1.1.2 Xử lý đơn hàng**
+**3.1.1.2 Xử lý đơn hàng**
 
 **Bước 1**: Đơn mới tạo thành công sẽ hiển thị màn chi tiết đơn mới để xử lý đơn hàng. Tại màn này có thể chỉnh sửa thông tin đơn hàng và lên lịch xử lý cho đơn hàng: 
 
