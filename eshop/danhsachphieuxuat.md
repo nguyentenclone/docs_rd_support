@@ -17,6 +17,12 @@
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/13/huyenvt/img_timkiemjpg1652416568.jpg)
 
+
+- Người dùng có thể xuất excel danh sách phiếu xuất
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_1png1681210084.png)
+
 * In phiếu: Hỗ trợ in phiếu xuất  ở 2 trạng thái 'Chờ xuất kho' và 'Đã xuất kho' với cả 2 mục đích "Chuyển kho" hoặc "Bán hàng"
 
 	![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_inphieujpg1652846926.jpg)
