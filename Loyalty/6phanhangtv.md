@@ -9,13 +9,34 @@ Phần phân loại quản lý  các hạng thành viên. Để thêm hạng m�
 
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603410_screenshot-27.png)
 
-Điền thông tin hạng thành viên => click Thêm mới
+Điền thông tin hạng thành viên: 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603439_screenshot-28.png)
+ -  Mô tả Ưu đãi của phân hạng: 
+ Cho phép nhập mô tả Ưu đãi của phân hạng tối đa 250 ký tự. Không giới hạng số mô tả. Cho phép người dùng sửa, xóa, đổi vị trí các mô tả Ưu đãi trong cùng phân hạng.
+ 
+ - Điểm thăng hạng, thưởng thăng hạng: số điểm khách hàng cần đạt được để lên vị trí tương ứng và thưởng điểm tương ứng với khách hàng đã thăng hạng đó
+ 
+ - Giá trị tích 1 điểm: 2 option bao gồm, quy đổi mặc định tích 1 điểm tương ứng với giao dịch a VNĐ hoặc điều kiện tùy chỉnh để tích 1 điểm là giao dịch a VNĐ với nguồn giao dịch tùy chọn. Có thể chọn cùng lúc 2 option
+ 
+ - Cho phép thanh toán bằng điểm: x điểm tương đương với y VNĐ và thanh toán bằng điểm sau z lần mua
+ 
+ - Chiết khấu giảm giá khi mua
+ 
+ - Chiết khấu giảm giá sinh nhật: khách hàng được giảm m phần trăm, với n sản phẩm được mua giảm giá và áp dụng trong d ngày
+ 
+ - Thêm một số checkbox khác tùy vào setup của người dùng
 
+=> click Thêm mới
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/17/loyalty/img_Screenshot1png1681717670.png)
+
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/17/loyalty/img_Screenshot2png1681717718.png)
 Thêm mới phân hạng thành công
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603442_screenshot-29.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/17/1681718341/loyalty/img_Screenshot4png1681718341.png)
+
+=> click OK để quay lại trang quản lý hạng thành viên. Hoặc click Cancel để ở lại trang Thêm mới phân hạng.
 
 Xem chi tiết hạng thành viên: Click dấu 3 chấm xem lại có thể chỉnh sửa thông tin hạng=> click Lưu thay đổi
 
@@ -33,7 +54,7 @@ Bước 2: Điền thông tin muốn chuyển hạng => click Chuyển hạng
 
 Chuyển hạng thành công
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/05/19/5603450_screenshot-31.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/17/1681718655/loyalty/img_Screenshot5png1681718655.png)
 
 **7.2 Tích điểm theo sự kiện**
 
