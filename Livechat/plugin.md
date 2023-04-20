@@ -2,6 +2,8 @@
 
 Cho phép người dùng thực hiện một số thao tác nhanh ngoài những chức năng chính của Livechat như:
 
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/02/23/chatbot/img_chitiethoithoaijpg1677140460.jpg)
+
 - Đặt bàn/đặt món cho khách hàng đối với ***bot kiểu nhà hàng***
 
 - Tạo đơn hàng cho khách hàng đối với ***bot kiểu bán hàng***

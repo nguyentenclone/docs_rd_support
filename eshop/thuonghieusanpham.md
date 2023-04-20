@@ -1,4 +1,4 @@
-**6.5.2.2. Thương hiệu**
+**1.12.2.2. Thương hiệu**
 - Thêm thương hiệu của sản phẩm:
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'

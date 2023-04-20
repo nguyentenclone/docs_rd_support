@@ -1,5 +1,5 @@
 
-**5.2.6 Doanh thu theo Nhân viên**
+**6.2.6 Doanh thu theo Nhân viên**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 

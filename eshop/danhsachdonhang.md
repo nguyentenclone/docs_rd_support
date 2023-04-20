@@ -1,7 +1,7 @@
 
 
 
-**1.2 Danh sách đơn hàng**
+**3.2 Danh sách đơn hàng**
 
 * Hiển thị đầy đủ đơn hàng đặt từ hệ thống và đơn đổ về từ các nguồn khác nhau: website, facebook,...
     
@@ -33,7 +33,7 @@
 
 +) Tiếp nhận hàng loạt:
 
- Tại màn Đơn mới, chọn những đơn cần xử lý (tối đa 20 đơn) -> Click 'Xử lý đơn hàng loạt' chọn 'Tiếp nhận'
+ Tại màn Đơn mới, chọn những đơn cần xử lý (tối đa 50 đơn) -> Click 'Xử lý đơn hàng loạt' chọn 'Tiếp nhận'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/20/huyenvt/img_tnjpg1653017236.jpg)
 
@@ -45,7 +45,7 @@ Hệ thống hiển thị danh sách các đơn hàng được tiếp nhận g�
 
 +) Tạo phiếu xuất hàng loạt:
 
-Tại màn Đơn mới hoặc Đang xử lý , chọn những đơn cần xử lý (tối đa 20 đơn) -> Click 'Xử lý đơn hàng loạt' chọn 'Tạo phiếu xuất'
+Tại màn Đơn mới hoặc Đang xử lý , chọn những đơn cần xử lý (tối đa 50 đơn) -> Click 'Xử lý đơn hàng loạt' chọn 'Tạo phiếu xuất'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/20/huyenvt/img_1jpg1653040056.jpg)
 
@@ -59,7 +59,7 @@ Hệ thống thông báo tạo thành công. Phiếu xuất được tạo ở t
 
 +) Hủy đơn hàng loạt:
 
-Tại màn Đơn mới hoặc Đang xử lý , chọn những đơn cần xử lý (tối đa 20 đơn) -> Click 'Xử lý đơn hàng loạt' chọn 'Hủy đơn'
+Tại màn Đơn mới hoặc Đang xử lý , chọn những đơn cần xử lý (tối đa 50 đơn) -> Click 'Xử lý đơn hàng loạt' chọn 'Hủy đơn'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/23/huyenvt/img_12jpg1653277838.jpg)
 
@@ -79,22 +79,6 @@ Chọn lý do -> Click 'Hủy đơn hàng'
 	* Khi hủy đơn ở trạng thái 'Đang đóng gói' thì phiếu xuất cũng hủy theo và cộng lại số lượng sản phẩm vào kho
 	* Đơn hàng ở trạng thái 'Đang giao hàng' (phiếu xuất cho đơn hàng đã xuất kho) nếu hủy đơn thì phiếu xuất không bị hủy, cần nhập lại kho với phiếu nhập có mục đích nhập '"Nhập từ đơn hủy" -> Số lượng sản phẩm được cộng lại vào kho
 
-* Tại tab 'Đang xử lý' có thể thực hiện tách đơn (điều kiện: đơn hàng có từ 2 sản phẩm trở lên)
-	
-	Tại chi tiết đơn hàng: Click 'Tách đơn'
-	
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/19/huyenvt/img_1jpg1658225750.jpg)
-
-
-Hiển thị popup: Nhập số đơn cần tách, Lý do tách đơn -> Click 'tách đơn'
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/19/huyenvt/img_2jpg1658225842.jpg)
-
- Popup tác đơn hiển thị. Người dùng nhập thông tin các đơn -> Click 'Đồng ý'
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/07/19/huyenvt/img_3jpg1658225945.jpg)
-	
-Thông báo thành công -> Hiển thị số đơn hàng được tách
 
 * Người dùng có thể lên lịch xử lý với những đơn hàng ở trạng thái 'Đơn mới' hoặc 'Đang xử lý'
 	

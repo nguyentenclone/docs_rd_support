@@ -4,7 +4,7 @@
 
 
 
-**6.1	Thông tin chung**
+**1.1	Thông tin chung**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 
@@ -42,7 +42,8 @@ Chỉnh sửa thông tin cửa hàng => Nhập thông tin thay đổi=> Click 'C
     
     Kết nối thành công, trạng thái 'Hoạt động' đơn hàng xử lý trạng thái 'Hoàn thành' sẽ được tích điểm bên loyalty
     
-    ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/04/12/5911792_screenshot-146.png)
+	
+   ![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/10/phuongmeu/img_112png1681111534.png)
 
 
 

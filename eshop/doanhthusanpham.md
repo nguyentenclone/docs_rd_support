@@ -1,5 +1,5 @@
 
-**5.2.3 Doanh thu theo Sản phẩm**
+**6.2.3 Doanh thu theo Sản phẩm**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 

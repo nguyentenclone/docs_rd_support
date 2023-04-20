@@ -1,6 +1,6 @@
 
 
-**6.10.5	Tạo mới nơi sản xuất**
+**1.2.5	Tạo mới nơi sản xuất**
 
 **Bước 1**: Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

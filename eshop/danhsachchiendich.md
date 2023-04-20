@@ -3,7 +3,7 @@
 
 
 
-**4.2	Danh sách chiến dịch**
+**5.2	Danh sách chiến dịch**
 
 - Hiển thị tất cả chiến dịch của hệ thống bao gồm các trạng thái: 
    

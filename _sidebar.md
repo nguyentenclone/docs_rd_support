@@ -8,7 +8,7 @@
   - [Loyalty bizfly](Loyalty/)
   - [Coupon bizfly](coupon/)
   - [Restaurant bizfly](nhahang/)
-  - [Billing bizfly](pay/)
+  - [Bizfly Billing](pay/)
   - [Open API](OpenAPI/)
   
 

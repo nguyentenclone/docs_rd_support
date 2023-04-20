@@ -1,4 +1,4 @@
-**6.5.1. Nhãn đơn hàng**
+**1.12.1. Nhãn đơn hàng**
 * Thêm mới nhãn:
 **Bước 1:** Đăng nhập vào hệ thống bán hàng => menu 'Cài đặt'
 

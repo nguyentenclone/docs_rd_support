@@ -2,7 +2,7 @@
 
 
 
-**4.1.1 Tạo mới chiến dịch coupon**
+**5.1.1 Tạo mới chiến dịch coupon**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng=> Chọn menu Chiến dịch khuyến mại
 

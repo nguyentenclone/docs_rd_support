@@ -1,6 +1,6 @@
 
 
-**5.2.1 Doanh thu theo thời gian**
+**6.2.1 Doanh thu theo thời gian**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 

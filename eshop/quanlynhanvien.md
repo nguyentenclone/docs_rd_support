@@ -2,7 +2,7 @@
 
 
 
-**6.7 Quản lý nhân viên**
+**1.5 Quản lý nhân viên**
 
 + **Nhân viên chia 3 cấp**
 

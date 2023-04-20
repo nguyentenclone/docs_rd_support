@@ -1,160 +1,28 @@
-
-**2.5.2 Danh sách phiếu xuất**
+**2.5.3 Danh sách phiếu xuất**
 
 -   Hiển thị đầy đủ phiếu xuất và đầy đủ trạng thái của phiếu: Phiếu mới, Chờ xuất kho, Đã xuất kho, Đã hủy
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_16jpg1664867804.jpg)
 
+-	Phiếu xuất ở trạng thái Phiếu mới hoặc Chờ xuất kho: người dùng có thể hủy phiếu theo 2 cách: 
+	
+	* Xem chi tiết phiếu: người dùng click button Hủy phiếu
+	
+	![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_5png1681203643.png)
+	
+	* Danh sách phiếu xuất: Người dùng click button Hủy phiếu
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_7jpg1681203778.jpg)
+
 -   Tại danh sách phiếu xuất có thể tìm kiếm theo các điều kiện hoặc kết hợp nhiều điều kiện khác nhau. Ví dụ tìm kiếm phiếu theo kho xuất 'Kho Hà Đông' và ngày cập nhật '26/03/2021-26/03/2021'
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/13/huyenvt/img_timkiemjpg1652416568.jpg)
 
-- Phiếu xuất ở trạng thái 'Phiếu mới' có thể xử lý từng phiếu hoặc xử lý hàng loạt:
 
-	- ***Xử lý từng phiếu:*** 
-	**Bước 1:** Xem chi tiết phiếu mới, chọn phương thức vận chuyển => Click 'Duyệt phiếu'. 
+- Người dùng có thể xuất excel danh sách phiếu xuất
 
-	
-	![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_1jpg1664851446.jpg)
 
-
-Duyệt phiếu thành công -> Phiếu xuất chuyển trạng thái 'Chờ xuất kho', số lượng sản phẩm khả dụng trong kho giảm = số lượng sản phẩm chờ xuất tăng.
-	
-	
-**Bước 2:**   Với phiếu giao hàng qua đối tác vận chuyển: Chọn đối tác, nhập thông tin vận chuyển => Click 'Tiếp tục' để tạo thông tin đơn giao vận.
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_2jpg1664851757.jpg)
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_3jpg1664851827.jpg)
-
-
-**Lưu ý:** Một số dịch vụ vận chuyển của các đối tác vận chuyển và Người thanh toán tương ứng dịch vụ đã chọn 
-
-* Viettel Post
-   -   Không thu tiền: Cửa hàng
-    
-	-   Thu hộ tiền cước và tiền hàng: Khách hàng
-    
-	-   Thu hộ tiền hàng: Cửa hàng
-    
-	-   Thu hộ tiền cước: Khách hàng
-    
--   Giao hàng tiết kiệm
-    
-	
-	-   Freeship cho người nhận: Cửa hàng
-    
-	
--   Giao hàng nhanh
-
-    
-	-   Người trả phí vận chuyển là Cửa hàng/Người bán: Cửa hàng
-    
-	-   Người trả phí vận chuyển là Người mua/Người nhận hàng: Khách hàng
-
-**Bước 3:** Hệ thống hiển thị giao diện xác nhận chi phí đơn hàng gồm thông tin đơn hàng + phí ship ước tính của đơn vị vận chuyển, cho phép người dùng chỉnh sửa phí ship và chiết khấu đơn hàng. 
-- Phí ship thực tế = Chi phí vận chuyển ước tính cửa đơn vị vận chuyển (nếu sử dụng Vận chuyển = Đối tác vận chuyển)
-- Chiết khấu: Cho phép người dùng điều chỉnh giá trị đơn hàng
-
-
-
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_5jpg1664852042.jpg)
-
-
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_4jpg1664852214.jpg)
-
-
-**Bước 4:** Sau khi cập nhật thông tin  phiếu xuất -> Click 'Sẵn sàng giao'. Hệ thống tạo đơn giao vận với đơn vị vận chuyển thành công, hiển thị mã vận đơn của phiếu xuất đơn hàng.
-
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_6jpg1664852288.jpg)
-
-
-
-Khi bên giao vận đến lấy hàng hệ thống tự động chuyển trạng thái phiếu xuất sang 'Đã xuất kho'
-
-
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/13/huyenvt/img_xutjpg1652427004.jpg)
-
-
-Trong lịch sử phiếu xuất sẽ cập nhật trạng thái giao hàng của bên giao vận
-
-
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/09/01/6070500_screenshot-32.png)
-
-**Note:**
-- Sau khi tạo đơn giao vận thành công: Trạng thái đơn hàng và phiếu xuất phụ thuộc trạng thái bên vận chuyển
--  'Phiếu mới' và 'Chờ xuất kho' có thể từ chối phiếu ở danh sách hoặc vào xử lý phiếu để từ chối
--   Lý do hủy phiếu có thế cấu hình xem tại  [6.2 Cấu hình phiếu xuất/nhập](https://chat.bizfly.vn/guides/#/eshop/cauhinhxuatnhap)
--   Lý do hủy phiếu mặc định sẽ có Lý do khác (nếu chưa cấu hình)
-
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/26/5893769_screenshot-13.png)
-
-Hủy thành công phiếu về trạng thái 'Đã hủy'
-
-Với phiếu xuất mục đích bán hàng, hủy phiếu thành công đơn hàng  sẽ về trạng thái 'Đang xử lý' để yêu cầu xuất kho lại
-
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_donhuyjpg1652842423.jpg)
-
-Xuất kho thành công phiếu ở trạng thái 'Đã xuất kho'
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_dutkhojpg1652842454.jpg)
-
-
-* ***Xử lý phiếu hàng loạt***
-
-
-	
-**Bước 1:** Tại màn danh sách phiếu mới chọn nhiều hơn 1 phiếu cùng kho xuất với mục đích bán hàng -> Click 'Xử lý phiếu hàng loạt'
-	
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_7jpg1664852615.jpg)
-
-**Bước 2:** Tại popup chọn bản ghi: Người dùng chọn số lượng phiếu xuất muốn xử lý -> Click 'Tiếp tục'
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_8jpg1664852693.jpg)
-
-**Bước 3:** Chọn phương thức vận chuyển + Đối tác (nếu Vận chuyển = Đối tác vận chuyển) cho tất cả phiếu xuất -> Click 'Duyệt phiếu'
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_9jpg1664852716.jpg)
-
-**Bước 4:** Nhập thông tin đơn giao vận -> Click button 'Tiếp tục'.
-
-Khi chọn Dịch vụ vận chuyển cho tất cả các đơn, phát sinh đơn không tính được phí vận chuyển -> Click checkbox "Dịch vụ vận chuyển" và chọn dịch vụ  khác cho đơn. Thao tác này không bắt buộc, nếu đơn không tính được phí thì khi xử lý hàng loạt phiếu xuất bán hàng sẽ bị rớt lại, người dùng có thể xử lý lại.
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_10jpg1664852809.jpg)
-
-**Bước 5:** Hệ thống hiển thị giao diện xác nhận chi phí đơn hàng gồm thông tin đơn hàng + phí ship ước tính của đơn vị vận chuyển, cho phép người dùng chỉnh sửa phí ship và chiết khấu đơn hàng. 
-- Phí ship thực tế = Chi phí vận chuyển ước tính của đơn vị vận chuyển (nếu sử dụng Vận chuyển = Đối tác vận chuyển)
-- Chiết khấu: Cho phép người dùng điều chỉnh giá trị đơn hàng
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_11jpg1664852869.jpg)
-
-**Bước 6:** Sau khi cập nhật thông tin đơn phiếu xuất -> CLick 'Sẵn sàng giao'. 
-
-Hiển thị popup liệt kê danh sách các phiếu xuất và trạng thái duyệt (Thành công hoặc Thất bại ). Phiếu duyệt thành công sẽ chuyển sang tab 'Chờ xuất kho', những phiếu duyệt thất bại vẫn ở tab 'Phiếu mới'.
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_12jpg1664852902.jpg)
-
-Người dùng click vào 'In hàng loạt' để in mẫu phiếu giao hàng
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_13jpg1664852961.jpg)
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_14jpg1664853425.jpg)
-
-Với những phiếu thất bại. Người dùng click mở tab Thất bại, chọn phiếu -> Click 'Xử lý phiếu thất bại' để tiếp tục xử lý phiếu
-
-![enter image description here](https://chatbizfly.mediacdn.vn/2022/10/04/huyenvt/img_15jpg1664853591.jpg)
-
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/11/phuongmeu/img_1png1681210084.png)
 
 * In phiếu: Hỗ trợ in phiếu xuất  ở 2 trạng thái 'Chờ xuất kho' và 'Đã xuất kho' với cả 2 mục đích "Chuyển kho" hoặc "Bán hàng"
 
 	![enter image description here](https://chatbizfly.mediacdn.vn/2022/05/18/huyenvt/img_inphieujpg1652846926.jpg)
-
-
-

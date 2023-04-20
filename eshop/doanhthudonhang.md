@@ -1,5 +1,5 @@
 
-**5.2.4 Doanh thu theo Đơn hàng**
+**6.2.4 Doanh thu theo Đơn hàng**
 
 **Bước 1**: Đăng nhập vào hệ thống quản lý bán hàng => Chọn menu 'Báo cáo' => 'Báo cáo doanh thu'
 
