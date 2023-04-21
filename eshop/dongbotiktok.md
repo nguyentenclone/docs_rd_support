@@ -91,7 +91,47 @@ Giao diện hiển thị thông báo thành công, sản phẩm đã đồng b�
 
 ![https://prnt.sc/UMkulfNKL54G](https://chatbizfly.mediacdn.vn/2023/02/24/phuongmeu/img_10png1677214167.png)
 
-**1.9.3.3. Hủy kết nối**
+**1.9.3.3. Bổ sung phiếu xuất cho đơn hàng**
+
+Bổ sung phiếu xuất cho đơn hàng từ sàn thương mại điện từ giúp người dùng quản lý tồn kho sản phẩm.
+
+*Người dùng được phép bổ sung phiếu xuất cho các đơn hàng ở trạng thái Đang xử lý, Đang đóng gói, Đang giao hàng, Đơn hoàn thành.* Trạng thái phiếu xuất được bổ sung không ảnh hưởng tới trạng thái đơn hàng. Trạng thái đơn hàng chỉ phụ thuộc trạng thái đơn trên sàn thương mại điện tử.
+
+***Để bổ sung phiếu xuất cho đơn hàng, người dùng cần đồng bộ tất cả sản phẩm của đơn với hệ thống sau đó làm theo hướng dẫn sau:***
+
+**Bước 1:**  Người dùng truy cập vào danh sách đơn hàng, chọn tab E-Commerce. Chọn xem chi tiết 1 đơn hàng có trạng thái thuộc danh sách sau: Đang xử lý, Đang đóng gói, Đang giao hàng, Đơn hoàn thành.
+
+![https://prnt.sc/z6FfXTiLB4Z6](https://chatbizfly.mediacdn.vn/2023/04/21/1682047743/phuongmeu/img_17png1682047743.png)
+
+Hiển thị giao diện chi tiết đơn hàng
+
+![https://prnt.sc/xF7ANQGmJsJA](https://chatbizfly.mediacdn.vn/2023/04/21/1682047758/phuongmeu/img_18png1682047758.png)
+
+**Bước 2:** Người dùng click button 'Bổ sung phiếu xuất' -> Hệ thống hiển thị giao diện chọn kho xuất
+
+![https://prnt.sc/c7MZqBsYEIMe](https://chatbizfly.mediacdn.vn/2023/04/21/1682047772/phuongmeu/img_19png1682047772.png)
+
+**Bước 3:** Người dùng chọn kho xuất và click 'Tạo phiếu xuất
+
+![https://prnt.sc/pjpzwUEOvYr7](https://chatbizfly.mediacdn.vn/2023/04/21/1682047783/phuongmeu/img_20png1682047783.png)
+
+Hệ thống thông báo tạo thành công phiếu xuất, hiển thị chi tiết phiếu xuất ở trạng thái Chờ xuất kho
+
+![https://prnt.sc/25GJNLvief8Q](https://chatbizfly.mediacdn.vn/2023/04/21/1682047798/phuongmeu/img_21png1682047798.png)
+
+Sau khi tạo phiếu xuất thành công. số lượng khả dụng của sản phẩm trong kho giảm đồng thời số lượng chờ xuất tăng
+
+**Bước 4:** 
+
+* Người dùng click button 'Xuất kho'  -> Phiếu xuất chuyển sang trạng thái Đã xuất kho. Hệ thống cập nhật lại Tồn kho sản phẩm: số lượng chờ xuất giảm
+* 
+![https://prnt.sc/W-TvaG9122oG](https://chatbizfly.mediacdn.vn/2023/04/21/1682047819/phuongmeu/img_22png1682047819.png)
+
+* Người dùng click button 'Hủy phiếu' -> Phiếu xuất chuyển sang trạng thái Đã hủy. Hệ thống cập nhật lại tồn kho sản phẩm: số lượng khả dụng tăng, số lượng chờ xuất giảm
+
+![https://prnt.sc/XJYq_hmPo8Z5](https://chatbizfly.mediacdn.vn/2023/04/21/1682047832/phuongmeu/img_23png1682047832.png)
+
+**1.9.3.4 Hủy kết nối**
 
 Để hủy kết nối , người dùng click vào icon Hủy kết nối ứng với tài khoản nhà bán hàng muốn hủy
 

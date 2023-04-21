@@ -1,4 +1,4 @@
-**1.9.3. Đồng bộ Tiktok****
+**1.9.3. Đồng bộ Tiktok**
 
 **1.9.3.1. Kết nối với tài khoản nhà bán hàng**
 
