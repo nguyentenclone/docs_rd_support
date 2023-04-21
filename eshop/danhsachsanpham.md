@@ -1,4 +1,5 @@
 
+
 **2.3.2	Danh sách sản phẩm**
 
 Hiển thị tất cả sản phẩm của hệ thống bao gồm các thông tin: mã sku, giá bán, số lượng tồn kho, danh mục của sản phẩm
@@ -45,10 +46,18 @@ Hiển thị tất cả sản phẩm của hệ thống bao gồm các thông ti
 ![enter image description here](https://static8.muarecdn.com/original/muare/images/2021/03/23/5890094_63.png)
 
 **Note:**
-Sản phẩm còn số lượng trong kho sẽ ko cho xóa
+
+ - Sản phẩm còn số lượng trong kho sẽ không cho xóa
 
 ![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/21/1682046236/loyalty/img_Screenshot40png1682046236.png)
  
+
+ - Sản phẩm đã thực hiện liên kết với sản phẩm từ sàn thương mại điện tử sẽ không cho xóa
+ 
+ 
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/04/21/1682047412/loyalty/img_Screenshot42png1682047412.png)
+
+
 + **Nhân bản sản phẩm**
 
   Nhân bản sản phẩm mục đích  nhằm sao chép nhanh dữ liệu sản phẩm đã có để thêm mới 
