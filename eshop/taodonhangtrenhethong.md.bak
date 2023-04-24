@@ -51,7 +51,7 @@ Sản phẩm đủ điều kiện và được  áp dụng các chương trình 
 1. Đồng giá 200.000 VNĐ
 2. Đồng giá 150.000 VNĐ
 3. Giảm giá 10%
-4. Giảm gái 20.000 VNĐ
+4. Giảm gía 20.000 VNĐ
 5. Tặng 1 sản phẩm Y
 6. Tặng 2 sản phẩm Y và 1 sản phẩm Z
 

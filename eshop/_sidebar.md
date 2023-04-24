@@ -71,7 +71,10 @@
 	     - [3.1.2 Tạo mới đơn hàng trên website](eshop/taodontrenwebsite.md)
 		 - [3.1.3 Tạo đơn hàng trên facebook](eshop/taodonhangquamess.md)
 		 - [3.1.4 Tạo đơn hàng trên chatbot](eshop/taodonhangchatbot.md)
-	[**3.2 Danh sách đơn hàng**](eshop/danhsachdonhang.md)
+	-   **3.2 Xử lý đơn hàng**
+		-  [3.2.1 Xử lý từng đơn hàng](eshop/xulytungdonhang.md)
+		-  [3.2.2 Xử lý hàng loạt đơn hàng](eshop/xulyhangloatdonhang.md)
+	[**3.3 Danh sách đơn hàng**](eshop/danhsachdonhang.md)
 - **IV Khách hàng**
     [**4.1 Danh sách khách hàng**](eshop/danhsachkhachhang.md)  
 - **V Chiến dịch khuyến mại**           

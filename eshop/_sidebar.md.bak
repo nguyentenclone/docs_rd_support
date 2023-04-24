@@ -55,7 +55,7 @@
     -	**2.5 Xuất kho**
 	     - [2.5.1 Tạo mới phiếu xuất](eshop/taophieuxuat.md)
 		 -	[2.5.2 Xử lý phiếu xuất](eshop/xulyphieuxuat.md)
-		 - [2.5.2.1 Xử lý từng phiếu xuất]
+		 - [2.5.2.1 Xử lý từng phiếu xuất](eshop/xulytungphieuxuat.md)
 		 - [2.5.2.2 Xử lý phiếu xuất hàng loạt](eshop/xulyhangloatphieuxuat.md)
 		 - [2.5.3 Danh sách phiếu xuất](eshop/danhsachphieuxuat.md)
 		-

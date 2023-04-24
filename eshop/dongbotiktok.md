@@ -44,6 +44,12 @@ Sau khi kết nối thành công, để kéo thông tin đơn hàng từ sàn th
 **Đồng bộ sản phẩm**:
 
 Sau khi đồng bộ đơn hàng thành công, người dùng có thể đồng bộ thông tin sản phẩm về hệ thống. 
+Người dùng có thể đồng bộ từng sản phẩm hoặc đồng bộ hàng loạt sản phẩm
+
+**Cách 1: Đồng bộ hàng loạt sản phẩm** 
+
+Người dùng vào Danh sách sản phẩm và làm theo hướng dẫn sau: [đồng bộ hàng loạt sản phẩm từ sàn TMĐT](https://chat.bizfly.vn/guides/#/eshop/danhsachsanpham)
+**Cách 2: Đồng bộ từng sản phẩm**
 
 **Bước 1:** Người dùng vào danh sách đơn hàng -> Chọn xem chi tiết 1 đơn nguồn đặt từ  TikTok
 
