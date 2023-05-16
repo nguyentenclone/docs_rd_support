@@ -51,6 +51,8 @@ Hệ thống hiển thị popup confirm
 Bước 2: Người dùng click button ‘Xóa’
 
 ![https://prnt.sc/4vCQ4_6rQYM8](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842073226462f6da82429_10png.png)
+
+
 Hệ thống thông báo xóa danh sách thành công
 
 ![https://prnt.sc/Hlf6FVoQHfrV](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842073386462f6ea1e206_11png.png)

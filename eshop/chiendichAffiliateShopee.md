@@ -31,7 +31,7 @@ Có 3 cách thêm đối tác vào chiến dịch
 
 ![https://prnt.sc/TMKQONfSEqaM](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/168422541864633d8a9d5f5_2png.png)
 
-- Chọn đối tác theo danh sách: Hệ thống hiển thị những danh sách có đối tác. Người dùng có thể gán đối tác vào danh sách theo hướng dẫn sau **Đang update**
+- Chọn đối tác theo danh sách: Hệ thống hiển thị những danh sách có đối tác. Người dùng có thể gán đối tác vào danh sách theo hướng dẫn sau: [Gán đối tác vào danh sách](https://chat.bizfly.vn/guides/#/eshop/doitacAffiliateShopee)
 
 - Chọn từng đối tác: Hệ thống  hiển thị những đối tác có trạng thái = “Hoạt động”
 
@@ -119,4 +119,4 @@ Người dùng có thể xem báo cáo từng chiến dịch:
 Người dùng có thể xuất excel danh sách đối tác tham gia chiến dịch
 
 ![https://prnt.sc/tuymEW6aC_Jq](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/168422587164633f4f0e2da_3png.png)
-Hệ thống cho phép xuất excel danh sách checkout của chiến dịch
+Ngày checkout: ngày khách hàng đặt hàng thành công qua link Affliate.

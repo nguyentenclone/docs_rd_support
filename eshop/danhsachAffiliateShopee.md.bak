@@ -1,6 +1,6 @@
-**1.2. Danh sách**
+**8.1.2 Danh sách**
 
-**1.2. 1 Thêm danh sách mới**
+**a. Thêm danh sách mới**
 
 **Bước 1**: Tại giao diện danh sách đối tác: người dùng click button ‘Tất cả danh sách’
 
@@ -24,7 +24,7 @@ Hệ thống thông báo thêm danh sách mới thành công. Danh sách mới v
 
 ![https://prnt.sc/vqP_wh4oE40I](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842069586462f56ecf1f4_5png.png)
 
-**1.2.2 Chỉnh sửa thông tin danh sách**
+**b. Chỉnh sửa thông tin danh sách**
 
 **Bước 1:** Tại giao diện Tất cả danh sách: người dùng click icon ... > Chọn button ‘Chỉnh sửa’
 
@@ -40,7 +40,7 @@ Hệ thống thông báo cập nhật thành công thông tin danh sách
 
 ![https://prnt.sc/yq4tldrWe8Ii](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842072606462f69cd08ad_8png.png)
 
-**1.2.3 Xóa danh sách**
+**c. Xóa danh sách**
 
 **Bước 1:** Tại giao diện Tất cả danh sách: người dùng click icon ... > Chọn button ‘Xóa’
 
@@ -51,11 +51,12 @@ Hệ thống hiển thị popup confirm
 Bước 2: Người dùng click button ‘Xóa’
 
 ![https://prnt.sc/4vCQ4_6rQYM8](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842073226462f6da82429_10png.png)
+
 Hệ thống thông báo xóa danh sách thành công
 
 ![https://prnt.sc/Hlf6FVoQHfrV](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842073386462f6ea1e206_11png.png)
 
-**1.2.4 Xem chi tiết danh sách**
+**d. Xem chi tiết danh sách**
 
 Cho phép người dùng xem các đối tác thuộc danh sách. Người dùng có thể xem trạng thái hoạt động của đối tác, xem số lượng chiến dịch đã tham gia, tổng số checkout, tổng doanh thu của đối tác
 
@@ -75,7 +76,7 @@ Người dùng có thể xem số liệu thống kê theo từng đối tác b�
 
 ![https://prnt.sc/QrAQwYsdC8Te](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842073996462f72792922_15png.png)
 
-**1.2.5 Tất cả danh sách**
+**e. Tất cả danh sách**
 
 Người dùng có thể xem tất cả danh sách của hệ thống: tên danh sách, nhãn danh sách, số đối tác thuộc danh sách, ngày tạo, ghi chú
 

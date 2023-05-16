@@ -86,7 +86,7 @@ Hiển thị popup gán váo danh sách
 
 **Bước 2**: Chọn danh sách muốn gán -> Click Xác nhận
 
-Để tạo danh sách, người dùng làm theo hướng dẫn sau              **ĐANG UPDATE**
+Để tạo danh sách, người dùng làm theo hướng dẫn sau: [Thêm mới danh sách](https://chat.bizfly.vn/guides/#/eshop/danhsachAffiliateShopee)
 
 ![https://prnt.sc/bbd6TNhFGH5M](https://chatbizfly.mediacdn.vn/2023/05/16/phuongmeu/img/16842065096462f3ad23f5c_10png.png)
 
