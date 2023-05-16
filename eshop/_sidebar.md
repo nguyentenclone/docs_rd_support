@@ -96,10 +96,16 @@
 	     - [6.2.4 Doanh thu theo đơn hàng](eshop/doanhthudonhang.md)
 	     - [6.2.5 Doanh thu theo khách hàng](eshop/doanhthukhachhang.md)	
          - [6.2.6 Doanh thu theo nhân viên](eshop/doanhthunhanvien.md)		 
-- **VII Quản lý Affiliate - Bizfly**
+- **VII Affiliate - Bizfly**
 	[**7.1 Quản lý đối tác**](eshop/quanlydoitac.md)
 	[**7.2 Chiến dịch**](eshop/chiendich.md)
 	[**7.3 Báo cáo**](eshop/baocaoaffiliate.md)		
+-**VIII Affiliate - Shopee**
+-	**8.1 Đối tác**
+	-	[**8.1.1 Đối tác**](eshop/doitacAffiliateShopee.md)
+	-	[**8.1.2 Danh sách**](eshop/danhsachAffiliateShopee.md)
+-	[**8.2 Chiến dịch**](eshop/chiendichAffiliateShopee.md)
+-	[**8.3 Báo cáo**](eshop/baocaoAffiliateShopee.md)
      	
       
      
