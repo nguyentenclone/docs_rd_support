@@ -8,18 +8,19 @@ Webform là nút tạo nhanh, phục vụ cho quá trình khai thác thông tin,
 
 **Bước 2**: Chọn Form hỏi đáp từ phần Hành động sau click 
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/10/5628713_20.png)
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/05/22/chatbot/img/1684753036646b4a8c13426_wf1jpg.jpg)
 
 **Bước 3**: Chọn Thêm mới hoặc chọn sẵn form
 
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/10/5628714_21.png)
+![enter image description here](https://ttps://chatbizfly.mediacdn.vn/2023/05/22/chatbot/img/1684753150646b4afe1ced3_wf2jpg.jpg)
 
 Với những trường hợp sử dụng lần đầu, sẽ chưa có form nào được tạo trước đó nên khi chọn vào Chọn sẵn form sẽ không có gì.
 
 **Bước 4**: Thêm mới form hỏi đáp
 
 - Nhập tiêu đề cho form và phần mô tả chung, những nội dung thiết lập sẽ được hiển thị ở phần preview bên phải.
-![enter image description here](https://static8.muarecdn.com/original/muare/images/2020/06/10/5628727_22.png)
+
+![enter image description here](https://chatbizfly.mediacdn.vn/2023/05/22/chatbot/img/1684753275646b4b7bf0623_wf3jpg.jpg)
 
 - Thêm nội dung cho form, cụ thể là các câu hỏi bạn đang muốn khảo sát ý kiến của khách hàng.
 
