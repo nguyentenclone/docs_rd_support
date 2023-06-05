@@ -8,6 +8,7 @@
 		- [**2.4 Tạo và kết nối bot Telegram**](Update/taobottele.md)
 		- [**2.5 Tạo và kết nối bot Lazada**](Update/taobotlazada.md)
 		- [**2.6 Tạo và kết nối bot Instagram**](Update/taobotinstagram.md)
+		- [**2.7 Tạo và kết nối bot Google Bussiness**](Update/taobotggbusiness.md)
 	- [**3. Quản lý kịch bản**](Update/quanlykichban.md)
 	- [**4. Sử dụng menu chính**](Update/sudungmenuchinh.md)
 - [**III. Thiết lập bài viết phiên bản mới**](Update/Thietlapbaivietnew.md)
