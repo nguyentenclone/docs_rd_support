@@ -75,6 +75,6 @@ Các thao tác đánh dấu hội thoại bao gồm:
 
 - Đánh dấu là seeding: Hệ thống sẽ chặn tất cả những tin nhắn đến từ khách hàng này(chỉ có quản trị viên mới thực hiện được thao tác này).
 
-- Xóa hội thoại: Hệ thống sẽ xóa hội thoại và khách hàng này, đồng thời khôi phục lại quota vào gói chat.
+- Xóa hội thoại: Hệ thống sẽ xóa hội thoại, hội thoại sau khi xóa sẽ được chuyển vào mục Đã xóa trên bộ lọc nhanh 
 
 
