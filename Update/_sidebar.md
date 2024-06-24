@@ -13,7 +13,7 @@
 	- [**4. Sử dụng menu chính**](Update/sudungmenuchinh.md)
 - [**III. Thiết lập bài viết phiên bản mới**](Update/Thietlapbaivietnew.md)
 - [**IV. Danh sách khách hàng**](Update/danhsachKH.md)
-- [**V. Bảo trì giải pháp Bizchat 03/07 - 04/07/2024**](Update/bizchat 0307_04072024.md)
+- [**V. Bảo trì giải pháp Bizchat 03/07 - 04/07/2024**](Update/Bizchatbaotri.md)
 
  
  
